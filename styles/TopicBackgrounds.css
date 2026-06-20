@@ -1,0 +1,430 @@
+/* TopicBackgrounds.css */
+/* Topic-specific animated backgrounds for SynTopic */
+
+/* ============================================
+   BASE BACKGROUND CONTAINER
+   ============================================ */
+.topic-background {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  overflow: hidden;
+}
+
+.background-particles {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
+
+/* ============================================
+   DEFAULT: ANIMATED GRADIENT
+   Topics: geology, main page, any unlisted
+   ============================================ */
+.bg-gradient {
+  background: linear-gradient(-45deg, #667eea, #764ba2, #f093fb, #4facfe);
+  background-size: 400% 400%;
+  animation: gradientShift 15s ease infinite;
+}
+
+@keyframes gradientShift {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+/* ============================================
+   STARFIELD
+   Topics: astronomy
+   ============================================ */
+.bg-stars {
+  background: linear-gradient(135deg, #0c1445 0%, #302b63 50%, #24243e 100%);
+}
+
+.star {
+  position: absolute;
+  background: white;
+  border-radius: 50%;
+  animation: twinkle ease-in-out infinite;
+}
+
+@keyframes twinkle {
+  0%, 100% { opacity: 0.3; transform: scale(1); }
+  50% { opacity: 1; transform: scale(1.2); }
+}
+
+.shooting-star {
+  position: absolute;
+  width: 4px;
+  height: 4px;
+  background: white;
+  border-radius: 50%;
+  box-shadow: 0 0 6px 2px rgba(255,255,255,0.6);
+  animation: shoot 3s ease-in-out infinite;
+  opacity: 0;
+}
+
+@keyframes shoot {
+  0% { transform: translateX(0) translateY(0); opacity: 0; }
+  10% { opacity: 1; }
+  100% { transform: translateX(-500px) translateY(300px); opacity: 0; }
+}
+
+/* ============================================
+   AURORA / NORTHERN LIGHTS
+   Topics: space-exploration
+   ============================================ */
+.bg-aurora {
+  background: linear-gradient(180deg, #0f0c29 0%, #302b63 50%, #24243e 100%);
+}
+
+.aurora-wave {
+  position: absolute;
+  top: 10%;
+  left: -50%;
+  width: 200%;
+  height: 40%;
+  background: linear-gradient(180deg, 
+    transparent 0%,
+    rgba(127, 255, 212, 0.1) 20%,
+    rgba(127, 255, 212, 0.3) 40%,
+    rgba(100, 200, 255, 0.2) 60%,
+    rgba(150, 100, 255, 0.1) 80%,
+    transparent 100%
+  );
+  filter: blur(30px);
+  animation: auroraDance 8s ease-in-out infinite;
+}
+
+.aurora-wave:nth-child(2) {
+  top: 20%;
+  animation-delay: -2s;
+  animation-duration: 10s;
+  background: linear-gradient(180deg, 
+    transparent 0%,
+    rgba(100, 255, 150, 0.1) 20%,
+    rgba(100, 255, 200, 0.2) 50%,
+    rgba(150, 200, 255, 0.1) 80%,
+    transparent 100%
+  );
+}
+
+.aurora-wave:nth-child(3) {
+  top: 5%;
+  animation-delay: -4s;
+  animation-duration: 12s;
+  background: linear-gradient(180deg, 
+    transparent 0%,
+    rgba(200, 100, 255, 0.1) 30%,
+    rgba(100, 200, 255, 0.2) 50%,
+    rgba(100, 255, 200, 0.1) 70%,
+    transparent 100%
+  );
+}
+
+@keyframes auroraDance {
+  0%, 100% {
+    transform: translateX(0) skewX(0deg);
+    opacity: 0.6;
+  }
+  25% {
+    transform: translateX(5%) skewX(2deg);
+    opacity: 0.8;
+  }
+  50% {
+    transform: translateX(-3%) skewX(-1deg);
+    opacity: 0.5;
+  }
+  75% {
+    transform: translateX(3%) skewX(1deg);
+    opacity: 0.9;
+  }
+}
+
+.aurora-star {
+  position: absolute;
+  background: white;
+  border-radius: 50%;
+  animation: twinkle ease-in-out infinite;
+}
+
+/* ============================================
+   SUNSET MEADOW
+   Topics: nature, camping
+   ============================================ */
+.bg-sunset {
+  background: linear-gradient(180deg, #ff7e5f 0%, #feb47b 40%, #ffecd2 70%, #90EE90 100%);
+}
+
+.sun {
+  position: absolute;
+  top: 12%;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 80px;
+  height: 80px;
+  background: radial-gradient(circle, #fff9c4 0%, #ffeb3b 50%, #ff9800 100%);
+  border-radius: 50%;
+  box-shadow: 0 0 60px 20px rgba(255, 235, 59, 0.5);
+  animation: sunPulse 4s ease-in-out infinite;
+}
+
+@keyframes sunPulse {
+  0%, 100% { box-shadow: 0 0 60px 20px rgba(255, 235, 59, 0.5); }
+  50% { box-shadow: 0 0 80px 30px rgba(255, 235, 59, 0.7); }
+}
+
+.grass-blade {
+  position: absolute;
+  bottom: 0;
+  width: 4px;
+  background: linear-gradient(180deg, #228B22, #006400);
+  border-radius: 50% 50% 0 0;
+  transform-origin: bottom center;
+  animation: grassSway ease-in-out infinite;
+}
+
+@keyframes grassSway {
+  0%, 100% { transform: rotate(-5deg); }
+  50% { transform: rotate(5deg); }
+}
+
+/* ============================================
+   FOREST SILHOUETTE
+   Topics: wilderness-survival
+   ============================================ */
+.bg-forest {
+  background: linear-gradient(180deg, #ffecd2 0%, #fcb69f 30%, #228B22 100%);
+}
+
+.tree-layer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 200%;
+  height: 100%;
+  background-repeat: repeat-x;
+  background-position: bottom;
+  background-size: auto 100%;
+}
+
+.tree-layer-1 {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 10,30 20,100' fill='%23145214'/%3E%3Cpolygon points='20,100 35,20 50,100' fill='%231a5c1a'/%3E%3Cpolygon points='45,100 60,25 75,100' fill='%23145214'/%3E%3Cpolygon points='70,100 85,35 100,100' fill='%231a5c1a'/%3E%3C/svg%3E");
+  height: 250px;
+  opacity: 1;
+  animation: treeSway 8s ease-in-out infinite;
+}
+
+.tree-layer-2 {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 80' preserveAspectRatio='none'%3E%3Cpolygon points='5,80 20,20 35,80' fill='%230d3d0d'/%3E%3Cpolygon points='30,80 50,10 70,80' fill='%23104510'/%3E%3Cpolygon points='60,80 80,25 100,80' fill='%230d3d0d'/%3E%3C/svg%3E");
+  height: 180px;
+  opacity: 0.8;
+  animation: treeSway 10s ease-in-out infinite reverse;
+}
+
+@keyframes treeSway {
+  0%, 100% { transform: translateX(0); }
+  50% { transform: translateX(-2%); }
+}
+
+/* ============================================
+   GENTLE RAIN
+   Topics: emergency-preparedness
+   ============================================ */
+.bg-rain {
+  background: linear-gradient(180deg, #636e72 0%, #b2bec3 100%);
+}
+
+.raindrop {
+  position: absolute;
+  top: -20px;
+  width: 2px;
+  height: 15px;
+  background: linear-gradient(180deg, transparent, rgba(255,255,255,0.6));
+  animation: rainFall linear infinite;
+}
+
+@keyframes rainFall {
+  0% {
+    transform: translateY(0);
+    opacity: 0;
+  }
+  10% {
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(120vh);
+    opacity: 0.3;
+  }
+}
+
+/* ============================================
+   FALLING LEAVES
+   Topics: environmental-science
+   ============================================ */
+.bg-leaves {
+  background: linear-gradient(180deg, #87CEEB 0%, #98FB98 50%, #228B22 100%);
+}
+
+.leaf {
+  position: absolute;
+  top: -50px;
+  font-size: 24px;
+  animation: leafFall linear infinite;
+  opacity: 0.8;
+}
+
+@keyframes leafFall {
+  0% {
+    transform: translateY(0) rotate(0deg) translateX(0);
+    opacity: 0.9;
+  }
+  25% {
+    transform: translateY(25vh) rotate(90deg) translateX(30px);
+  }
+  50% {
+    transform: translateY(50vh) rotate(180deg) translateX(-20px);
+  }
+  75% {
+    transform: translateY(75vh) rotate(270deg) translateX(25px);
+  }
+  100% {
+    transform: translateY(120vh) rotate(360deg) translateX(-10px);
+    opacity: 0.3;
+  }
+}
+
+/* ============================================
+   DRIFTING CLOUDS
+   Topics: weather
+   ============================================ */
+.bg-clouds {
+  background: linear-gradient(180deg, #74b9ff 0%, #a29bfe 100%);
+}
+
+.cloud {
+  position: absolute;
+  background: rgba(255, 255, 255, 0.9);
+  border-radius: 50%;
+  animation: cloudDrift linear infinite;
+  filter: blur(1px);
+}
+
+.cloud::before {
+  content: '';
+  position: absolute;
+  background: rgba(255, 255, 255, 0.9);
+  border-radius: 50%;
+  width: 70%;
+  height: 70%;
+  top: -30%;
+  left: 15%;
+}
+
+.cloud::after {
+  content: '';
+  position: absolute;
+  background: rgba(255, 255, 255, 0.9);
+  border-radius: 50%;
+  width: 50%;
+  height: 50%;
+  top: -20%;
+  left: 50%;
+}
+
+@keyframes cloudDrift {
+  0% { transform: translateX(-200px); }
+  100% { transform: translateX(calc(100vw + 200px)); }
+}
+
+/* ============================================
+   FIREFLIES AT DUSK
+   Topics: indian-lore, first-aid
+   ============================================ */
+.bg-fireflies {
+  background: linear-gradient(180deg, #1a1a2e 0%, #16213e 30%, #1f4037 70%, #99f2c8 100%);
+}
+
+.firefly {
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  background: #ffff99;
+  border-radius: 50%;
+  box-shadow: 0 0 10px 3px rgba(255, 255, 150, 0.8),
+              0 0 20px 6px rgba(255, 255, 150, 0.4);
+  animation: fireflyFloat ease-in-out infinite, fireflyGlow ease-in-out infinite;
+}
+
+@keyframes fireflyFloat {
+  0%, 100% {
+    transform: translate(0, 0);
+  }
+  25% {
+    transform: translate(30px, -20px);
+  }
+  50% {
+    transform: translate(-20px, -40px);
+  }
+  75% {
+    transform: translate(40px, -10px);
+  }
+}
+
+@keyframes fireflyGlow {
+  0%, 100% { opacity: 0.2; }
+  50% { opacity: 1; }
+}
+
+/* ============================================
+   GEOMETRIC SHAPES
+   Topics: personal-management, personal-safety
+   ============================================ */
+.bg-geometric {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.shape {
+  position: absolute;
+  opacity: 0.15;
+  animation: shapeFloat ease-in-out infinite;
+}
+
+.shape.circle {
+  border-radius: 50%;
+  border: 4px solid white;
+}
+
+.shape.square {
+  border: 4px solid white;
+  transform: rotate(45deg);
+}
+
+.shape.triangle {
+  width: 0 !important;
+  height: 0 !important;
+  border-left: 30px solid transparent;
+  border-right: 30px solid transparent;
+  border-bottom: 52px solid rgba(255,255,255,0.3);
+  background: none !important;
+}
+
+@keyframes shapeFloat {
+  0%, 100% { transform: translateY(0) rotate(0deg); }
+  50% { transform: translateY(-30px) rotate(180deg); }
+}
+
+.shape.square {
+  animation: shapeFloatSquare ease-in-out infinite;
+}
+
+@keyframes shapeFloatSquare {
+  0%, 100% { transform: translateY(0) rotate(45deg); }
+  50% { transform: translateY(-30px) rotate(225deg); }
+}

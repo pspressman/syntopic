@@ -969,10 +969,21 @@ const MultiStageGrammarGame = ({ questionsData, topicId = 'geology' }) => {
     }
   };
   
+  // Punctuation tiles are optional: a fronted subordinate clause needs the
+  // comma, the same clause trailing does not. Content tiles stay mandatory.
+  const PUNCTUATION_TILE = /^[.,!?;:]$/;
+
+  // Tiles the user left in the tray
+  const unplacedTiles = () =>
+    selectedTiles.filter((tile, index) => !slots.includes(index));
+
   // Check if current tile arrangement matches any valid order
   const checkArrangement = () => {
     const suffix = tileMode === 'beginner' ? '_beginner' : '';
-    const userOrder = slots.map(tileIndex => selectedTiles[tileIndex]).join(',');
+    const userOrder = slots
+      .filter(tileIndex => tileIndex !== null)
+      .map(tileIndex => selectedTiles[tileIndex])
+      .join(',');
     
     for (let i = 1; i <= 20; i++) {
       const orderKey = `order_${currentQuestionForm.toLowerCase()}${suffix}_${i}`;
@@ -985,14 +996,17 @@ const MultiStageGrammarGame = ({ questionsData, topicId = 'geology' }) => {
   };
   
   const handleStage2Submit = () => {
-    if (slots.includes(null)) {
+    if (unplacedTiles().some(tile => !PUNCTUATION_TILE.test(tile))) {
       setFeedback('Please fill all the slots! 📝');
       setTimeout(() => setFeedback(''), 1500);
       return;
     }
     
     const result = checkArrangement();
-    const userOrder = slots.map(tileIndex => selectedTiles[tileIndex]).join(',');
+    const userOrder = slots
+      .filter(tileIndex => tileIndex !== null)
+      .map(tileIndex => selectedTiles[tileIndex])
+      .join(',');
     
     if (result.isCorrect) {
       initSound();

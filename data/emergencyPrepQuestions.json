@@ -282,7 +282,11 @@
     "order_subordinate_1": "before,emergencies,occur,,,take,protection,steps,to,reduce,harm,.",
     "order_subordinate_beginner_2": "take protection steps,to reduce harm,before,emergencies occur,.",
     "order_subordinate_2": "take,protection,steps,to,reduce,harm,before,emergencies,occur,.",
-    "order_passive_beginner_2": "by protection measures,taken beforehand,harm,is reduced,."
+    "order_passive_beginner_2": "by protection measures,taken beforehand,harm,is reduced,.",
+    "order_subordinate_beginner_3": "take protection steps,before,emergencies occur,to reduce harm,.",
+    "order_subordinate_3": "take,protection,steps,before,emergencies,occur,to,reduce,harm,.",
+    "order_subordinate_beginner_4": "to reduce harm,,,take protection steps,before,emergencies occur,.",
+    "order_subordinate_4": "to,reduce,harm,,,take,protection,steps,before,emergencies,occur,."
   },
   {
     "id": "emergency-prep-4",
@@ -1164,7 +1168,11 @@
     "order_passive_1": "victims,are,evacuated,to,fresh,air,during,co,emergencies,.",
     "order_subordinate_1": "if,co,poisoning,is,suspected,,,evacuate,to,fresh,air,immediately,.",
     "order_subordinate_beginner_2": "evacuate to fresh air,immediately,if,co poisoning is suspected,.",
-    "order_subordinate_2": "evacuate,to,fresh,air,immediately,if,co,poisoning,is,suspected,."
+    "order_subordinate_2": "evacuate,to,fresh,air,immediately,if,co,poisoning,is,suspected,.",
+    "order_subordinate_beginner_3": "if,co poisoning is suspected,,,immediately,evacuate to fresh air,.",
+    "order_subordinate_3": "if,co,poisoning,is,suspected,,,immediately,evacuate,to,fresh,air,.",
+    "order_subordinate_beginner_4": "immediately,evacuate to fresh air,if,co poisoning is suspected,.",
+    "order_subordinate_4": "immediately,evacuate,to,fresh,air,if,co,poisoning,is,suspected,."
   },
   {
     "id": "emergency-prep-13",

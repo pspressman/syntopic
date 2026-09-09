@@ -5,7 +5,7 @@
     "text_segment": "Emergency preparedness has five aspects: prevention, protection, mitigation, response, and recovery. These come from FEMA, the Federal Emergency Management Agency. Using all five helps lessen damage from disasters.",
     "question": "List the five aspects of emergency preparedness.",
     "Active": "The five aspects include prevention, protection, mitigation, response, and recovery.",
-    "Progressive": "The five aspects are including prevention, protection, and response.",
+    "Progressive": "Emergency planners are following the five aspects.",
     "Passive": "Prevention, protection, mitigation, response, and recovery are included as aspects.",
     "Subordinate": "When preparing for emergencies, follow the five FEMA aspects.",
     "tiles_active": [
@@ -16,10 +16,9 @@
       "."
     ],
     "tiles_progressive": [
+      "emergency planners",
+      "are following",
       "the five aspects",
-      "are including",
-      "prevention, protection,",
-      "and response",
       "."
     ],
     "tiles_passive": [
@@ -51,15 +50,13 @@
       "."
     ],
     "tiles_progressive_advanced": [
+      "emergency",
+      "planners",
+      "are",
+      "following",
       "the",
       "five",
       "aspects",
-      "are",
-      "including",
-      "prevention",
-      "protection",
-      "and",
-      "response",
       "."
     ],
     "tiles_passive_advanced": [
@@ -89,15 +86,15 @@
       "."
     ],
     "order_active_beginner_1": "the five aspects,include prevention,,protection, mitigation,,response, and recovery,.",
-    "order_progressive_beginner_1": "the five aspects,are including,prevention, protection,,and response,.",
     "order_passive_beginner_1": "prevention, protection,,mitigation, response,,and recovery,are included as aspects,.",
     "order_subordinate_beginner_1": "when,preparing for emergencies,,,follow,the five fema aspects,.",
     "order_active_1": "the,five,aspects,include,prevention,protection,mitigation,response,and,recovery,.",
-    "order_progressive_1": "the,five,aspects,are,including,prevention,protection,and,response,.",
     "order_passive_1": "prevention,protection,mitigation,response,and,recovery,are,included,as,aspects,.",
     "order_subordinate_1": "when,preparing,for,emergencies,,,follow,the,five,fema,aspects,.",
     "order_subordinate_beginner_2": "follow,the five fema aspects,when,preparing for emergencies,.",
-    "order_subordinate_2": "follow,the,five,fema,aspects,when,preparing,for,emergencies,."
+    "order_subordinate_2": "follow,the,five,fema,aspects,when,preparing,for,emergencies,.",
+    "order_progressive_beginner_1": "emergency planners,are following,the five aspects,.",
+    "order_progressive_1": "emergency,planners,are,following,the,five,aspects,."
   },
   {
     "id": "emergency-prep-2",
@@ -383,7 +380,7 @@
     "text_segment": "Response means taking action during an emergency. First assess the situation, then prevent further damage and injuries. Firefighters and safety teams are examples of emergency responders.",
     "question": "Explain what response means in emergency preparedness.",
     "Active": "Response means taking action during an emergency.",
-    "Progressive": "Response is meaning taking action during emergencies.",
+    "Progressive": "Responders are taking action during emergencies.",
     "Passive": "Action during emergencies is taken as a response.",
     "Subordinate": "When an emergency occurs, respond by assessing and taking action.",
     "tiles_active": [
@@ -394,9 +391,8 @@
       "."
     ],
     "tiles_progressive": [
-      "response",
-      "is meaning",
-      "taking action",
+      "responders",
+      "are taking action",
       "during emergencies",
       "."
     ],
@@ -426,9 +422,8 @@
       "."
     ],
     "tiles_progressive_advanced": [
-      "response",
-      "is",
-      "meaning",
+      "responders",
+      "are",
       "taking",
       "action",
       "during",
@@ -461,17 +456,16 @@
       "."
     ],
     "order_active_beginner_1": "response,means taking action,during an,emergency,.",
-    "order_progressive_beginner_1": "response,is meaning,taking action,during emergencies,.",
     "order_passive_beginner_1": "action,during emergencies,is taken,as a response,.",
     "order_subordinate_beginner_1": "when,an emergency occurs,,,respond by,assessing and taking action,.",
     "order_active_1": "response,means,taking,action,during,an,emergency,.",
-    "order_progressive_1": "response,is,meaning,taking,action,during,emergencies,.",
     "order_passive_1": "action,during,emergencies,is,taken,as,a,response,.",
     "order_subordinate_1": "when,an,emergency,occurs,,,respond,by,assessing,and,taking,action,.",
     "order_subordinate_beginner_2": "respond by,assessing and taking action,when,an emergency occurs,.",
     "order_subordinate_2": "respond,by,assessing,and,taking,action,when,an,emergency,occurs,.",
     "order_active_beginner_2": "during an,emergency,response,means taking action,.",
-    "order_progressive_beginner_2": "during emergencies,response,is meaning,taking action,."
+    "order_progressive_beginner_1": "responders,are taking action,during emergencies,.",
+    "order_progressive_1": "responders,are,taking,action,during,emergencies,."
   },
   {
     "id": "emergency-prep-6",
@@ -653,20 +647,18 @@
       "911",
       "."
     ],
-    "order_active_beginner_1": "fire extinguishers,put out,small kitchen fires,safely,.",
     "order_progressive_beginner_1": "fire extinguishers,are putting out,small kitchen,fires,.",
     "order_passive_beginner_1": "small kitchen fires,are put out,by fire,extinguishers,.",
     "order_subordinate_beginner_1": "if,a fire starts,,,use a fire extinguisher,or call 911,.",
-    "order_active_1": "fire,extinguishers,put,out,small,kitchen,fires,safely,.",
     "order_progressive_1": "fire,extinguishers,are,putting,out,small,kitchen,fires,.",
     "order_passive_1": "small,kitchen,fires,are,put,out,by,fire,extinguishers,.",
     "order_subordinate_1": "if,a,fire,starts,,,use,a,fire,extinguisher,or,call,911,.",
     "order_subordinate_beginner_2": "use a fire extinguisher,or call 911,if,a fire starts,.",
     "order_subordinate_2": "use,a,fire,extinguisher,or,call,911,if,a,fire,starts,.",
-    "order_active_beginner_2": "safely,fire extinguishers,put out,small kitchen fires,.",
-    "order_active_2": "safely,fire,extinguishers,put,out,small,kitchen,fires,.",
     "order_passive_beginner_2": "by fire,extinguishers,small kitchen fires,are put out,.",
-    "order_passive_2": "by,fire,extinguishers,small,kitchen,fires,are,put,out,."
+    "order_passive_2": "by,fire,extinguishers,small,kitchen,fires,are,put,out,.",
+    "order_active_beginner_1": "fire extinguishers,put out,small kitchen fires,safely,.",
+    "order_active_1": "fire,extinguishers,put,out,small,kitchen,fires,safely,."
   },
   {
     "id": "emergency-prep-8",
@@ -959,18 +951,17 @@
       "911",
       "."
     ],
-    "order_active_beginner_1": "people,respond to gas leaks,by leaving immediately,and calling 911,.",
     "order_progressive_beginner_1": "people,are responding,to gas leaks,by evacuating,.",
     "order_passive_beginner_1": "gas leaks,are responded to,by leaving,and calling 911,.",
     "order_subordinate_beginner_1": "if,you smell gas,,,leave the building,and call 911,.",
-    "order_active_1": "people,respond,to,gas,leaks,by,leaving,immediately,and,calling,911,.",
     "order_progressive_1": "people,are,responding,to,gas,leaks,by,evacuating,.",
     "order_passive_1": "gas,leaks,are,responded,to,by,leaving,and,calling,911,.",
     "order_subordinate_1": "if,you,smell,gas,,,leave,the,building,and,call,911,.",
     "order_subordinate_beginner_2": "leave the building,and call 911,if,you smell gas,.",
     "order_subordinate_2": "leave,the,building,and,call,911,if,you,smell,gas,.",
-    "order_active_2": "immediately,people,respond,to,gas,leaks,by,leaving,and,calling,911,.",
-    "order_passive_beginner_2": "by leaving,and calling 911,gas leaks,are responded to,."
+    "order_passive_beginner_2": "by leaving,and calling 911,gas leaks,are responded to,.",
+    "order_active_beginner_1": "people,respond to gas leaks,by leaving immediately,and calling 911,.",
+    "order_active_1": "people,respond,to,gas,leaks,by,leaving,immediately,and,calling,911,."
   },
   {
     "id": "emergency-prep-11",
@@ -1172,7 +1163,9 @@
     "order_subordinate_beginner_3": "if,co poisoning is suspected,,,immediately,evacuate to fresh air,.",
     "order_subordinate_3": "if,co,poisoning,is,suspected,,,immediately,evacuate,to,fresh,air,.",
     "order_subordinate_beginner_4": "immediately,evacuate to fresh air,if,co poisoning is suspected,.",
-    "order_subordinate_4": "immediately,evacuate,to,fresh,air,if,co,poisoning,is,suspected,."
+    "order_subordinate_4": "immediately,evacuate,to,fresh,air,if,co,poisoning,is,suspected,.",
+    "order_passive_beginner_2": "during co emergencies,victims,are evacuated,to fresh air,.",
+    "order_passive_2": "during,co,emergencies,victims,are,evacuated,to,fresh,air,."
   },
   {
     "id": "emergency-prep-13",
@@ -1259,17 +1252,16 @@
       "roll",
       "."
     ],
-    "order_active_beginner_1": "stop, drop, and roll,smothers flames,on burning,clothing,.",
     "order_progressive_beginner_1": "stop, drop, and roll,is smothering,flames,.",
     "order_passive_beginner_1": "flames on clothing,are smothered,by stop,,drop, and roll,.",
     "order_subordinate_beginner_1": "if,your clothes catch fire,,,stop, drop,,and roll,.",
-    "order_active_1": "stop,drop,and,roll,smothers,flames,on,burning,clothing,.",
     "order_progressive_1": "stop,drop,and,roll,is,smothering,flames,.",
     "order_passive_1": "flames,on,clothing,are,smothered,by,stop,drop,and,roll,.",
     "order_subordinate_1": "if,your,clothes,catch,fire,,,stop,drop,and,roll,.",
     "order_subordinate_beginner_2": "stop, drop,,and roll,if,your clothes catch fire,.",
     "order_subordinate_2": "stop,drop,and,roll,if,your,clothes,catch,fire,.",
-    "order_active_beginner_2": "on burning,clothing,stop, drop, and roll,smothers flames,."
+    "order_active_beginner_1": "stop, drop, and roll,smothers flames,on burning,clothing,.",
+    "order_active_1": "stop,drop,and,roll,smothers,flames,on,burning,clothing,."
   },
   {
     "id": "emergency-prep-14",
@@ -1459,18 +1451,17 @@
       "floor",
       "."
     ],
-    "order_active_beginner_1": "people,shelter,on the lowest floor,away from windows,.",
     "order_progressive_beginner_1": "people,are sheltering,on the lowest,floor,.",
     "order_passive_beginner_1": "safety,is found,on the lowest floor,away from windows,.",
     "order_subordinate_beginner_1": "during,a tornado,,,go to an interior room,on the lowest floor,.",
-    "order_active_1": "people,shelter,on,the,lowest,floor,away,from,windows,.",
     "order_progressive_1": "people,are,sheltering,on,the,lowest,floor,.",
     "order_passive_1": "safety,is,found,on,the,lowest,floor,away,from,windows,.",
     "order_subordinate_1": "during,a,tornado,,,go,to,an,interior,room,on,the,lowest,floor,.",
     "order_subordinate_beginner_2": "go to an interior room,on the lowest floor,during,a tornado,.",
     "order_subordinate_2": "go,to,an,interior,room,on,the,lowest,floor,during,a,tornado,.",
-    "order_active_beginner_2": "on the lowest floor,away from windows,people,shelter,.",
-    "order_progressive_beginner_2": "on the lowest,floor,people,are sheltering,."
+    "order_progressive_beginner_2": "on the lowest,floor,people,are sheltering,.",
+    "order_active_beginner_1": "people,shelter,on the lowest floor,away from windows,.",
+    "order_active_1": "people,shelter,on,the,lowest,floor,away,from,windows,."
   },
   {
     "id": "emergency-prep-16",
@@ -1569,7 +1560,9 @@
     "order_subordinate_1": "during,a,flood,,,move,to,higher,ground,and,avoid,walking,in,water,.",
     "order_subordinate_beginner_2": "move to higher ground,and avoid walking in water,during,a flood,.",
     "order_subordinate_2": "move,to,higher,ground,and,avoid,walking,in,water,during,a,flood,.",
-    "order_progressive_beginner_2": "during floods,people,are moving,to higher ground,."
+    "order_progressive_beginner_2": "during floods,people,are moving,to higher ground,.",
+    "order_progressive_beginner_3": "during floods,people,are moving,to higher ground,.",
+    "order_progressive_2": "during,floods,people,are,moving,to,higher,ground,."
   },
   {
     "id": "emergency-prep-17",
@@ -2062,7 +2055,7 @@
     "text_segment": "An emergency supply kit keeps your family alive during disasters. Include water, non-perishable food, a flashlight, radio, batteries, first aid kit, and important documents. Plan for about two weeks of supplies per person.",
     "question": "Describe what goes in an emergency supply kit.",
     "Active": "Emergency kits contain water, food, flashlights, and first aid supplies.",
-    "Progressive": "Emergency kits are containing water, food, and supplies.",
+    "Progressive": "Families are packing water, food, and supplies.",
     "Passive": "Water, food, and supplies are contained in emergency kits.",
     "Subordinate": "When building an emergency kit, include water and food for two weeks.",
     "tiles_active": [
@@ -2073,8 +2066,8 @@
       "."
     ],
     "tiles_progressive": [
-      "emergency kits",
-      "are containing",
+      "families",
+      "are packing",
       "water, food,",
       "and supplies",
       "."
@@ -2108,10 +2101,9 @@
       "."
     ],
     "tiles_progressive_advanced": [
-      "emergency",
-      "kits",
+      "families",
       "are",
-      "containing",
+      "packing",
       "water",
       "food",
       "and",
@@ -2147,15 +2139,15 @@
       "."
     ],
     "order_active_beginner_1": "emergency kits,contain water,,food, flashlights,,and first aid supplies,.",
-    "order_progressive_beginner_1": "emergency kits,are containing,water, food,,and supplies,.",
     "order_passive_beginner_1": "water, food,,and supplies,are contained,in emergency kits,.",
     "order_subordinate_beginner_1": "when,building an emergency kit,,,include water and food,for two weeks,.",
     "order_active_1": "emergency,kits,contain,water,food,flashlights,and,first,aid,supplies,.",
-    "order_progressive_1": "emergency,kits,are,containing,water,food,and,supplies,.",
     "order_passive_1": "water,food,and,supplies,are,contained,in,emergency,kits,.",
     "order_subordinate_1": "when,building,an,emergency,kit,,,include,water,and,food,for,two,weeks,.",
     "order_subordinate_beginner_2": "include water and food,for two weeks,when,building an emergency kit,.",
-    "order_subordinate_2": "include,water,and,food,for,two,weeks,when,building,an,emergency,kit,."
+    "order_subordinate_2": "include,water,and,food,for,two,weeks,when,building,an,emergency,kit,.",
+    "order_progressive_beginner_1": "families,are packing,water, food,,and supplies,.",
+    "order_progressive_1": "families,are,packing,water,food,and,supplies,."
   },
   {
     "id": "emergency-prep-23",
@@ -2163,7 +2155,7 @@
     "text_segment": "A family emergency plan tells everyone what to do during a disaster. Decide on meeting places, emergency contacts, and evacuation routes. Practice your plan so everyone knows what to do when an emergency happens.",
     "question": "Describe what a family emergency plan includes.",
     "Active": "Family plans include meeting places, contacts, and evacuation routes.",
-    "Progressive": "Family plans are including meeting places and evacuation routes.",
+    "Progressive": "Families are choosing meeting places and evacuation routes.",
     "Passive": "Meeting places and evacuation routes are included in family plans.",
     "Subordinate": "To be prepared, create a family emergency plan and practice it.",
     "tiles_active": [
@@ -2174,8 +2166,8 @@
       "."
     ],
     "tiles_progressive": [
-      "family plans",
-      "are including",
+      "families",
+      "are choosing",
       "meeting places",
       "and evacuation routes",
       "."
@@ -2208,10 +2200,9 @@
       "."
     ],
     "tiles_progressive_advanced": [
-      "family",
-      "plans",
+      "families",
       "are",
-      "including",
+      "choosing",
       "meeting",
       "places",
       "and",
@@ -2247,15 +2238,15 @@
       "."
     ],
     "order_active_beginner_1": "family plans,include meeting places,,contacts,,and evacuation routes,.",
-    "order_progressive_beginner_1": "family plans,are including,meeting places,and evacuation routes,.",
     "order_passive_beginner_1": "meeting places,and evacuation routes,are included,in family plans,.",
     "order_subordinate_beginner_1": "to,be prepared,,,create a family plan,and practice it,.",
     "order_active_1": "family,plans,include,meeting,places,contacts,and,evacuation,routes,.",
-    "order_progressive_1": "family,plans,are,including,meeting,places,and,evacuation,routes,.",
     "order_passive_1": "meeting,places,and,evacuation,routes,are,included,in,family,plans,.",
     "order_subordinate_1": "to,be,prepared,,,create,a,family,plan,and,practice,it,.",
     "order_subordinate_beginner_2": "create a family plan,and practice it,to,be prepared,.",
-    "order_subordinate_2": "create,a,family,plan,and,practice,it,to,be,prepared,."
+    "order_subordinate_2": "create,a,family,plan,and,practice,it,to,be,prepared,.",
+    "order_progressive_beginner_1": "families,are choosing,meeting places,and evacuation routes,.",
+    "order_progressive_1": "families,are,choosing,meeting,places,and,evacuation,routes,."
   },
   {
     "id": "emergency-prep-24",
@@ -2542,15 +2533,14 @@
     ],
     "order_active_beginner_1": "scouts,carry messages,between emergency,response locations,.",
     "order_progressive_beginner_1": "scouts,are carrying,messages,between locations,.",
-    "order_passive_beginner_1": "messages,are carried,by scouts,between emergency locations,.",
     "order_subordinate_beginner_1": "when,phones are down,,,scouts serve,as messengers,.",
     "order_active_1": "scouts,carry,messages,between,emergency,response,locations,.",
     "order_progressive_1": "scouts,are,carrying,messages,between,locations,.",
-    "order_passive_1": "messages,are,carried,by,scouts,between,emergency,locations,.",
     "order_subordinate_1": "when,phones,are,down,,,scouts,serve,as,messengers,.",
     "order_subordinate_beginner_2": "scouts serve,as messengers,when,phones are down,.",
     "order_subordinate_2": "scouts,serve,as,messengers,when,phones,are,down,.",
-    "order_passive_beginner_2": "by scouts,between emergency locations,messages,are carried,."
+    "order_passive_beginner_1": "messages,are carried,by scouts,between emergency locations,.",
+    "order_passive_1": "messages,are,carried,by,scouts,between,emergency,locations,."
   },
   {
     "id": "emergency-prep-27",
@@ -2646,7 +2636,11 @@
     "order_subordinate_beginner_2": "scouts help distribute,supplies to those in need,after,disasters,.",
     "order_subordinate_2": "scouts,help,distribute,supplies,to,those,in,need,after,disasters,.",
     "order_passive_beginner_2": "by scouts,food, water,,and clothing,are distributed,.",
-    "order_passive_2": "by,scouts,food,water,and,clothing,are,distributed,."
+    "order_passive_2": "by,scouts,food,water,and,clothing,are,distributed,.",
+    "order_active_beginner_2": "after disasters,scouts,distribute food,,water, and clothing,.",
+    "order_active_2": "after,disasters,scouts,distribute,food,water,and,clothing,.",
+    "order_progressive_beginner_2": "after disasters,scouts,are distributing,supplies,.",
+    "order_progressive_2": "after,disasters,scouts,are,distributing,supplies,."
   },
   {
     "id": "emergency-prep-28",

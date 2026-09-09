@@ -84,14 +84,15 @@
     ],
     "order_active_beginner_1": "my body,belongs to,me,alone,.",
     "order_progressive_beginner_1": "i,am protecting,my body,every day,.",
-    "order_passive_beginner_1": "my body,is owned,only by,me,.",
     "order_subordinate_beginner_1": "because,my body belongs to me,,,i decide who,can touch it,.",
     "order_active_1": "my,body,belongs,to,me,alone,.",
     "order_progressive_1": "i,am,protecting,my,body,every,day,.",
-    "order_passive_1": "my,body,is,owned,only,by,me,.",
     "order_subordinate_1": "because,my,body,belongs,to,me,,,i,decide,who,can,touch,it,.",
     "order_progressive_beginner_2": "every day,i,am protecting,my body,.",
-    "order_passive_2": "by,me,my,body,is,owned,only,."
+    "order_passive_beginner_1": "my body,is owned,only by,me,.",
+    "order_passive_1": "my,body,is,owned,only,by,me,.",
+    "order_subordinate_beginner_2": "i decide who,can touch it,because,my body belongs to me,.",
+    "order_subordinate_2": "i,decide,who,can,touch,it,because,my,body,belongs,to,me,."
   },
   {
     "id": "personal-safety-2",
@@ -180,13 +181,14 @@
     ],
     "order_active_beginner_1": "i,can say no,to uncomfortable,touches,.",
     "order_progressive_beginner_1": "i,am learning,to say no,when needed,.",
-    "order_passive_beginner_1": "no,can be said,by me,at any time,.",
     "order_subordinate_beginner_1": "even if,someone is older,,,i can still,say no,.",
     "order_active_1": "i,can,say,no,to,uncomfortable,touches,.",
     "order_progressive_1": "i,am,learning,to,say,no,when,needed,.",
-    "order_passive_1": "no,can,be,said,by,me,at,any,time,.",
     "order_subordinate_1": "even,if,someone,is,older,,,i,can,still,say,no,.",
-    "order_passive_beginner_2": "by me,at any time,no,can be said,."
+    "order_passive_beginner_1": "no,can be said,by me,at any time,.",
+    "order_passive_1": "no,can,be,said,by,me,at,any,time,.",
+    "order_subordinate_beginner_2": "i can still,say no,even if,someone is older,.",
+    "order_subordinate_2": "i,can,still,say,no,even,if,someone,is,older,."
   },
   {
     "id": "personal-safety-3",
@@ -273,14 +275,14 @@
     ],
     "order_active_beginner_1": "private parts,are covered,by a,bathing suit,.",
     "order_progressive_beginner_1": "i,am keeping,my private areas,private,.",
-    "order_passive_beginner_1": "private areas,are protected,by,me,.",
     "order_subordinate_beginner_1": "because,they are private,,,only doctors with parents,may check them,.",
     "order_active_1": "private,parts,are,covered,by,a,bathing,suit,.",
     "order_progressive_1": "i,am,keeping,my,private,areas,private,.",
-    "order_passive_1": "private,areas,are,protected,by,me,.",
     "order_subordinate_1": "because,they,are,private,,,only,doctors,with,parents,may,check,them,.",
-    "order_passive_beginner_2": "by,me,private areas,are protected,.",
-    "order_passive_2": "by,me,private,areas,are,protected,."
+    "order_passive_beginner_1": "private areas,are protected,by,me,.",
+    "order_passive_1": "private,areas,are,protected,by,me,.",
+    "order_subordinate_beginner_2": "only doctors with parents,may check them,because,they are private,.",
+    "order_subordinate_2": "only,doctors,with,parents,may,check,them,because,they,are,private,."
   },
   {
     "id": "personal-safety-4",
@@ -367,13 +369,14 @@
     ],
     "order_active_beginner_1": "safe touches,feel comfortable,and,caring,.",
     "order_progressive_beginner_1": "i,am trusting,my feelings,about touches,.",
-    "order_passive_beginner_1": "unsafe touches,are recognized,by how they,make me feel,.",
     "order_subordinate_beginner_1": "if,a touch feels wrong,,,it probably,is wrong,.",
     "order_active_1": "safe,touches,feel,comfortable,and,caring,.",
     "order_progressive_1": "i,am,trusting,my,feelings,about,touches,.",
-    "order_passive_1": "unsafe,touches,are,recognized,by,how,they,make,me,feel,.",
     "order_subordinate_1": "if,a,touch,feels,wrong,,,it,probably,is,wrong,.",
-    "order_passive_beginner_2": "by how they,make me feel,unsafe touches,are recognized,."
+    "order_passive_beginner_1": "unsafe touches,are recognized,by how they,make me feel,.",
+    "order_passive_1": "unsafe,touches,are,recognized,by,how,they,make,me,feel,.",
+    "order_subordinate_beginner_2": "it probably,is wrong,if,a touch feels wrong,.",
+    "order_subordinate_2": "it,probably,is,wrong,if,a,touch,feels,wrong,."
   },
   {
     "id": "personal-safety-5",
@@ -458,14 +461,14 @@
     ],
     "order_active_beginner_1": "i,can get away,from unsafe,situations,.",
     "order_progressive_beginner_1": "i,am moving toward,a safe,place,.",
-    "order_passive_beginner_1": "unsafe situations,can be left,by,me,.",
     "order_subordinate_beginner_1": "when,i feel unsafe,,,i try to,get away,.",
     "order_active_1": "i,can,get,away,from,unsafe,situations,.",
     "order_progressive_1": "i,am,moving,toward,a,safe,place,.",
-    "order_passive_1": "unsafe,situations,can,be,left,by,me,.",
     "order_subordinate_1": "when,i,feel,unsafe,,,i,try,to,get,away,.",
-    "order_passive_beginner_2": "by,me,unsafe situations,can be left,.",
-    "order_passive_2": "by,me,unsafe,situations,can,be,left,."
+    "order_passive_beginner_1": "unsafe situations,can be left,by,me,.",
+    "order_passive_1": "unsafe,situations,can,be,left,by,me,.",
+    "order_subordinate_beginner_2": "i try to,get away,when,i feel unsafe,.",
+    "order_subordinate_2": "i,try,to,get,away,when,i,feel,unsafe,."
   },
   {
     "id": "personal-safety-6",
@@ -558,7 +561,9 @@
     "order_active_1": "i,can,tell,a,trusted,adult,about,unsafe,things,.",
     "order_progressive_1": "i,am,telling,someone,i,trust,right,away,.",
     "order_passive_1": "unsafe,things,should,be,told,to,a,trusted,adult,.",
-    "order_subordinate_1": "until,someone,helps,me,,,i,keep,telling,."
+    "order_subordinate_1": "until,someone,helps,me,,,i,keep,telling,.",
+    "order_subordinate_beginner_2": "i keep,telling,until,someone helps me,.",
+    "order_subordinate_2": "i,keep,telling,until,someone,helps,me,."
   },
   {
     "id": "personal-safety-7",
@@ -645,13 +650,14 @@
     ],
     "order_active_beginner_1": "trusted adults,keep me safe,and listen,to me,.",
     "order_progressive_beginner_1": "i,am thinking of,several trusted,adults,.",
-    "order_passive_beginner_1": "i,am helped,by my,trusted adults,.",
     "order_subordinate_beginner_1": "because,trusted adults care about me,,,they will,help,.",
     "order_active_1": "trusted,adults,keep,me,safe,and,listen,to,me,.",
     "order_progressive_1": "i,am,thinking,of,several,trusted,adults,.",
-    "order_passive_1": "i,am,helped,by,my,trusted,adults,.",
     "order_subordinate_1": "because,trusted,adults,care,about,me,,,they,will,help,.",
-    "order_passive_beginner_2": "by my,trusted adults,i,am helped,."
+    "order_passive_beginner_1": "i,am helped,by my,trusted adults,.",
+    "order_passive_1": "i,am,helped,by,my,trusted,adults,.",
+    "order_subordinate_beginner_2": "they will,help,because,trusted adults care about me,.",
+    "order_subordinate_2": "they,will,help,because,trusted,adults,care,about,me,."
   },
   {
     "id": "personal-safety-8",
@@ -742,13 +748,14 @@
     ],
     "order_active_beginner_1": "good surprises,are shared soon,and make,people happy,.",
     "order_progressive_beginner_1": "i,am telling an adult,about bad,secrets,.",
-    "order_passive_beginner_1": "bad secrets,should always be told,to an,adult,.",
     "order_subordinate_beginner_1": "if,a secret makes me scared,,,i should tell,someone,.",
     "order_active_1": "good,surprises,are,shared,soon,and,make,people,happy,.",
     "order_progressive_1": "i,am,telling,an,adult,about,bad,secrets,.",
-    "order_passive_1": "bad,secrets,should,always,be,told,to,an,adult,.",
     "order_subordinate_1": "if,a,secret,makes,me,scared,,,i,should,tell,someone,.",
-    "order_passive_2": "always,bad,secrets,should,be,told,to,an,adult,."
+    "order_passive_beginner_1": "bad secrets,should always be told,to an,adult,.",
+    "order_passive_1": "bad,secrets,should,always,be,told,to,an,adult,.",
+    "order_subordinate_beginner_2": "i should tell,someone,if,a secret makes me scared,.",
+    "order_subordinate_2": "i,should,tell,someone,if,a,secret,makes,me,scared,."
   },
   {
     "id": "personal-safety-9",
@@ -840,14 +847,14 @@
     ],
     "order_active_beginner_1": "bad things,that happen to me,are not,my fault,.",
     "order_progressive_beginner_1": "i,am remembering that,i deserve,to be safe,.",
-    "order_passive_beginner_1": "children,are supposed to be protected,by,adults,.",
     "order_subordinate_beginner_1": "because,adults should protect children,,,it is not,my fault,.",
     "order_active_1": "bad,things,that,happen,to,me,are,not,my,fault,.",
     "order_progressive_1": "i,am,remembering,that,i,deserve,to,be,safe,.",
-    "order_passive_1": "children,are,supposed,to,be,protected,by,adults,.",
     "order_subordinate_1": "because,adults,should,protect,children,,,it,is,not,my,fault,.",
-    "order_passive_beginner_2": "by,adults,children,are supposed to be protected,.",
-    "order_passive_2": "by,adults,children,are,supposed,to,be,protected,."
+    "order_passive_beginner_1": "children,are supposed to be protected,by,adults,.",
+    "order_passive_1": "children,are,supposed,to,be,protected,by,adults,.",
+    "order_subordinate_beginner_2": "it is not,my fault,because,adults should protect children,.",
+    "order_subordinate_2": "it,is,not,my,fault,because,adults,should,protect,children,."
   },
   {
     "id": "personal-safety-10",
@@ -933,14 +940,14 @@
     ],
     "order_active_beginner_1": "warning feelings,tell me,something might be,wrong,.",
     "order_progressive_beginner_1": "i,am listening to,my warning,feelings,.",
-    "order_passive_beginner_1": "warning signs,are given,by my,body,.",
     "order_subordinate_beginner_1": "when,i get a funny feeling,,,i pay,attention,.",
     "order_active_1": "warning,feelings,tell,me,something,might,be,wrong,.",
     "order_progressive_1": "i,am,listening,to,my,warning,feelings,.",
-    "order_passive_1": "warning,signs,are,given,by,my,body,.",
     "order_subordinate_1": "when,i,get,a,funny,feeling,,,i,pay,attention,.",
-    "order_passive_beginner_2": "by my,body,warning signs,are given,.",
-    "order_passive_2": "by,my,body,warning,signs,are,given,."
+    "order_passive_beginner_1": "warning signs,are given,by my,body,.",
+    "order_passive_1": "warning,signs,are,given,by,my,body,.",
+    "order_subordinate_beginner_2": "i pay,attention,when,i get a funny feeling,.",
+    "order_subordinate_2": "i,pay,attention,when,i,get,a,funny,feeling,."
   },
   {
     "id": "personal-safety-11",
@@ -1026,13 +1033,14 @@
     ],
     "order_active_beginner_1": "unsafe people,sometimes use tricks,to confuse,kids,.",
     "order_progressive_beginner_1": "i,am learning to,recognize tricky,behavior,.",
-    "order_passive_beginner_1": "tricks,are used,by some,unsafe people,.",
     "order_subordinate_beginner_1": "if,someone uses tricks,,,i tell a,trusted adult,.",
     "order_active_1": "unsafe,people,sometimes,use,tricks,to,confuse,kids,.",
     "order_progressive_1": "i,am,learning,to,recognize,tricky,behavior,.",
-    "order_passive_1": "tricks,are,used,by,some,unsafe,people,.",
     "order_subordinate_1": "if,someone,uses,tricks,,,i,tell,a,trusted,adult,.",
-    "order_passive_beginner_2": "by some,unsafe people,tricks,are used,."
+    "order_passive_beginner_1": "tricks,are used,by some,unsafe people,.",
+    "order_passive_1": "tricks,are,used,by,some,unsafe,people,.",
+    "order_subordinate_beginner_2": "i tell a,trusted adult,if,someone uses tricks,.",
+    "order_subordinate_2": "i,tell,a,trusted,adult,if,someone,uses,tricks,."
   },
   {
     "id": "personal-safety-12",
@@ -1128,7 +1136,9 @@
     "order_active_1": "bribes,and,threats,are,ways,unsafe,people,try,to,control,kids,.",
     "order_progressive_1": "i,am,telling,a,trusted,adult,about,threats,.",
     "order_passive_1": "bribes,and,threats,should,be,reported,to,adults,.",
-    "order_subordinate_1": "when,someone,threatens,me,,,i,tell,a,trusted,adult,."
+    "order_subordinate_1": "when,someone,threatens,me,,,i,tell,a,trusted,adult,.",
+    "order_subordinate_beginner_2": "i tell a,trusted adult,when,someone threatens me,.",
+    "order_subordinate_2": "i,tell,a,trusted,adult,when,someone,threatens,me,."
   },
   {
     "id": "personal-safety-13",
@@ -1222,7 +1232,9 @@
     "order_active_1": "unsafe,adults,sometimes,give,too,much,special,attention,.",
     "order_progressive_1": "i,am,recognizing,when,attention,feels,uncomfortable,.",
     "order_passive_1": "warning,signs,should,be,noticed,and,reported,.",
-    "order_subordinate_1": "if,an,adult,gives,too,many,gifts,,,i,tell,someone,i,trust,."
+    "order_subordinate_1": "if,an,adult,gives,too,many,gifts,,,i,tell,someone,i,trust,.",
+    "order_subordinate_beginner_2": "i tell someone,i trust,if,an adult gives too many gifts,.",
+    "order_subordinate_2": "i,tell,someone,i,trust,if,an,adult,gives,too,many,gifts,."
   },
   {
     "id": "personal-safety-14",
@@ -1314,7 +1326,9 @@
     "order_progressive_1": "i,am,following,the,body,safety,rules,.",
     "order_passive_1": "my,body,is,protected,by,following,safety,rules,.",
     "order_subordinate_1": "because,i,know,the,rules,,,i,can,keep,myself,safe,.",
-    "order_passive_beginner_2": "by following,safety rules,my body,is protected,."
+    "order_passive_beginner_2": "by following,safety rules,my body,is protected,.",
+    "order_subordinate_beginner_2": "i can keep,myself safe,because,i know the rules,.",
+    "order_subordinate_2": "i,can,keep,myself,safe,because,i,know,the,rules,."
   },
   {
     "id": "personal-safety-15",
@@ -1407,7 +1421,9 @@
     "order_active_1": "speaking,up,about,unsafe,things,takes,courage,.",
     "order_progressive_1": "i,am,being,brave,by,telling,someone,.",
     "order_passive_1": "other,kids,can,be,helped,when,i,tell,.",
-    "order_subordinate_1": "although,it,is,hard,,,telling,is,the,right,thing,to,do,."
+    "order_subordinate_1": "although,it,is,hard,,,telling,is,the,right,thing,to,do,.",
+    "order_subordinate_beginner_2": "telling is,the right thing to do,although,it is hard,.",
+    "order_subordinate_2": "telling,is,the,right,thing,to,do,although,it,is,hard,."
   },
   {
     "id": "personal-safety-16",
@@ -1492,14 +1508,14 @@
     ],
     "order_active_beginner_1": "personal information,should stay,private,online,.",
     "order_progressive_beginner_1": "i,am keeping,my personal information,secret,.",
-    "order_passive_beginner_1": "private information,can be misused,by,strangers,.",
     "order_subordinate_beginner_1": "because,strangers might misuse it,,,i keep my information,private,.",
     "order_active_1": "personal,information,should,stay,private,online,.",
     "order_progressive_1": "i,am,keeping,my,personal,information,secret,.",
-    "order_passive_1": "private,information,can,be,misused,by,strangers,.",
     "order_subordinate_1": "because,strangers,might,misuse,it,,,i,keep,my,information,private,.",
-    "order_passive_beginner_2": "by,strangers,private information,can be misused,.",
-    "order_passive_2": "by,strangers,private,information,can,be,misused,."
+    "order_passive_beginner_1": "private information,can be misused,by,strangers,.",
+    "order_passive_1": "private,information,can,be,misused,by,strangers,.",
+    "order_subordinate_beginner_2": "i keep my information,private,because,strangers might misuse it,.",
+    "order_subordinate_2": "i,keep,my,information,private,because,strangers,might,misuse,it,."
   },
   {
     "id": "personal-safety-17",
@@ -1528,8 +1544,7 @@
       "true identities",
       "can be hidden",
       "online",
-      ".",
-      ""
+      "."
     ],
     "tiles_subordinate": [
       "because",
@@ -1587,12 +1602,14 @@
     ],
     "order_active_beginner_1": "online strangers,might pretend to be,someone,else,.",
     "order_progressive_beginner_1": "i,am being careful,about who i,trust online,.",
-    "order_passive_beginner_1": "true identities,can be hidden,online,.,",
+    "order_passive_beginner_1": "true identities,can be hidden,online,.",
     "order_subordinate_beginner_1": "because,people can lie online,,,i never meet,internet strangers,.",
     "order_active_1": "online,strangers,might,pretend,to,be,someone,else,.",
     "order_progressive_1": "i,am,being,careful,about,who,i,trust,online,.",
     "order_passive_1": "true,identities,can,be,hidden,online,.",
-    "order_subordinate_1": "because,people,can,lie,online,,,i,never,meet,internet,strangers,."
+    "order_subordinate_1": "because,people,can,lie,online,,,i,never,meet,internet,strangers,.",
+    "order_subordinate_beginner_2": "i never meet,internet strangers,because,people can lie online,.",
+    "order_subordinate_2": "i,never,meet,internet,strangers,because,people,can,lie,online,."
   },
   {
     "id": "personal-safety-18",
@@ -1686,7 +1703,9 @@
     "order_active_1": "i,tell,a,parent,when,something,online,feels,wrong,.",
     "order_progressive_1": "i,am,showing,my,parent,the,uncomfortable,messages,.",
     "order_passive_1": "parents,should,be,told,about,uncomfortable,online,messages,.",
-    "order_subordinate_1": "when,something,feels,wrong,online,,,i,tell,a,parent,."
+    "order_subordinate_1": "when,something,feels,wrong,online,,,i,tell,a,parent,.",
+    "order_subordinate_beginner_2": "i tell a,parent,when,something feels wrong online,.",
+    "order_subordinate_2": "i,tell,a,parent,when,something,feels,wrong,online,."
   },
   {
     "id": "personal-safety-19",
@@ -1784,7 +1803,9 @@
     "order_active_1": "photos,should,not,be,sent,to,online,strangers,.",
     "order_progressive_1": "i,am,being,careful,about,what,photos,i,share,.",
     "order_passive_1": "photos,cannot,be,taken,back,once,they,are,sent,.",
-    "order_subordinate_1": "because,photos,cannot,be,taken,back,,,i,am,careful,what,i,share,."
+    "order_subordinate_1": "because,photos,cannot,be,taken,back,,,i,am,careful,what,i,share,.",
+    "order_subordinate_beginner_2": "i am careful,what i share,because,photos cannot be taken back,.",
+    "order_subordinate_2": "i,am,careful,what,i,share,because,photos,cannot,be,taken,back,."
   },
   {
     "id": "personal-safety-20",
@@ -1875,7 +1896,9 @@
     "order_active_1": "cyberbullying,uses,technology,to,hurt,people,.",
     "order_progressive_1": "i,am,telling,an,adult,about,cyberbullying,.",
     "order_passive_1": "cyberbullying,should,be,reported,to,adults,.",
-    "order_subordinate_1": "if,i,am,cyberbullied,,,i,tell,an,adult,and,do,not,respond,."
+    "order_subordinate_1": "if,i,am,cyberbullied,,,i,tell,an,adult,and,do,not,respond,.",
+    "order_subordinate_beginner_2": "i tell an adult,and do not respond,if,i am cyberbullied,.",
+    "order_subordinate_2": "i,tell,an,adult,and,do,not,respond,if,i,am,cyberbullied,."
   },
   {
     "id": "personal-safety-21",
@@ -1967,7 +1990,9 @@
     "order_passive_1": "bullying,should,be,stopped,by,telling,adults,.",
     "order_subordinate_1": "when,bullying,happens,,,i,tell,a,trusted,adult,.",
     "order_passive_beginner_2": "by telling,adults,bullying,should be stopped,.",
-    "order_passive_2": "by,telling,adults,bullying,should,be,stopped,."
+    "order_passive_2": "by,telling,adults,bullying,should,be,stopped,.",
+    "order_subordinate_beginner_2": "i tell a,trusted adult,when,bullying happens,.",
+    "order_subordinate_2": "i,tell,a,trusted,adult,when,bullying,happens,."
   },
   {
     "id": "personal-safety-22",
@@ -2056,14 +2081,14 @@
     ],
     "order_active_beginner_1": "upstanders,help people,who are,being bullied,.",
     "order_progressive_beginner_1": "i,am telling an adult,when i see,bullying,.",
-    "order_passive_beginner_1": "people being bullied,are helped,by,upstanders,.",
     "order_subordinate_beginner_1": "when,i see bullying,,,i tell an adult,or be kind,.",
     "order_active_1": "upstanders,help,people,who,are,being,bullied,.",
     "order_progressive_1": "i,am,telling,an,adult,when,i,see,bullying,.",
-    "order_passive_1": "people,being,bullied,are,helped,by,upstanders,.",
     "order_subordinate_1": "when,i,see,bullying,,,i,tell,an,adult,or,be,kind,.",
-    "order_passive_beginner_2": "by,upstanders,people being bullied,are helped,.",
-    "order_passive_2": "by,upstanders,people,being,bullied,are,helped,."
+    "order_passive_beginner_1": "people being bullied,are helped,by,upstanders,.",
+    "order_passive_1": "people,being,bullied,are,helped,by,upstanders,.",
+    "order_subordinate_beginner_2": "i tell an adult,or be kind,when,i see bullying,.",
+    "order_subordinate_2": "i,tell,an,adult,or,be,kind,when,i,see,bullying,."
   },
   {
     "id": "personal-safety-23",
@@ -2158,7 +2183,9 @@
     "order_active_1": "i,never,go,anywhere,with,a,stranger,.",
     "order_progressive_1": "i,am,staying,in,safe,places,with,people,i,know,.",
     "order_passive_1": "rides,should,not,be,accepted,from,strangers,.",
-    "order_subordinate_1": "because,i,do,not,know,strangers,,,i,stay,away,from,them,."
+    "order_subordinate_1": "because,i,do,not,know,strangers,,,i,stay,away,from,them,.",
+    "order_subordinate_beginner_2": "i stay away,from them,because,i do not know strangers,.",
+    "order_subordinate_2": "i,stay,away,from,them,because,i,do,not,know,strangers,."
   },
   {
     "id": "personal-safety-24",
@@ -2254,7 +2281,9 @@
     "order_active_1": "unsafe,strangers,use,tricks,like,asking,for,help,.",
     "order_progressive_1": "i,am,learning,to,recognize,stranger,tricks,.",
     "order_passive_1": "tricks,are,used,by,some,strangers,to,lure,children,.",
-    "order_subordinate_1": "if,a,stranger,asks,me,for,help,,,i,find,a,trusted,adult,."
+    "order_subordinate_1": "if,a,stranger,asks,me,for,help,,,i,find,a,trusted,adult,.",
+    "order_subordinate_beginner_2": "i find a,trusted adult,if,a stranger asks me for help,.",
+    "order_subordinate_2": "i,find,a,trusted,adult,if,a,stranger,asks,me,for,help,."
   },
   {
     "id": "personal-safety-25",
@@ -2355,7 +2384,9 @@
     "order_active_1": "safe,adults,like,police,officers,can,help,if,i,am,lost,.",
     "order_progressive_1": "i,am,looking,for,a,safe,adult,to,help,me,.",
     "order_passive_1": "help,can,be,found,from,police,or,store,workers,.",
-    "order_subordinate_1": "if,i,get,lost,,,i,find,a,police,officer,or,worker,."
+    "order_subordinate_1": "if,i,get,lost,,,i,find,a,police,officer,or,worker,.",
+    "order_subordinate_beginner_2": "i find a police officer,or worker,if,i get lost,.",
+    "order_subordinate_2": "i,find,a,police,officer,or,worker,if,i,get,lost,."
   },
   {
     "id": "personal-safety-26",
@@ -2448,7 +2479,9 @@
     "order_active_1": "i,keep,doors,locked,when,i,am,home,alone,.",
     "order_progressive_1": "i,am,following,safety,rules,while,home,alone,.",
     "order_passive_1": "doors,should,be,kept,locked,when,alone,.",
-    "order_subordinate_1": "when,someone,knocks,,,i,do,not,open,for,strangers,."
+    "order_subordinate_1": "when,someone,knocks,,,i,do,not,open,for,strangers,.",
+    "order_subordinate_beginner_2": "i do not open,for strangers,when,someone knocks,.",
+    "order_subordinate_2": "i,do,not,open,for,strangers,when,someone,knocks,."
   },
   {
     "id": "personal-safety-27",
@@ -2544,7 +2577,9 @@
     "order_active_1": "i,call,911,and,tell,them,where,i,am,.",
     "order_progressive_1": "i,am,staying,on,the,line,with,the,911,operator,.",
     "order_passive_1": "help,is,sent,when,911,is,called,.",
-    "order_subordinate_1": "when,there,is,an,emergency,,,i,call,911,right,away,."
+    "order_subordinate_1": "when,there,is,an,emergency,,,i,call,911,right,away,.",
+    "order_subordinate_beginner_2": "i call 911,right away,when,there is an emergency,.",
+    "order_subordinate_2": "i,call,911,right,away,when,there,is,an,emergency,."
   },
   {
     "id": "personal-safety-28",
@@ -2639,7 +2674,9 @@
     "order_active_1": "i,keep,my,passwords,secret,except,from,parents,.",
     "order_progressive_1": "i,am,creating,a,strong,password,with,letters,and,numbers,.",
     "order_passive_1": "passwords,should,only,be,shared,with,parents,.",
-    "order_subordinate_1": "because,strong,passwords,are,harder,to,guess,,,i,use,them,."
+    "order_subordinate_1": "because,strong,passwords,are,harder,to,guess,,,i,use,them,.",
+    "order_subordinate_beginner_2": "i use,them,because,strong passwords are harder to guess,.",
+    "order_subordinate_2": "i,use,them,because,strong,passwords,are,harder,to,guess,."
   },
   {
     "id": "personal-safety-29",
@@ -2739,7 +2776,9 @@
     "order_active_1": "scams,try,to,trick,people,out,of,money,or,information,.",
     "order_progressive_1": "i,am,asking,an,adult,before,clicking,strange,links,.",
     "order_passive_1": "strange,links,should,not,be,clicked,without,asking,.",
-    "order_subordinate_1": "if,something,seems,too,good,to,be,true,,,it,is,probably,a,scam,."
+    "order_subordinate_1": "if,something,seems,too,good,to,be,true,,,it,is,probably,a,scam,.",
+    "order_subordinate_beginner_2": "it is probably,a scam,if,something seems too good to be true,.",
+    "order_subordinate_2": "it,is,probably,a,scam,if,something,seems,too,good,to,be,true,."
   },
   {
     "id": "personal-safety-30",
@@ -2835,7 +2874,9 @@
     "order_active_1": "i,say,no,when,friends,pressure,me,to,do,wrong,things,.",
     "order_progressive_1": "i,am,walking,away,from,bad,situations,.",
     "order_passive_1": "wrong,choices,should,not,be,made,because,of,pressure,.",
-    "order_subordinate_1": "although,friends,may,pressure,me,,,i,can,say,no,."
+    "order_subordinate_1": "although,friends,may,pressure,me,,,i,can,say,no,.",
+    "order_subordinate_beginner_2": "i can,say no,although,friends may pressure me,.",
+    "order_subordinate_2": "i,can,say,no,although,friends,may,pressure,me,."
   },
   {
     "id": "personal-safety-31",
@@ -2928,13 +2969,14 @@
     ],
     "order_active_beginner_1": "i,only take medicine,from parents,or doctors,.",
     "order_progressive_beginner_1": "i,am being careful,about what medicine,i take,.",
-    "order_passive_beginner_1": "medicine,should only be given,by parents,or doctors,.",
     "order_subordinate_beginner_1": "because,wrong medicine can hurt me,,,i only take what,parents give,.",
     "order_active_1": "i,only,take,medicine,from,parents,or,doctors,.",
     "order_progressive_1": "i,am,being,careful,about,what,medicine,i,take,.",
-    "order_passive_1": "medicine,should,only,be,given,by,parents,or,doctors,.",
     "order_subordinate_1": "because,wrong,medicine,can,hurt,me,,,i,only,take,what,parents,give,.",
-    "order_passive_beginner_2": "by parents,or doctors,medicine,should only be given,."
+    "order_passive_beginner_1": "medicine,should only be given,by parents,or doctors,.",
+    "order_passive_1": "medicine,should,only,be,given,by,parents,or,doctors,.",
+    "order_subordinate_beginner_2": "i only take what,parents give,because,wrong medicine can hurt me,.",
+    "order_subordinate_2": "i,only,take,what,parents,give,because,wrong,medicine,can,hurt,me,."
   },
   {
     "id": "personal-safety-32",
@@ -3024,13 +3066,14 @@
     ],
     "order_active_beginner_1": "drugs and alcohol,hurt growing brains,and,bodies,.",
     "order_progressive_beginner_1": "i,am protecting my brain,by staying,drug-free,.",
-    "order_passive_beginner_1": "growing brains,are harmed,by drugs,and alcohol,.",
     "order_subordinate_beginner_1": "because,my brain is still growing,,,i stay away,from drugs,.",
     "order_active_1": "drugs,and,alcohol,hurt,growing,brains,and,bodies,.",
     "order_progressive_1": "i,am,protecting,my,brain,by,staying,drug-free,.",
-    "order_passive_1": "growing,brains,are,harmed,by,drugs,and,alcohol,.",
     "order_subordinate_1": "because,my,brain,is,still,growing,,,i,stay,away,from,drugs,.",
-    "order_passive_beginner_2": "by drugs,and alcohol,growing brains,are harmed,."
+    "order_passive_beginner_1": "growing brains,are harmed,by drugs,and alcohol,.",
+    "order_passive_1": "growing,brains,are,harmed,by,drugs,and,alcohol,.",
+    "order_subordinate_beginner_2": "i stay away,from drugs,because,my brain is still growing,.",
+    "order_subordinate_2": "i,stay,away,from,drugs,because,my,brain,is,still,growing,."
   },
   {
     "id": "personal-safety-33",
@@ -3128,7 +3171,9 @@
     "order_active_1": "i,say,no,firmly,when,someone,offers,me,drugs,.",
     "order_progressive_1": "i,am,telling,a,trusted,adult,about,drug,offers,.",
     "order_passive_1": "drugs,should,be,refused,and,reported,to,adults,.",
-    "order_subordinate_1": "when,someone,offers,me,drugs,,,i,say,no,and,tell,an,adult,."
+    "order_subordinate_1": "when,someone,offers,me,drugs,,,i,say,no,and,tell,an,adult,.",
+    "order_subordinate_beginner_2": "i say no and,tell an adult,when,someone offers me drugs,.",
+    "order_subordinate_2": "i,say,no,and,tell,an,adult,when,someone,offers,me,drugs,."
   },
   {
     "id": "personal-safety-34",
@@ -3143,8 +3188,7 @@
       "cigarettes and vapes",
       "contain harmful",
       "chemicals",
-      ".",
-      ""
+      "."
     ],
     "tiles_progressive": [
       "i",
@@ -3216,15 +3260,16 @@
       "them",
       "."
     ],
-    "order_active_beginner_1": "cigarettes and vapes,contain harmful,chemicals,.,",
+    "order_active_beginner_1": "cigarettes and vapes,contain harmful,chemicals,.",
     "order_progressive_beginner_1": "i,am keeping my lungs,healthy by,not smoking,.",
-    "order_passive_beginner_1": "lungs and bodies,are hurt,by smoking,and vaping,.",
     "order_subordinate_beginner_1": "because,these products have harmful chemicals,,,i do not,use them,.",
     "order_active_1": "cigarettes,and,vapes,contain,harmful,chemicals,.",
     "order_progressive_1": "i,am,keeping,my,lungs,healthy,by,not,smoking,.",
-    "order_passive_1": "lungs,and,bodies,are,hurt,by,smoking,and,vaping,.",
     "order_subordinate_1": "because,these,products,have,harmful,chemicals,,,i,do,not,use,them,.",
-    "order_passive_beginner_2": "by smoking,and vaping,lungs and bodies,are hurt,."
+    "order_passive_beginner_1": "lungs and bodies,are hurt,by smoking,and vaping,.",
+    "order_passive_1": "lungs,and,bodies,are,hurt,by,smoking,and,vaping,.",
+    "order_subordinate_beginner_2": "i do not,use them,because,these products have harmful chemicals,.",
+    "order_subordinate_2": "i,do,not,use,them,because,these,products,have,harmful,chemicals,."
   },
   {
     "id": "personal-safety-35",
@@ -3321,7 +3366,9 @@
     "order_active_1": "i,never,touch,or,taste,things,i,do,not,recognize,.",
     "order_progressive_1": "i,am,telling,an,adult,about,strange,things,i,find,.",
     "order_passive_1": "unknown,things,should,be,left,alone,and,reported,.",
-    "order_subordinate_1": "because,dangerous,things,can,look,normal,,,i,am,careful,."
+    "order_subordinate_1": "because,dangerous,things,can,look,normal,,,i,am,careful,.",
+    "order_subordinate_beginner_2": "i am,careful,because,dangerous things can look normal,.",
+    "order_subordinate_2": "i,am,careful,because,dangerous,things,can,look,normal,."
   },
   {
     "id": "personal-safety-36",
@@ -3409,14 +3456,14 @@
     ],
     "order_active_beginner_1": "healthy choices,help keep,my body,strong,.",
     "order_progressive_beginner_1": "i,am making healthy choices,every,day,.",
-    "order_passive_beginner_1": "my body,is kept strong,by healthy,choices,.",
     "order_subordinate_beginner_1": "when,i make healthy choices,,,i feel good,and stay safe,.",
     "order_active_1": "healthy,choices,help,keep,my,body,strong,.",
     "order_progressive_1": "i,am,making,healthy,choices,every,day,.",
-    "order_passive_1": "my,body,is,kept,strong,by,healthy,choices,.",
     "order_subordinate_1": "when,i,make,healthy,choices,,,i,feel,good,and,stay,safe,.",
-    "order_passive_beginner_2": "by healthy,choices,my body,is kept strong,.",
-    "order_passive_2": "by,healthy,choices,my,body,is,kept,strong,."
+    "order_passive_beginner_1": "my body,is kept strong,by healthy,choices,.",
+    "order_passive_1": "my,body,is,kept,strong,by,healthy,choices,.",
+    "order_subordinate_beginner_2": "i feel good,and stay safe,when,i make healthy choices,.",
+    "order_subordinate_2": "i,feel,good,and,stay,safe,when,i,make,healthy,choices,."
   },
   {
     "id": "personal-safety-37",
@@ -3509,7 +3556,9 @@
     "order_active_1": "asking,for,help,when,i,need,it,is,smart,.",
     "order_progressive_1": "i,am,finding,a,trusted,adult,to,help,me,.",
     "order_passive_1": "help,should,be,asked,for,when,needed,.",
-    "order_subordinate_1": "because,everyone,needs,help,sometimes,,,asking,is,okay,."
+    "order_subordinate_1": "because,everyone,needs,help,sometimes,,,asking,is,okay,.",
+    "order_subordinate_beginner_2": "asking is,okay,because,everyone needs help sometimes,.",
+    "order_subordinate_2": "asking,is,okay,because,everyone,needs,help,sometimes,."
   },
   {
     "id": "personal-safety-38",
@@ -3609,7 +3658,9 @@
     "order_progressive_1": "i,am,telling,someone,how,i,feel,inside,.",
     "order_passive_1": "sad,feelings,can,be,helped,by,talking,to,adults,.",
     "order_subordinate_1": "when,i,feel,sad,for,a,long,time,,,i,talk,to,someone,.",
-    "order_passive_beginner_2": "by talking to,adults,sad feelings,can be helped,."
+    "order_passive_beginner_2": "by talking to,adults,sad feelings,can be helped,.",
+    "order_subordinate_beginner_2": "i talk to,someone,when,i feel sad for a long time,.",
+    "order_subordinate_2": "i,talk,to,someone,when,i,feel,sad,for,a,long,time,."
   },
   {
     "id": "personal-safety-39",
@@ -3702,17 +3753,16 @@
       "adult",
       "."
     ],
-    "order_active_beginner_1": "i tell an adult,immediately when someone,is in,serious trouble,.",
     "order_progressive_beginner_1": "i,am getting help,for my friend,right away,.",
-    "order_passive_beginner_1": "adults,should be told,about serious trouble,immediately,.",
     "order_subordinate_beginner_1": "if,someone needs help urgently,,,i call 988 or,tell an adult,.",
-    "order_active_1": "i,tell,an,adult,immediately,when,someone,is,in,serious,trouble,.",
     "order_progressive_1": "i,am,getting,help,for,my,friend,right,away,.",
-    "order_passive_1": "adults,should,be,told,about,serious,trouble,immediately,.",
     "order_subordinate_1": "if,someone,needs,help,urgently,,,i,call,988,or,tell,an,adult,.",
-    "order_active_2": "immediately,i,tell,an,adult,when,someone,is,in,serious,trouble,.",
-    "order_passive_beginner_2": "immediately,adults,should be told,about serious trouble,.",
-    "order_passive_2": "immediately,adults,should,be,told,about,serious,trouble,."
+    "order_active_beginner_1": "i tell an adult,immediately when someone,is in,serious trouble,.",
+    "order_active_1": "i,tell,an,adult,immediately,when,someone,is,in,serious,trouble,.",
+    "order_passive_beginner_1": "adults,should be told,about serious trouble,immediately,.",
+    "order_passive_1": "adults,should,be,told,about,serious,trouble,immediately,.",
+    "order_subordinate_beginner_2": "i call 988 or,tell an adult,if,someone needs help urgently,.",
+    "order_subordinate_2": "i,call,988,or,tell,an,adult,if,someone,needs,help,urgently,."
   },
   {
     "id": "personal-safety-40",
@@ -3802,14 +3852,14 @@
     ],
     "order_active_beginner_1": "my safety and feelings,matter to people,who love,me,.",
     "order_progressive_beginner_1": "i,am speaking up,when i need,help,.",
-    "order_passive_beginner_1": "my safety,is cared about,by loving,adults,.",
     "order_subordinate_beginner_1": "because,i am important,,,i deserve to be,safe,.",
     "order_active_1": "my,safety,and,feelings,matter,to,people,who,love,me,.",
     "order_progressive_1": "i,am,speaking,up,when,i,need,help,.",
-    "order_passive_1": "my,safety,is,cared,about,by,loving,adults,.",
     "order_subordinate_1": "because,i,am,important,,,i,deserve,to,be,safe,.",
-    "order_passive_beginner_2": "by loving,adults,my safety,is cared about,.",
-    "order_passive_2": "by,loving,adults,my,safety,is,cared,about,."
+    "order_passive_beginner_1": "my safety,is cared about,by loving,adults,.",
+    "order_passive_1": "my,safety,is,cared,about,by,loving,adults,.",
+    "order_subordinate_beginner_2": "i deserve to be,safe,because,i am important,.",
+    "order_subordinate_2": "i,deserve,to,be,safe,because,i,am,important,."
   },
   {
     "id": "personal-safety-41",
@@ -3906,7 +3956,9 @@
     "order_progressive_1": "i,am,building,my,list,of,trusted,adults,.",
     "order_passive_1": "a,safety,network,is,made,of,trusted,adults,.",
     "order_subordinate_1": "if,one,adult,cannot,help,,,i,go,to,the,next,one,.",
-    "order_active_beginner_2": "in my,safety network,i have five,trusted adults,."
+    "order_active_beginner_2": "in my,safety network,i have five,trusted adults,.",
+    "order_subordinate_beginner_2": "i go to,the next one,if,one adult cannot help,.",
+    "order_subordinate_2": "i,go,to,the,next,one,if,one,adult,cannot,help,."
   },
   {
     "id": "personal-safety-42",
@@ -3999,7 +4051,9 @@
     "order_progressive_1": "i,am,practicing,using,my,strong,voice,.",
     "order_passive_1": "safety,is,created,by,using,my,voice,.",
     "order_subordinate_1": "when,i,use,my,voice,,,i,help,myself,and,others,.",
-    "order_passive_beginner_2": "by using,my voice,safety,is created,."
+    "order_passive_beginner_2": "by using,my voice,safety,is created,.",
+    "order_subordinate_beginner_2": "i help myself,and others,when,i use my voice,.",
+    "order_subordinate_2": "i,help,myself,and,others,when,i,use,my,voice,."
   },
   {
     "id": "personal-safety-43",
@@ -4094,7 +4148,9 @@
     "order_subordinate_1": "because,i,am,prepared,,,i,know,what,to,do,.",
     "order_active_beginner_2": "in any,situation,being prepared,helps me stay safe,.",
     "order_passive_beginner_2": "by being,prepared,safety,is improved,.",
-    "order_passive_2": "by,being,prepared,safety,is,improved,."
+    "order_passive_2": "by,being,prepared,safety,is,improved,.",
+    "order_subordinate_beginner_2": "i know what,to do,because,i am prepared,.",
+    "order_subordinate_2": "i,know,what,to,do,because,i,am,prepared,."
   },
   {
     "id": "personal-safety-44",
@@ -4182,14 +4238,14 @@
     ],
     "order_active_beginner_1": "my instincts,help protect me,from,danger,.",
     "order_progressive_beginner_1": "i,am listening to,my inner,warning signals,.",
-    "order_passive_beginner_1": "warnings,are given to me,by my,instincts,.",
     "order_subordinate_beginner_1": "when,something feels wrong,,,i trust my feelings,and act,.",
     "order_active_1": "my,instincts,help,protect,me,from,danger,.",
     "order_progressive_1": "i,am,listening,to,my,inner,warning,signals,.",
-    "order_passive_1": "warnings,are,given,to,me,by,my,instincts,.",
     "order_subordinate_1": "when,something,feels,wrong,,,i,trust,my,feelings,and,act,.",
-    "order_passive_beginner_2": "by my,instincts,warnings,are given to me,.",
-    "order_passive_2": "by,my,instincts,warnings,are,given,to,me,."
+    "order_passive_beginner_1": "warnings,are given to me,by my,instincts,.",
+    "order_passive_1": "warnings,are,given,to,me,by,my,instincts,.",
+    "order_subordinate_beginner_2": "i trust my feelings,and act,when,something feels wrong,.",
+    "order_subordinate_2": "i,trust,my,feelings,and,act,when,something,feels,wrong,."
   },
   {
     "id": "personal-safety-45",
@@ -4204,8 +4260,7 @@
       "i know the rules",
       "to keep myself",
       "safe",
-      ".",
-      ""
+      "."
     ],
     "tiles_progressive": [
       "i",
@@ -4277,15 +4332,15 @@
       "prepared",
       "."
     ],
-    "order_active_beginner_1": "i know the rules,to keep myself,safe,.,",
+    "order_active_beginner_1": "i know the rules,to keep myself,safe,.",
     "order_progressive_beginner_1": "i,am using what i learned,to stay,safe,.",
-    "order_passive_beginner_1": "safety rules,are remembered,and used,by me,.",
     "order_subordinate_beginner_1": "because,i learned safety rules,,,i am strong,and prepared,.",
     "order_active_1": "i,know,the,rules,to,keep,myself,safe,.",
     "order_progressive_1": "i,am,using,what,i,learned,to,stay,safe,.",
-    "order_passive_1": "safety,rules,are,remembered,and,used,by,me,.",
     "order_subordinate_1": "because,i,learned,safety,rules,,,i,am,strong,and,prepared,.",
-    "order_passive_beginner_2": "by me,safety rules,are remembered,and used,.",
-    "order_passive_2": "by,me,safety,rules,are,remembered,and,used,."
+    "order_passive_beginner_1": "safety rules,are remembered,and used,by me,.",
+    "order_passive_1": "safety,rules,are,remembered,and,used,by,me,.",
+    "order_subordinate_beginner_2": "i am strong,and prepared,because,i learned safety rules,.",
+    "order_subordinate_2": "i,am,strong,and,prepared,because,i,learned,safety,rules,."
   }
 ]

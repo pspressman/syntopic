@@ -89,17 +89,15 @@
       "."
     ],
     "order_active_beginner_1": "major expenses,cost more than,10%,of monthly income,.",
-    "order_progressive_beginner_1": "major expenses,are costing,more than 10%,of monthly income,.",
-    "order_passive_beginner_1": "more than 10%,of income,is required,by major expenses,.",
-    "order_subordinate_beginner_1": "because,they cost so much,,,major expenses,require planning,.",
     "order_active_1": "major,expenses,cost,more,than,10%,of,monthly,income,.",
+    "order_progressive_beginner_1": "major expenses,are costing,more than 10%,of monthly income,.",
     "order_progressive_1": "major,expenses,are,costing,more,than,10%,of,monthly,income,.",
+    "order_passive_beginner_1": "more than 10%,of income,is required,by major expenses,.",
     "order_passive_1": "more,than,10%,of,income,is,required,by,major,expenses,.",
-    "order_subordinate_1": "because,they,cost,so,much,,,major,expenses,require,planning,.",
+    "order_subordinate_beginner_1": "because,they cost so much,,,major expenses,require planning,.",
     "order_subordinate_beginner_2": "major expenses,require planning,because,they cost so much,.",
-    "order_subordinate_2": "major,expenses,require,planning,because,they,cost,so,much,.",
-    "order_passive_beginner_2": "by major expenses,more than 10%,of income,is required,.",
-    "order_passive_2": "by,major,expenses,more,than,10%,of,income,is,required,."
+    "order_subordinate_1": "because,they,cost,so,much,,,major,expenses,require,planning,.",
+    "order_subordinate_2": "major,expenses,require,planning,because,they,cost,so,much,."
   },
   {
     "id": "personal-mgmt-2",
@@ -185,17 +183,15 @@
       "."
     ],
     "order_active_beginner_1": "a budget,tracks,income and expenses,to control spending,.",
-    "order_progressive_beginner_1": "a budget,is tracking,income and expenses,to control spending,.",
-    "order_passive_beginner_1": "income and expenses,are tracked,by a budget,.",
-    "order_subordinate_beginner_1": "to,control spending,,,people,create budgets,.",
     "order_active_1": "a,budget,tracks,income,and,expenses,to,control,spending,.",
+    "order_progressive_beginner_1": "a budget,is tracking,income and expenses,to control spending,.",
     "order_progressive_1": "a,budget,is,tracking,income,and,expenses,to,control,spending,.",
+    "order_passive_beginner_1": "income and expenses,are tracked,by a budget,.",
     "order_passive_1": "income,and,expenses,are,tracked,by,a,budget,.",
-    "order_subordinate_1": "to,control,spending,,,people,create,budgets,.",
+    "order_subordinate_beginner_1": "to,control spending,,,people,create budgets,.",
     "order_subordinate_beginner_2": "people,create budgets,to,control spending,.",
-    "order_subordinate_2": "people,create,budgets,to,control,spending,.",
-    "order_passive_beginner_2": "by a budget,income and expenses,are tracked,.",
-    "order_passive_2": "by,a,budget,income,and,expenses,are,tracked,."
+    "order_subordinate_1": "to,control,spending,,,people,create,budgets,.",
+    "order_subordinate_2": "people,create,budgets,to,control,spending,."
   },
   {
     "id": "personal-mgmt-3",
@@ -283,19 +279,15 @@
       "."
     ],
     "order_active_beginner_1": "smart shoppers,compare prices,at different,stores,.",
-    "order_progressive_beginner_1": "smart shoppers,are comparing,prices,at different stores,.",
-    "order_passive_beginner_1": "prices,are compared,at different stores,by smart shoppers,.",
-    "order_subordinate_beginner_1": "before,buying,,,smart shoppers,compare prices,at different stores,.",
     "order_active_1": "smart,shoppers,compare,prices,at,different,stores,.",
+    "order_progressive_beginner_1": "smart shoppers,are comparing,prices,at different stores,.",
     "order_progressive_1": "smart,shoppers,are,comparing,prices,at,different,stores,.",
+    "order_passive_beginner_1": "prices,are compared,at different stores,by smart shoppers,.",
     "order_passive_1": "prices,are,compared,at,different,stores,by,smart,shoppers,.",
-    "order_subordinate_1": "before,buying,,,smart,shoppers,compare,prices,at,different,stores,.",
+    "order_subordinate_beginner_1": "before,buying,,,smart shoppers,compare prices,at different stores,.",
     "order_subordinate_beginner_2": "smart shoppers,compare prices,at different stores,before,buying,.",
-    "order_subordinate_2": "smart,shoppers,compare,prices,at,different,stores,before,buying,.",
-    "order_active_beginner_2": "at different,stores,smart shoppers,compare prices,.",
-    "order_progressive_beginner_2": "at different stores,smart shoppers,are comparing,prices,.",
-    "order_passive_beginner_2": "by smart shoppers,prices,are compared,at different stores,.",
-    "order_passive_2": "by,smart,shoppers,prices,are,compared,at,different,stores,."
+    "order_subordinate_1": "before,buying,,,smart,shoppers,compare,prices,at,different,stores,.",
+    "order_subordinate_2": "smart,shoppers,compare,prices,at,different,stores,before,buying,."
   },
   {
     "id": "personal-mgmt-4",
@@ -385,14 +377,14 @@
       "."
     ],
     "order_active_beginner_1": "income,is money coming in,while expenses,go out,.",
-    "order_progressive_beginner_1": "income,is coming in,while expenses,are going out,.",
-    "order_passive_beginner_1": "money,is received as income,and spent,as expenses,.",
-    "order_subordinate_beginner_1": "while,income brings money in,,,expenses,take money out,.",
     "order_active_1": "income,is,money,coming,in,while,expenses,go,out,.",
+    "order_progressive_beginner_1": "income,is coming in,while expenses,are going out,.",
     "order_progressive_1": "income,is,coming,in,while,expenses,are,going,out,.",
+    "order_passive_beginner_1": "money,is received as income,and spent,as expenses,.",
     "order_passive_1": "money,is,received,as,income,and,spent,as,expenses,.",
-    "order_subordinate_1": "while,income,brings,money,in,,,expenses,take,money,out,.",
+    "order_subordinate_beginner_1": "while,income brings money in,,,expenses,take money out,.",
     "order_subordinate_beginner_2": "expenses,take money out,while,income brings money in,.",
+    "order_subordinate_1": "while,income,brings,money,in,,,expenses,take,money,out,.",
     "order_subordinate_2": "expenses,take,money,out,while,income,brings,money,in,."
   },
   {
@@ -478,16 +470,13 @@
       "."
     ],
     "order_active_beginner_1": "excitement,about money,can cause,unwise spending,.",
-    "order_progressive_beginner_1": "excitement,about money,is causing,unwise spending,.",
-    "order_passive_beginner_1": "unwise spending,is caused,by excitement,about money,.",
-    "order_subordinate_beginner_1": "when,people feel excited,,,they may spend,money unwisely,.",
     "order_active_1": "excitement,about,money,can,cause,unwise,spending,.",
+    "order_progressive_beginner_1": "excitement,about money,is causing,unwise spending,.",
     "order_progressive_1": "excitement,about,money,is,causing,unwise,spending,.",
+    "order_passive_beginner_1": "unwise spending,is caused,by excitement,about money,.",
     "order_passive_1": "unwise,spending,is,caused,by,excitement,about,money,.",
-    "order_subordinate_1": "when,people,feel,excited,,,they,may,spend,money,unwisely,.",
-    "order_subordinate_beginner_2": "they may spend,money unwisely,when,people feel excited,.",
-    "order_subordinate_2": "they,may,spend,money,unwisely,when,people,feel,excited,.",
-    "order_passive_beginner_2": "by excitement,about money,unwise spending,is caused,."
+    "order_subordinate_beginner_1": "when,people feel excited,,,they may spend,money unwisely,.",
+    "order_subordinate_1": "when,people,feel,excited,,,they,may,spend,money,unwisely,."
   },
   {
     "id": "personal-mgmt-6",
@@ -571,14 +560,14 @@
       "."
     ],
     "order_active_beginner_1": "buyer's remorse,is,regretting,a purchase you made,.",
-    "order_progressive_beginner_1": "buyer's remorse,is happening,when people,regret purchases,.",
-    "order_passive_beginner_1": "regret about purchases,is called,buyer's remorse,.",
-    "order_subordinate_beginner_1": "after,buying something unneeded,,,people feel,buyer's remorse,.",
     "order_active_1": "buyer's,remorse,is,regretting,a,purchase,you,made,.",
+    "order_progressive_beginner_1": "buyer's remorse,is happening,when people,regret purchases,.",
     "order_progressive_1": "buyer's,remorse,is,happening,when,people,regret,purchases,.",
+    "order_passive_beginner_1": "regret about purchases,is called,buyer's remorse,.",
     "order_passive_1": "regret,about,purchases,is,called,buyer's,remorse,.",
-    "order_subordinate_1": "after,buying,something,unneeded,,,people,feel,buyer's,remorse,.",
+    "order_subordinate_beginner_1": "after,buying something unneeded,,,people feel,buyer's remorse,.",
     "order_subordinate_beginner_2": "people feel,buyer's remorse,after,buying something unneeded,.",
+    "order_subordinate_1": "after,buying,something,unneeded,,,people,feel,buyer's,remorse,.",
     "order_subordinate_2": "people,feel,buyer's,remorse,after,buying,something,unneeded,."
   },
   {
@@ -666,16 +655,15 @@
       "."
     ],
     "order_active_beginner_1": "hungry shoppers,buy,more food,than they need,.",
-    "order_progressive_beginner_1": "hungry shoppers,are buying,more food,than they need,.",
-    "order_passive_beginner_1": "more food,is bought,by shoppers,who are hungry,.",
-    "order_subordinate_beginner_1": "because,hunger affects judgment,,,eat,before shopping,.",
     "order_active_1": "hungry,shoppers,buy,more,food,than,they,need,.",
+    "order_progressive_beginner_1": "hungry shoppers,are buying,more food,than they need,.",
     "order_progressive_1": "hungry,shoppers,are,buying,more,food,than,they,need,.",
+    "order_passive_beginner_1": "more food,is bought,by shoppers,who are hungry,.",
     "order_passive_1": "more,food,is,bought,by,shoppers,who,are,hungry,.",
-    "order_subordinate_1": "because,hunger,affects,judgment,,,eat,before,shopping,.",
+    "order_subordinate_beginner_1": "because,hunger affects judgment,,,eat,before shopping,.",
     "order_subordinate_beginner_2": "eat,before shopping,because,hunger affects judgment,.",
-    "order_subordinate_2": "eat,before,shopping,because,hunger,affects,judgment,.",
-    "order_passive_beginner_2": "by shoppers,who are hungry,more food,is bought,."
+    "order_subordinate_1": "because,hunger,affects,judgment,,,eat,before,shopping,.",
+    "order_subordinate_2": "eat,before,shopping,because,hunger,affects,judgment,."
   },
   {
     "id": "personal-mgmt-8",
@@ -683,7 +671,7 @@
     "text_segment": "Saving means putting money in a safe place like a bank account. Investing means buying things like stocks that might grow in value. Savings are safer but grow slowly, while investments can grow faster but have more risk.",
     "question": "Explain the difference between saving and investing.",
     "Active": "Saving is safe while investing has more risk and reward.",
-    "Progressive": "Saving is being safe while investing carries more risk.",
+    "Progressive": "Savers are keeping money safe while investors are taking risks.",
     "Passive": "Safety is provided by saving while risk comes with investing.",
     "Subordinate": "Although saving is safer, investing can grow money faster.",
     "tiles_active": [
@@ -694,10 +682,10 @@
       "."
     ],
     "tiles_progressive": [
-      "saving",
-      "is being safe",
-      "while investing",
-      "carries more risk",
+      "savers",
+      "are keeping money safe",
+      "while investors",
+      "are taking risks",
       "."
     ],
     "tiles_passive": [
@@ -729,15 +717,16 @@
       "."
     ],
     "tiles_progressive_advanced": [
-      "saving",
-      "is",
-      "being",
+      "savers",
+      "are",
+      "keeping",
+      "money",
       "safe",
       "while",
-      "investing",
-      "carries",
-      "more",
-      "risk",
+      "investors",
+      "are",
+      "taking",
+      "risks",
       "."
     ],
     "tiles_passive_advanced": [
@@ -767,14 +756,14 @@
       "."
     ],
     "order_active_beginner_1": "saving,is safe,while investing,has more risk and reward,.",
-    "order_progressive_beginner_1": "saving,is being safe,while investing,carries more risk,.",
-    "order_passive_beginner_1": "safety,is provided by saving,while risk,comes with investing,.",
-    "order_subordinate_beginner_1": "although,saving is safer,,,investing can,grow money faster,.",
     "order_active_1": "saving,is,safe,while,investing,has,more,risk,and,reward,.",
-    "order_progressive_1": "saving,is,being,safe,while,investing,carries,more,risk,.",
+    "order_progressive_beginner_1": "savers,are keeping money safe,while investors,are taking risks,.",
+    "order_progressive_1": "savers,are,keeping,money,safe,while,investors,are,taking,risks,.",
+    "order_passive_beginner_1": "safety,is provided by saving,while risk,comes with investing,.",
     "order_passive_1": "safety,is,provided,by,saving,while,risk,comes,with,investing,.",
-    "order_subordinate_1": "although,saving,is,safer,,,investing,can,grow,money,faster,.",
+    "order_subordinate_beginner_1": "although,saving is safer,,,investing can,grow money faster,.",
     "order_subordinate_beginner_2": "investing can,grow money faster,although,saving is safer,.",
+    "order_subordinate_1": "although,saving,is,safer,,,investing,can,grow,money,faster,.",
     "order_subordinate_2": "investing,can,grow,money,faster,although,saving,is,safer,."
   },
   {
@@ -783,7 +772,7 @@
     "text_segment": "Return on investment is how much money you earn from an investment. Risk is the chance you might lose money. Higher returns usually come with higher risks. Safe investments earn less money.",
     "question": "Explain how risk and return are related.",
     "Active": "Higher returns usually come with higher risks.",
-    "Progressive": "Higher returns are usually coming with higher risks.",
+    "Progressive": "Investors are accepting higher risks for higher returns.",
     "Passive": "Higher risks are usually required for higher returns.",
     "Subordinate": "When seeking higher returns, investors accept higher risks.",
     "tiles_active": [
@@ -794,10 +783,10 @@
       "."
     ],
     "tiles_progressive": [
-      "higher returns",
-      "are usually coming",
-      "with higher",
-      "risks",
+      "investors",
+      "are accepting",
+      "higher risks",
+      "for higher returns",
       "."
     ],
     "tiles_passive": [
@@ -826,14 +815,14 @@
       "."
     ],
     "tiles_progressive_advanced": [
-      "higher",
-      "returns",
+      "investors",
       "are",
-      "usually",
-      "coming",
-      "with",
+      "accepting",
       "higher",
       "risks",
+      "for",
+      "higher",
+      "returns",
       "."
     ],
     "tiles_passive_advanced": [
@@ -860,18 +849,15 @@
       "."
     ],
     "order_active_beginner_1": "higher returns,usually come,with higher,risks,.",
-    "order_progressive_beginner_1": "higher returns,are usually coming,with higher,risks,.",
-    "order_passive_beginner_1": "higher risks,are usually required,for higher,returns,.",
-    "order_subordinate_beginner_1": "when,seeking higher returns,,,investors,accept higher risks,.",
     "order_active_1": "higher,returns,usually,come,with,higher,risks,.",
-    "order_progressive_1": "higher,returns,are,usually,coming,with,higher,risks,.",
+    "order_progressive_beginner_1": "investors,are accepting,higher risks,for higher returns,.",
+    "order_progressive_1": "investors,are,accepting,higher,risks,for,higher,returns,.",
+    "order_passive_beginner_1": "higher risks,are usually required,for higher,returns,.",
     "order_passive_1": "higher,risks,are,usually,required,for,higher,returns,.",
-    "order_subordinate_1": "when,seeking,higher,returns,,,investors,accept,higher,risks,.",
+    "order_subordinate_beginner_1": "when,seeking higher returns,,,investors,accept higher risks,.",
     "order_subordinate_beginner_2": "investors,accept higher risks,when,seeking higher returns,.",
-    "order_subordinate_2": "investors,accept,higher,risks,when,seeking,higher,returns,.",
-    "order_active_2": "usually,higher,returns,come,with,higher,risks,.",
-    "order_progressive_2": "usually,higher,returns,are,coming,with,higher,risks,.",
-    "order_passive_2": "usually,higher,risks,are,required,for,higher,returns,."
+    "order_subordinate_1": "when,seeking,higher,returns,,,investors,accept,higher,risks,.",
+    "order_subordinate_2": "investors,accept,higher,risks,when,seeking,higher,returns,."
   },
   {
     "id": "personal-mgmt-10",
@@ -961,17 +947,15 @@
       "."
     ],
     "order_active_beginner_1": "simple interest,is calculated,on the original,amount only,.",
-    "order_progressive_beginner_1": "simple interest,is being calculated,on the original,amount,.",
-    "order_passive_beginner_1": "the original amount,is used,to calculate,simple interest,.",
-    "order_subordinate_beginner_1": "when,calculating simple interest,,,use only,the original amount,.",
     "order_active_1": "simple,interest,is,calculated,on,the,original,amount,only,.",
+    "order_progressive_beginner_1": "simple interest,is being calculated,on the original,amount,.",
     "order_progressive_1": "simple,interest,is,being,calculated,on,the,original,amount,.",
+    "order_passive_beginner_1": "the original amount,is used,to calculate,simple interest,.",
     "order_passive_1": "the,original,amount,is,used,to,calculate,simple,interest,.",
-    "order_subordinate_1": "when,calculating,simple,interest,,,use,only,the,original,amount,.",
+    "order_subordinate_beginner_1": "when,calculating simple interest,,,use only,the original amount,.",
     "order_subordinate_beginner_2": "use only,the original amount,when,calculating simple interest,.",
-    "order_subordinate_2": "use,only,the,original,amount,when,calculating,simple,interest,.",
-    "order_active_beginner_2": "on the original,amount only,simple interest,is calculated,.",
-    "order_progressive_beginner_2": "on the original,amount,simple interest,is being calculated,."
+    "order_subordinate_1": "when,calculating,simple,interest,,,use,only,the,original,amount,.",
+    "order_subordinate_2": "use,only,the,original,amount,when,calculating,simple,interest,."
   },
   {
     "id": "personal-mgmt-11",
@@ -1055,17 +1039,15 @@
       "."
     ],
     "order_active_beginner_1": "compound interest,earns,interest,on your previous interest,.",
-    "order_progressive_beginner_1": "compound interest,is earning,interest,on previous interest,.",
-    "order_passive_beginner_1": "interest on interest,is earned,through compounding,.",
-    "order_subordinate_beginner_1": "because,interest compounds,,,money grows,faster over time,.",
     "order_active_1": "compound,interest,earns,interest,on,your,previous,interest,.",
+    "order_progressive_beginner_1": "compound interest,is earning,interest,on previous interest,.",
     "order_progressive_1": "compound,interest,is,earning,interest,on,previous,interest,.",
+    "order_passive_beginner_1": "interest on interest,is earned,through compounding,.",
     "order_passive_1": "interest,on,interest,is,earned,through,compounding,.",
-    "order_subordinate_1": "because,interest,compounds,,,money,grows,faster,over,time,.",
+    "order_subordinate_beginner_1": "because,interest compounds,,,money grows,faster over time,.",
     "order_subordinate_beginner_2": "money grows,faster over time,because,interest compounds,.",
-    "order_subordinate_2": "money,grows,faster,over,time,because,interest,compounds,.",
-    "order_active_beginner_2": "on your previous interest,compound interest,earns,interest,.",
-    "order_progressive_beginner_2": "on previous interest,compound interest,is earning,interest,."
+    "order_subordinate_1": "because,interest,compounds,,,money,grows,faster,over,time,.",
+    "order_subordinate_2": "money,grows,faster,over,time,because,interest,compounds,."
   },
   {
     "id": "personal-mgmt-12",
@@ -1147,14 +1129,14 @@
       "."
     ],
     "order_active_beginner_1": "diversification,spreads investments,to reduce,risk,.",
-    "order_progressive_beginner_1": "diversification,is spreading,investments,to reduce risk,.",
-    "order_passive_beginner_1": "risk,is reduced,when investments,are diversified,.",
-    "order_subordinate_beginner_1": "by,spreading investments around,,,people,reduce their risk,.",
     "order_active_1": "diversification,spreads,investments,to,reduce,risk,.",
+    "order_progressive_beginner_1": "diversification,is spreading,investments,to reduce risk,.",
     "order_progressive_1": "diversification,is,spreading,investments,to,reduce,risk,.",
+    "order_passive_beginner_1": "risk,is reduced,when investments,are diversified,.",
     "order_passive_1": "risk,is,reduced,when,investments,are,diversified,.",
-    "order_subordinate_1": "by,spreading,investments,around,,,people,reduce,their,risk,.",
+    "order_subordinate_beginner_1": "by,spreading investments around,,,people,reduce their risk,.",
     "order_subordinate_beginner_2": "people,reduce their risk,by,spreading investments around,.",
+    "order_subordinate_1": "by,spreading,investments,around,,,people,reduce,their,risk,.",
     "order_subordinate_2": "people,reduce,their,risk,by,spreading,investments,around,."
   },
   {
@@ -1246,14 +1228,14 @@
       "."
     ],
     "order_active_beginner_1": "people save,for retirement,because income stops,when they stop working,.",
-    "order_progressive_beginner_1": "people,are saving,for retirement,because income will stop,.",
-    "order_passive_beginner_1": "retirement savings,are needed,because work income,stops,.",
-    "order_subordinate_beginner_1": "since,income stops in retirement,,,people,must save beforehand,.",
     "order_active_1": "people,save,for,retirement,because,income,stops,when,they,stop,working,.",
+    "order_progressive_beginner_1": "people,are saving,for retirement,because income will stop,.",
     "order_progressive_1": "people,are,saving,for,retirement,because,income,will,stop,.",
+    "order_passive_beginner_1": "retirement savings,are needed,because work income,stops,.",
     "order_passive_1": "retirement,savings,are,needed,because,work,income,stops,.",
-    "order_subordinate_1": "since,income,stops,in,retirement,,,people,must,save,beforehand,.",
+    "order_subordinate_beginner_1": "since,income stops in retirement,,,people,must save beforehand,.",
     "order_subordinate_beginner_2": "people,must save beforehand,since,income stops in retirement,.",
+    "order_subordinate_1": "since,income,stops,in,retirement,,,people,must,save,beforehand,.",
     "order_subordinate_2": "people,must,save,beforehand,since,income,stops,in,retirement,."
   },
   {
@@ -1262,7 +1244,7 @@
     "text_segment": "Common stocks represent ownership in a percentage of a company. When the company grows and earns more money, your stock becomes more valuable. You can sell your stock at a trading price shown online.",
     "question": "Explain what common stocks are.",
     "Active": "Stocks represent ownership in a percentage of a company.",
-    "Progressive": "Stocks are representing ownership in a company.",
+    "Progressive": "Investors are buying stocks to own part of a company.",
     "Passive": "Ownership in a company is represented by stocks.",
     "Subordinate": "When you buy stock, you own part of a company.",
     "tiles_active": [
@@ -1273,10 +1255,10 @@
       "."
     ],
     "tiles_progressive": [
-      "stocks",
-      "are representing",
-      "ownership",
-      "in a company",
+      "investors",
+      "are buying stocks",
+      "to own part",
+      "of a company",
       "."
     ],
     "tiles_passive": [
@@ -1306,11 +1288,14 @@
       "."
     ],
     "tiles_progressive_advanced": [
-      "stocks",
+      "investors",
       "are",
-      "representing",
-      "ownership",
-      "in",
+      "buying",
+      "stocks",
+      "to",
+      "own",
+      "part",
+      "of",
       "a",
       "company",
       "."
@@ -1341,19 +1326,15 @@
       "."
     ],
     "order_active_beginner_1": "stocks,represent ownership,in a percentage,of a company,.",
-    "order_progressive_beginner_1": "stocks,are representing,ownership,in a company,.",
-    "order_passive_beginner_1": "ownership in a company,is represented,by stocks,.",
-    "order_subordinate_beginner_1": "when,you buy stock,,,you own,part of a company,.",
     "order_active_1": "stocks,represent,ownership,in,a,percentage,of,a,company,.",
-    "order_progressive_1": "stocks,are,representing,ownership,in,a,company,.",
+    "order_progressive_beginner_1": "investors,are buying stocks,to own part,of a company,.",
+    "order_progressive_1": "investors,are,buying,stocks,to,own,part,of,a,company,.",
+    "order_passive_beginner_1": "ownership in a company,is represented,by stocks,.",
     "order_passive_1": "ownership,in,a,company,is,represented,by,stocks,.",
-    "order_subordinate_1": "when,you,buy,stock,,,you,own,part,of,a,company,.",
+    "order_subordinate_beginner_1": "when,you buy stock,,,you own,part of a company,.",
     "order_subordinate_beginner_2": "you own,part of a company,when,you buy stock,.",
-    "order_subordinate_2": "you,own,part,of,a,company,when,you,buy,stock,.",
-    "order_active_beginner_2": "in a percentage,of a company,stocks,represent ownership,.",
-    "order_progressive_beginner_2": "in a company,stocks,are representing,ownership,.",
-    "order_passive_beginner_2": "by stocks,ownership in a company,is represented,.",
-    "order_passive_2": "by,stocks,ownership,in,a,company,is,represented,."
+    "order_subordinate_1": "when,you,buy,stock,,,you,own,part,of,a,company,.",
+    "order_subordinate_2": "you,own,part,of,a,company,when,you,buy,stock,."
   },
   {
     "id": "personal-mgmt-15",
@@ -1441,14 +1422,14 @@
       "."
     ],
     "order_active_beginner_1": "mutual funds,combine money,from many people,into one investment,.",
-    "order_progressive_beginner_1": "mutual funds,are combining,money,from many people,.",
-    "order_passive_beginner_1": "money from many people,is combined,in mutual funds,.",
-    "order_subordinate_beginner_1": "by,pooling money together,,,mutual funds,provide diversification,.",
     "order_active_1": "mutual,funds,combine,money,from,many,people,into,one,investment,.",
+    "order_progressive_beginner_1": "mutual funds,are combining,money,from many people,.",
     "order_progressive_1": "mutual,funds,are,combining,money,from,many,people,.",
+    "order_passive_beginner_1": "money from many people,is combined,in mutual funds,.",
     "order_passive_1": "money,from,many,people,is,combined,in,mutual,funds,.",
-    "order_subordinate_1": "by,pooling,money,together,,,mutual,funds,provide,diversification,.",
+    "order_subordinate_beginner_1": "by,pooling money together,,,mutual funds,provide diversification,.",
     "order_subordinate_beginner_2": "mutual funds,provide diversification,by,pooling money together,.",
+    "order_subordinate_1": "by,pooling,money,together,,,mutual,funds,provide,diversification,.",
     "order_subordinate_2": "mutual,funds,provide,diversification,by,pooling,money,together,."
   },
   {
@@ -1541,18 +1522,15 @@
       "."
     ],
     "order_active_beginner_1": "savings accounts,store money safely,and earn,small interest,.",
-    "order_progressive_beginner_1": "savings accounts,are storing,money safely,and earning interest,.",
-    "order_passive_beginner_1": "money,is stored safely,and earns interest,in savings accounts,.",
-    "order_subordinate_beginner_1": "because,money is easy to access,,,savings accounts,are liquid,.",
     "order_active_1": "savings,accounts,store,money,safely,and,earn,small,interest,.",
+    "order_progressive_beginner_1": "savings accounts,are storing,money safely,and earning interest,.",
     "order_progressive_1": "savings,accounts,are,storing,money,safely,and,earning,interest,.",
+    "order_passive_beginner_1": "money,is stored safely,and earns interest,in savings accounts,.",
     "order_passive_1": "money,is,stored,safely,and,earns,interest,in,savings,accounts,.",
-    "order_subordinate_1": "because,money,is,easy,to,access,,,savings,accounts,are,liquid,.",
+    "order_subordinate_beginner_1": "because,money is easy to access,,,savings accounts,are liquid,.",
     "order_subordinate_beginner_2": "savings accounts,are liquid,because,money is easy to access,.",
-    "order_subordinate_2": "savings,accounts,are,liquid,because,money,is,easy,to,access,.",
-    "order_active_2": "safely,savings,accounts,store,money,and,earn,small,interest,.",
-    "order_progressive_2": "safely,savings,accounts,are,storing,money,and,earning,interest,.",
-    "order_passive_2": "safely,money,is,stored,and,earns,interest,in,savings,accounts,."
+    "order_subordinate_1": "because,money,is,easy,to,access,,,savings,accounts,are,liquid,.",
+    "order_subordinate_2": "savings,accounts,are,liquid,because,money,is,easy,to,access,."
   },
   {
     "id": "personal-mgmt-17",
@@ -1642,16 +1620,15 @@
       "."
     ],
     "order_active_beginner_1": "a cd,locks money away,for higher,interest,.",
-    "order_progressive_beginner_1": "a cd,is locking,money away,for higher interest,.",
-    "order_passive_beginner_1": "money,is locked away,by a cd,for higher interest,.",
-    "order_subordinate_beginner_1": "although,cds pay more interest,,,money is,locked away,.",
     "order_active_1": "a,cd,locks,money,away,for,higher,interest,.",
+    "order_progressive_beginner_1": "a cd,is locking,money away,for higher interest,.",
     "order_progressive_1": "a,cd,is,locking,money,away,for,higher,interest,.",
+    "order_passive_beginner_1": "money,is locked away,by a cd,for higher interest,.",
     "order_passive_1": "money,is,locked,away,by,a,cd,for,higher,interest,.",
-    "order_subordinate_1": "although,cds,pay,more,interest,,,money,is,locked,away,.",
+    "order_subordinate_beginner_1": "although,cds pay more interest,,,money is,locked away,.",
     "order_subordinate_beginner_2": "money is,locked away,although,cds pay more interest,.",
-    "order_subordinate_2": "money,is,locked,away,although,cds,pay,more,interest,.",
-    "order_passive_beginner_2": "by a cd,for higher interest,money,is locked away,."
+    "order_subordinate_1": "although,cds,pay,more,interest,,,money,is,locked,away,.",
+    "order_subordinate_2": "money,is,locked,away,although,cds,pay,more,interest,."
   },
   {
     "id": "personal-mgmt-18",
@@ -1659,7 +1636,7 @@
     "text_segment": "A U.S. savings bond is a loan you make to the government. The government promises to pay you back with interest after a certain time. Bonds are very safe because they are backed by the federal government.",
     "question": "Explain what a U.S. savings bond is.",
     "Active": "A savings bond is a loan to the government that earns interest.",
-    "Progressive": "A savings bond is being a loan to the government.",
+    "Progressive": "People are lending money to the government through savings bonds.",
     "Passive": "Money is loaned to the government through savings bonds.",
     "Subordinate": "Because the government backs them, savings bonds are safe.",
     "tiles_active": [
@@ -1670,10 +1647,10 @@
       "."
     ],
     "tiles_progressive": [
-      "a savings bond",
-      "is being",
-      "a loan",
+      "people",
+      "are lending money",
       "to the government",
+      "through savings bonds",
       "."
     ],
     "tiles_passive": [
@@ -1707,16 +1684,16 @@
       "."
     ],
     "tiles_progressive_advanced": [
-      "a",
-      "savings",
-      "bond",
-      "is",
-      "being",
-      "a",
-      "loan",
+      "people",
+      "are",
+      "lending",
+      "money",
       "to",
       "the",
       "government",
+      "through",
+      "savings",
+      "bonds",
       "."
     ],
     "tiles_passive_advanced": [
@@ -1745,14 +1722,14 @@
       "."
     ],
     "order_active_beginner_1": "a savings bond,is a loan,to the government,that earns interest,.",
-    "order_progressive_beginner_1": "a savings bond,is being,a loan,to the government,.",
-    "order_passive_beginner_1": "money,is loaned,to the government,through savings bonds,.",
-    "order_subordinate_beginner_1": "because,the government backs them,,,savings bonds,are safe,.",
     "order_active_1": "a,savings,bond,is,a,loan,to,the,government,that,earns,interest,.",
-    "order_progressive_1": "a,savings,bond,is,being,a,loan,to,the,government,.",
+    "order_progressive_beginner_1": "people,are lending money,to the government,through savings bonds,.",
+    "order_progressive_1": "people,are,lending,money,to,the,government,through,savings,bonds,.",
+    "order_passive_beginner_1": "money,is loaned,to the government,through savings bonds,.",
     "order_passive_1": "money,is,loaned,to,the,government,through,savings,bonds,.",
-    "order_subordinate_1": "because,the,government,backs,them,,,savings,bonds,are,safe,.",
+    "order_subordinate_beginner_1": "because,the government backs them,,,savings bonds,are safe,.",
     "order_subordinate_beginner_2": "savings bonds,are safe,because,the government backs them,.",
+    "order_subordinate_1": "because,the,government,backs,them,,,savings,bonds,are,safe,.",
     "order_subordinate_2": "savings,bonds,are,safe,because,the,government,backs,them,."
   },
   {
@@ -1839,16 +1816,15 @@
       "."
     ],
     "order_active_beginner_1": "people,pay premiums,so insurance,covers emergencies,.",
-    "order_progressive_beginner_1": "people,are paying,premiums,so insurance covers emergencies,.",
-    "order_passive_beginner_1": "premiums,are paid,so emergencies,are covered by insurance,.",
-    "order_subordinate_beginner_1": "after,paying the deductible,,,insurance covers,remaining costs,.",
     "order_active_1": "people,pay,premiums,so,insurance,covers,emergencies,.",
+    "order_progressive_beginner_1": "people,are paying,premiums,so insurance covers emergencies,.",
     "order_progressive_1": "people,are,paying,premiums,so,insurance,covers,emergencies,.",
+    "order_passive_beginner_1": "premiums,are paid,so emergencies,are covered by insurance,.",
     "order_passive_1": "premiums,are,paid,so,emergencies,are,covered,by,insurance,.",
-    "order_subordinate_1": "after,paying,the,deductible,,,insurance,covers,remaining,costs,.",
+    "order_subordinate_beginner_1": "after,paying the deductible,,,insurance covers,remaining costs,.",
     "order_subordinate_beginner_2": "insurance covers,remaining costs,after,paying the deductible,.",
-    "order_subordinate_2": "insurance,covers,remaining,costs,after,paying,the,deductible,.",
-    "order_passive_2": "by,insurance,premiums,are,paid,so,emergencies,are,covered,."
+    "order_subordinate_1": "after,paying,the,deductible,,,insurance,covers,remaining,costs,.",
+    "order_subordinate_2": "insurance,covers,remaining,costs,after,paying,the,deductible,."
   },
   {
     "id": "personal-mgmt-20",
@@ -1934,17 +1910,15 @@
       "."
     ],
     "order_active_beginner_1": "auto insurance,covers,damage and injuries,from accidents,.",
-    "order_progressive_beginner_1": "auto insurance,is covering,damage and injuries,from accidents,.",
-    "order_passive_beginner_1": "damage and injuries,are covered,by auto insurance,.",
-    "order_subordinate_beginner_1": "when,accidents happen,,,auto insurance,pays for damages,.",
     "order_active_1": "auto,insurance,covers,damage,and,injuries,from,accidents,.",
+    "order_progressive_beginner_1": "auto insurance,is covering,damage and injuries,from accidents,.",
     "order_progressive_1": "auto,insurance,is,covering,damage,and,injuries,from,accidents,.",
+    "order_passive_beginner_1": "damage and injuries,are covered,by auto insurance,.",
     "order_passive_1": "damage,and,injuries,are,covered,by,auto,insurance,.",
-    "order_subordinate_1": "when,accidents,happen,,,auto,insurance,pays,for,damages,.",
+    "order_subordinate_beginner_1": "when,accidents happen,,,auto insurance,pays for damages,.",
     "order_subordinate_beginner_2": "auto insurance,pays for damages,when,accidents happen,.",
-    "order_subordinate_2": "auto,insurance,pays,for,damages,when,accidents,happen,.",
-    "order_passive_beginner_2": "by auto insurance,damage and injuries,are covered,.",
-    "order_passive_2": "by,auto,insurance,damage,and,injuries,are,covered,."
+    "order_subordinate_1": "when,accidents,happen,,,auto,insurance,pays,for,damages,.",
+    "order_subordinate_2": "auto,insurance,pays,for,damages,when,accidents,happen,."
   },
   {
     "id": "personal-mgmt-21",
@@ -2027,17 +2001,15 @@
       "."
     ],
     "order_active_beginner_1": "health insurance,covers,doctor visits,,surgeries, and medicine,.",
-    "order_progressive_beginner_1": "health insurance,is covering,medical,expenses,.",
-    "order_passive_beginner_1": "medical expenses,are covered,by health insurance,.",
-    "order_subordinate_beginner_1": "because,medical costs are high,,,people need,health insurance,.",
     "order_active_1": "health,insurance,covers,doctor,visits,surgeries,and,medicine,.",
+    "order_progressive_beginner_1": "health insurance,is covering,medical,expenses,.",
     "order_progressive_1": "health,insurance,is,covering,medical,expenses,.",
+    "order_passive_beginner_1": "medical expenses,are covered,by health insurance,.",
     "order_passive_1": "medical,expenses,are,covered,by,health,insurance,.",
-    "order_subordinate_1": "because,medical,costs,are,high,,,people,need,health,insurance,.",
+    "order_subordinate_beginner_1": "because,medical costs are high,,,people need,health insurance,.",
     "order_subordinate_beginner_2": "people need,health insurance,because,medical costs are high,.",
-    "order_subordinate_2": "people,need,health,insurance,because,medical,costs,are,high,.",
-    "order_passive_beginner_2": "by health insurance,medical expenses,are covered,.",
-    "order_passive_2": "by,health,insurance,medical,expenses,are,covered,."
+    "order_subordinate_1": "because,medical,costs,are,high,,,people,need,health,insurance,.",
+    "order_subordinate_2": "people,need,health,insurance,because,medical,costs,are,high,."
   },
   {
     "id": "personal-mgmt-22",
@@ -2128,17 +2100,13 @@
       "."
     ],
     "order_active_beginner_1": "home insurance,protects belongings,from damage,and theft,.",
-    "order_progressive_beginner_1": "home insurance,is protecting,belongings,from damage and theft,.",
-    "order_passive_beginner_1": "belongings,are protected,from damage and theft,by home insurance,.",
-    "order_subordinate_beginner_1": "if,belongings are stolen,,,home insurance,pays to replace them,.",
     "order_active_1": "home,insurance,protects,belongings,from,damage,and,theft,.",
+    "order_progressive_beginner_1": "home insurance,is protecting,belongings,from damage and theft,.",
     "order_progressive_1": "home,insurance,is,protecting,belongings,from,damage,and,theft,.",
+    "order_passive_beginner_1": "belongings,are protected,from damage and theft,by home insurance,.",
     "order_passive_1": "belongings,are,protected,from,damage,and,theft,by,home,insurance,.",
-    "order_subordinate_1": "if,belongings,are,stolen,,,home,insurance,pays,to,replace,them,.",
-    "order_subordinate_beginner_2": "home insurance,pays to replace them,if,belongings are stolen,.",
-    "order_subordinate_2": "home,insurance,pays,to,replace,them,if,belongings,are,stolen,.",
-    "order_passive_beginner_2": "by home insurance,belongings,are protected,from damage and theft,.",
-    "order_passive_2": "by,home,insurance,belongings,are,protected,from,damage,and,theft,."
+    "order_subordinate_beginner_1": "if,belongings are stolen,,,home insurance,pays to replace them,.",
+    "order_subordinate_1": "if,belongings,are,stolen,,,home,insurance,pays,to,replace,them,."
   },
   {
     "id": "personal-mgmt-23",
@@ -2227,14 +2195,14 @@
       "."
     ],
     "order_active_beginner_1": "life insurance,gives money,to families,when someone dies,.",
-    "order_progressive_beginner_1": "life insurance,is giving,money to families,after death,.",
-    "order_passive_beginner_1": "money,is given,to families,through life insurance,.",
-    "order_subordinate_beginner_1": "when,a family member dies,,,life insurance,provides money,.",
     "order_active_1": "life,insurance,gives,money,to,families,when,someone,dies,.",
+    "order_progressive_beginner_1": "life insurance,is giving,money to families,after death,.",
     "order_progressive_1": "life,insurance,is,giving,money,to,families,after,death,.",
+    "order_passive_beginner_1": "money,is given,to families,through life insurance,.",
     "order_passive_1": "money,is,given,to,families,through,life,insurance,.",
-    "order_subordinate_1": "when,a,family,member,dies,,,life,insurance,provides,money,.",
+    "order_subordinate_beginner_1": "when,a family member dies,,,life insurance,provides money,.",
     "order_subordinate_beginner_2": "life insurance,provides money,when,a family member dies,.",
+    "order_subordinate_1": "when,a,family,member,dies,,,life,insurance,provides,money,.",
     "order_subordinate_2": "life,insurance,provides,money,when,a,family,member,dies,."
   },
   {
@@ -2324,14 +2292,14 @@
       "."
     ],
     "order_active_beginner_1": "loans,let you borrow,money,that you repay with interest,.",
-    "order_progressive_beginner_1": "loans,are letting,people borrow,money with interest,.",
-    "order_passive_beginner_1": "money,is borrowed,and repaid with interest,through loans,.",
-    "order_subordinate_beginner_1": "when,borrowing money,,,people,pay interest on loans,.",
     "order_active_1": "loans,let,you,borrow,money,that,you,repay,with,interest,.",
+    "order_progressive_beginner_1": "loans,are letting,people borrow,money with interest,.",
     "order_progressive_1": "loans,are,letting,people,borrow,money,with,interest,.",
+    "order_passive_beginner_1": "money,is borrowed,and repaid with interest,through loans,.",
     "order_passive_1": "money,is,borrowed,and,repaid,with,interest,through,loans,.",
-    "order_subordinate_1": "when,borrowing,money,,,people,pay,interest,on,loans,.",
+    "order_subordinate_beginner_1": "when,borrowing money,,,people,pay interest on loans,.",
     "order_subordinate_beginner_2": "people,pay interest on loans,when,borrowing money,.",
+    "order_subordinate_1": "when,borrowing,money,,,people,pay,interest,on,loans,.",
     "order_subordinate_2": "people,pay,interest,on,loans,when,borrowing,money,."
   },
   {
@@ -2423,17 +2391,13 @@
       "."
     ],
     "order_active_beginner_1": "debit cards,withdraw money,directly from,your bank account,.",
-    "order_progressive_beginner_1": "debit cards,are withdrawing,money,from your bank account,.",
-    "order_passive_beginner_1": "money,is withdrawn,from your account,by debit cards,.",
-    "order_subordinate_beginner_1": "because,debit uses your money,,,it does not,create debt,.",
     "order_active_1": "debit,cards,withdraw,money,directly,from,your,bank,account,.",
+    "order_progressive_beginner_1": "debit cards,are withdrawing,money,from your bank account,.",
     "order_progressive_1": "debit,cards,are,withdrawing,money,from,your,bank,account,.",
+    "order_passive_beginner_1": "money,is withdrawn,from your account,by debit cards,.",
     "order_passive_1": "money,is,withdrawn,from,your,account,by,debit,cards,.",
-    "order_subordinate_1": "because,debit,uses,your,money,,,it,does,not,create,debt,.",
-    "order_subordinate_beginner_2": "it does not,create debt,because,debit uses your money,.",
-    "order_subordinate_2": "it,does,not,create,debt,because,debit,uses,your,money,.",
-    "order_passive_beginner_2": "by debit cards,money,is withdrawn,from your account,.",
-    "order_passive_2": "by,debit,cards,money,is,withdrawn,from,your,account,."
+    "order_subordinate_beginner_1": "because,debit uses your money,,,it does not,create debt,.",
+    "order_subordinate_1": "because,debit,uses,your,money,,,it,does,not,create,debt,."
   },
   {
     "id": "personal-mgmt-26",
@@ -2528,14 +2492,14 @@
       "."
     ],
     "order_active_beginner_1": "credit cards,let you borrow,money,that you must repay,.",
-    "order_progressive_beginner_1": "credit cards,are letting,people borrow,money to spend,.",
-    "order_passive_beginner_1": "money,is borrowed,through credit cards,and must be repaid,.",
-    "order_subordinate_beginner_1": "if,you do not pay the balance,,,credit cards,charge high interest,.",
     "order_active_1": "credit,cards,let,you,borrow,money,that,you,must,repay,.",
+    "order_progressive_beginner_1": "credit cards,are letting,people borrow,money to spend,.",
     "order_progressive_1": "credit,cards,are,letting,people,borrow,money,to,spend,.",
+    "order_passive_beginner_1": "money,is borrowed,through credit cards,and must be repaid,.",
     "order_passive_1": "money,is,borrowed,through,credit,cards,and,must,be,repaid,.",
-    "order_subordinate_1": "if,you,do,not,pay,the,balance,,,credit,cards,charge,high,interest,.",
+    "order_subordinate_beginner_1": "if,you do not pay the balance,,,credit cards,charge high interest,.",
     "order_subordinate_beginner_2": "credit cards,charge high interest,if,you do not pay the balance,.",
+    "order_subordinate_1": "if,you,do,not,pay,the,balance,,,credit,cards,charge,high,interest,.",
     "order_subordinate_2": "credit,cards,charge,high,interest,if,you,do,not,pay,the,balance,."
   },
   {
@@ -2626,17 +2590,15 @@
       "."
     ],
     "order_active_beginner_1": "minimum payments,let debt grow,through high,interest charges,.",
-    "order_progressive_beginner_1": "minimum payments,are letting,debt grow,through interest,.",
-    "order_passive_beginner_1": "debt,is allowed to grow,when only minimums,are paid,.",
-    "order_subordinate_beginner_1": "because,interest adds up,,,minimum payments,increase total cost,.",
     "order_active_1": "minimum,payments,let,debt,grow,through,high,interest,charges,.",
+    "order_progressive_beginner_1": "minimum payments,are letting,debt grow,through interest,.",
     "order_progressive_1": "minimum,payments,are,letting,debt,grow,through,interest,.",
+    "order_passive_beginner_1": "debt,is allowed to grow,when only minimums,are paid,.",
     "order_passive_1": "debt,is,allowed,to,grow,when,only,minimums,are,paid,.",
-    "order_subordinate_1": "because,interest,adds,up,,,minimum,payments,increase,total,cost,.",
+    "order_subordinate_beginner_1": "because,interest adds up,,,minimum payments,increase total cost,.",
     "order_subordinate_beginner_2": "minimum payments,increase total cost,because,interest adds up,.",
-    "order_subordinate_2": "minimum,payments,increase,total,cost,because,interest,adds,up,.",
-    "order_active_beginner_2": "through high,interest charges,minimum payments,let debt grow,.",
-    "order_progressive_beginner_2": "through interest,minimum payments,are letting,debt grow,."
+    "order_subordinate_1": "because,interest,adds,up,,,minimum,payments,increase,total,cost,.",
+    "order_subordinate_2": "minimum,payments,increase,total,cost,because,interest,adds,up,."
   },
   {
     "id": "personal-mgmt-28",
@@ -2727,16 +2689,15 @@
       "."
     ],
     "order_active_beginner_1": "a credit score,measures,your trustworthiness,with money,.",
-    "order_progressive_beginner_1": "a credit score,is measuring,your trustworthiness,with money,.",
-    "order_passive_beginner_1": "your trustworthiness,with money,is measured,by a credit score,.",
-    "order_subordinate_beginner_1": "by,paying bills on time,,,people raise,their credit scores,.",
     "order_active_1": "a,credit,score,measures,your,trustworthiness,with,money,.",
+    "order_progressive_beginner_1": "a credit score,is measuring,your trustworthiness,with money,.",
     "order_progressive_1": "a,credit,score,is,measuring,your,trustworthiness,with,money,.",
+    "order_passive_beginner_1": "your trustworthiness,with money,is measured,by a credit score,.",
     "order_passive_1": "your,trustworthiness,with,money,is,measured,by,a,credit,score,.",
-    "order_subordinate_1": "by,paying,bills,on,time,,,people,raise,their,credit,scores,.",
+    "order_subordinate_beginner_1": "by,paying bills on time,,,people raise,their credit scores,.",
     "order_subordinate_beginner_2": "people raise,their credit scores,by,paying bills on time,.",
-    "order_subordinate_2": "people,raise,their,credit,scores,by,paying,bills,on,time,.",
-    "order_passive_beginner_2": "by a credit score,your trustworthiness,with money,is measured,."
+    "order_subordinate_1": "by,paying,bills,on,time,,,people,raise,their,credit,scores,.",
+    "order_subordinate_2": "people,raise,their,credit,scores,by,paying,bills,on,time,."
   },
   {
     "id": "personal-mgmt-29",
@@ -2822,21 +2783,15 @@
       "."
     ],
     "order_active_beginner_1": "people,eliminate debt,by paying it off,steadily,.",
-    "order_progressive_beginner_1": "people,are eliminating,debt,by paying it off steadily,.",
-    "order_passive_beginner_1": "debt,is eliminated,by paying it off,steadily,.",
-    "order_subordinate_beginner_1": "to,eliminate debt,,,pay high-interest,balances first,.",
     "order_active_1": "people,eliminate,debt,by,paying,it,off,steadily,.",
+    "order_progressive_beginner_1": "people,are eliminating,debt,by paying it off steadily,.",
     "order_progressive_1": "people,are,eliminating,debt,by,paying,it,off,steadily,.",
+    "order_passive_beginner_1": "debt,is eliminated,by paying it off,steadily,.",
     "order_passive_1": "debt,is,eliminated,by,paying,it,off,steadily,.",
-    "order_subordinate_1": "to,eliminate,debt,,,pay,high-interest,balances,first,.",
+    "order_subordinate_beginner_1": "to,eliminate debt,,,pay high-interest,balances first,.",
     "order_subordinate_beginner_2": "pay high-interest,balances first,to,eliminate debt,.",
-    "order_subordinate_2": "pay,high-interest,balances,first,to,eliminate,debt,.",
-    "order_active_beginner_2": "steadily,people,eliminate debt,by paying it off,.",
-    "order_active_2": "steadily,people,eliminate,debt,by,paying,it,off,.",
-    "order_progressive_2": "steadily,people,are,eliminating,debt,by,paying,it,off,.",
-    "order_passive_beginner_2": "steadily,debt,is eliminated,by paying it off,.",
-    "order_passive_beginner_3": "by paying it off,steadily,debt,is eliminated,.",
-    "order_passive_2": "steadily,debt,is,eliminated,by,paying,it,off,."
+    "order_subordinate_1": "to,eliminate,debt,,,pay,high-interest,balances,first,.",
+    "order_subordinate_2": "pay,high-interest,balances,first,to,eliminate,debt,."
   },
   {
     "id": "personal-mgmt-30",
@@ -2921,17 +2876,15 @@
       "."
     ],
     "order_active_beginner_1": "charitable giving,helps others,through donations,of money or time,.",
-    "order_progressive_beginner_1": "charitable giving,is helping,others,through donations,.",
-    "order_passive_beginner_1": "others,are helped,through charitable,donations,.",
-    "order_subordinate_beginner_1": "by,donating to charity,,,people help,their communities,.",
     "order_active_1": "charitable,giving,helps,others,through,donations,of,money,or,time,.",
+    "order_progressive_beginner_1": "charitable giving,is helping,others,through donations,.",
     "order_progressive_1": "charitable,giving,is,helping,others,through,donations,.",
+    "order_passive_beginner_1": "others,are helped,through charitable,donations,.",
     "order_passive_1": "others,are,helped,through,charitable,donations,.",
-    "order_subordinate_1": "by,donating,to,charity,,,people,help,their,communities,.",
+    "order_subordinate_beginner_1": "by,donating to charity,,,people help,their communities,.",
     "order_subordinate_beginner_2": "people help,their communities,by,donating to charity,.",
-    "order_subordinate_2": "people,help,their,communities,by,donating,to,charity,.",
-    "order_active_beginner_2": "through donations,of money or time,charitable giving,helps others,.",
-    "order_progressive_beginner_2": "through donations,charitable giving,is helping,others,."
+    "order_subordinate_1": "by,donating,to,charity,,,people,help,their,communities,.",
+    "order_subordinate_2": "people,help,their,communities,by,donating,to,charity,."
   },
   {
     "id": "personal-mgmt-31",
@@ -3018,16 +2971,15 @@
       "."
     ],
     "order_active_beginner_1": "to-do lists,organize tasks,by order,of importance,.",
-    "order_progressive_beginner_1": "to-do lists,are organizing,tasks,by importance,.",
-    "order_passive_beginner_1": "tasks,are organized,by importance,on to-do lists,.",
-    "order_subordinate_beginner_1": "by,listing tasks,,,people remember,what needs to be done,.",
     "order_active_1": "to-do,lists,organize,tasks,by,order,of,importance,.",
+    "order_progressive_beginner_1": "to-do lists,are organizing,tasks,by importance,.",
     "order_progressive_1": "to-do,lists,are,organizing,tasks,by,importance,.",
+    "order_passive_beginner_1": "tasks,are organized,by importance,on to-do lists,.",
     "order_passive_1": "tasks,are,organized,by,importance,on,to-do,lists,.",
-    "order_subordinate_1": "by,listing,tasks,,,people,remember,what,needs,to,be,done,.",
+    "order_subordinate_beginner_1": "by,listing tasks,,,people remember,what needs to be done,.",
     "order_subordinate_beginner_2": "people remember,what needs to be done,by,listing tasks,.",
-    "order_subordinate_2": "people,remember,what,needs,to,be,done,by,listing,tasks,.",
-    "order_passive_beginner_2": "by importance,on to-do lists,tasks,are organized,."
+    "order_subordinate_1": "by,listing,tasks,,,people,remember,what,needs,to,be,done,.",
+    "order_subordinate_2": "people,remember,what,needs,to,be,done,by,listing,tasks,."
   },
   {
     "id": "personal-mgmt-32",
@@ -3114,16 +3066,15 @@
       "."
     ],
     "order_active_beginner_1": "people,create schedules,by adding,fixed activities first,.",
-    "order_progressive_beginner_1": "people,are creating,schedules,by adding fixed activities,.",
-    "order_passive_beginner_1": "schedules,are created,by adding,fixed activities first,.",
-    "order_subordinate_beginner_1": "after,adding fixed activities,,,fill open time,with tasks,.",
     "order_active_1": "people,create,schedules,by,adding,fixed,activities,first,.",
+    "order_progressive_beginner_1": "people,are creating,schedules,by adding fixed activities,.",
     "order_progressive_1": "people,are,creating,schedules,by,adding,fixed,activities,.",
+    "order_passive_beginner_1": "schedules,are created,by adding,fixed activities first,.",
     "order_passive_1": "schedules,are,created,by,adding,fixed,activities,first,.",
-    "order_subordinate_1": "after,adding,fixed,activities,,,fill,open,time,with,tasks,.",
+    "order_subordinate_beginner_1": "after,adding fixed activities,,,fill open time,with tasks,.",
     "order_subordinate_beginner_2": "fill open time,with tasks,after,adding fixed activities,.",
-    "order_subordinate_2": "fill,open,time,with,tasks,after,adding,fixed,activities,.",
-    "order_passive_beginner_2": "by adding,fixed activities first,schedules,are created,."
+    "order_subordinate_1": "after,adding,fixed,activities,,,fill,open,time,with,tasks,.",
+    "order_subordinate_2": "fill,open,time,with,tasks,after,adding,fixed,activities,."
   },
   {
     "id": "personal-mgmt-33",
@@ -3210,17 +3161,15 @@
       "."
     ],
     "order_active_beginner_1": "time management,controls,how you spend,each day,.",
-    "order_progressive_beginner_1": "time management,is controlling,how you spend,each day,.",
-    "order_passive_beginner_1": "how you spend time,is controlled,by time management,.",
-    "order_subordinate_beginner_1": "by,managing time well,,,people,accomplish more tasks,.",
     "order_active_1": "time,management,controls,how,you,spend,each,day,.",
+    "order_progressive_beginner_1": "time management,is controlling,how you spend,each day,.",
     "order_progressive_1": "time,management,is,controlling,how,you,spend,each,day,.",
+    "order_passive_beginner_1": "how you spend time,is controlled,by time management,.",
     "order_passive_1": "how,you,spend,time,is,controlled,by,time,management,.",
-    "order_subordinate_1": "by,managing,time,well,,,people,accomplish,more,tasks,.",
+    "order_subordinate_beginner_1": "by,managing time well,,,people,accomplish more tasks,.",
     "order_subordinate_beginner_2": "people,accomplish more tasks,by,managing time well,.",
-    "order_subordinate_2": "people,accomplish,more,tasks,by,managing,time,well,.",
-    "order_passive_beginner_2": "by time management,how you spend time,is controlled,.",
-    "order_passive_2": "by,time,management,how,you,spend,time,is,controlled,."
+    "order_subordinate_1": "by,managing,time,well,,,people,accomplish,more,tasks,.",
+    "order_subordinate_2": "people,accomplish,more,tasks,by,managing,time,well,."
   },
   {
     "id": "personal-mgmt-34",
@@ -3305,17 +3254,15 @@
       "."
     ],
     "order_active_beginner_1": "clear goals,define,what a project,should achieve,.",
-    "order_progressive_beginner_1": "clear goals,are defining,what projects,should achieve,.",
-    "order_passive_beginner_1": "what projects achieve,is defined,by clear goals,.",
-    "order_subordinate_beginner_1": "before,starting a project,,,define,a clear goal,.",
     "order_active_1": "clear,goals,define,what,a,project,should,achieve,.",
+    "order_progressive_beginner_1": "clear goals,are defining,what projects,should achieve,.",
     "order_progressive_1": "clear,goals,are,defining,what,projects,should,achieve,.",
+    "order_passive_beginner_1": "what projects achieve,is defined,by clear goals,.",
     "order_passive_1": "what,projects,achieve,is,defined,by,clear,goals,.",
-    "order_subordinate_1": "before,starting,a,project,,,define,a,clear,goal,.",
+    "order_subordinate_beginner_1": "before,starting a project,,,define,a clear goal,.",
     "order_subordinate_beginner_2": "define,a clear goal,before,starting a project,.",
-    "order_subordinate_2": "define,a,clear,goal,before,starting,a,project,.",
-    "order_passive_beginner_2": "by clear goals,what projects achieve,is defined,.",
-    "order_passive_2": "by,clear,goals,what,projects,achieve,is,defined,."
+    "order_subordinate_1": "before,starting,a,project,,,define,a,clear,goal,.",
+    "order_subordinate_2": "define,a,clear,goal,before,starting,a,project,."
   },
   {
     "id": "personal-mgmt-35",
@@ -3406,17 +3353,15 @@
       "."
     ],
     "order_active_beginner_1": "a timeline,shows steps,from project start,to finish,.",
-    "order_progressive_beginner_1": "a timeline,is showing,steps,from start to finish,.",
-    "order_passive_beginner_1": "steps from start to finish,are shown,by a timeline,.",
-    "order_subordinate_beginner_1": "to,stay on track,,,create a timeline,for your project,.",
     "order_active_1": "a,timeline,shows,steps,from,project,start,to,finish,.",
+    "order_progressive_beginner_1": "a timeline,is showing,steps,from start to finish,.",
     "order_progressive_1": "a,timeline,is,showing,steps,from,start,to,finish,.",
+    "order_passive_beginner_1": "steps from start to finish,are shown,by a timeline,.",
     "order_passive_1": "steps,from,start,to,finish,are,shown,by,a,timeline,.",
-    "order_subordinate_1": "to,stay,on,track,,,create,a,timeline,for,your,project,.",
+    "order_subordinate_beginner_1": "to,stay on track,,,create a timeline,for your project,.",
     "order_subordinate_beginner_2": "create a timeline,for your project,to,stay on track,.",
-    "order_subordinate_2": "create,a,timeline,for,your,project,to,stay,on,track,.",
-    "order_passive_beginner_2": "by a timeline,steps from start to finish,are shown,.",
-    "order_passive_2": "by,a,timeline,steps,from,start,to,finish,are,shown,."
+    "order_subordinate_1": "to,stay,on,track,,,create,a,timeline,for,your,project,.",
+    "order_subordinate_2": "create,a,timeline,for,your,project,to,stay,on,track,."
   },
   {
     "id": "personal-mgmt-36",
@@ -3424,7 +3369,7 @@
     "text_segment": "Resources are the people, materials, and tools needed to complete a project. Make a list of what resources you need and how each one helps achieve your goal. This helps you prepare before starting.",
     "question": "Explain what project resources are.",
     "Active": "Resources include people, materials, and tools for projects.",
-    "Progressive": "Resources are including people, materials, and tools.",
+    "Progressive": "Projects are using people, materials, and tools.",
     "Passive": "People, materials, and tools are included as resources.",
     "Subordinate": "Before starting, list the resources your project needs.",
     "tiles_active": [
@@ -3435,8 +3380,8 @@
       "."
     ],
     "tiles_progressive": [
-      "resources",
-      "are including",
+      "projects",
+      "are using",
       "people, materials,",
       "and tools",
       "."
@@ -3468,9 +3413,9 @@
       "."
     ],
     "tiles_progressive_advanced": [
-      "resources",
+      "projects",
       "are",
-      "including",
+      "using",
       "people",
       "materials",
       "and",
@@ -3501,14 +3446,14 @@
       "."
     ],
     "order_active_beginner_1": "resources,include people,,materials, and tools,for projects,.",
-    "order_progressive_beginner_1": "resources,are including,people, materials,,and tools,.",
-    "order_passive_beginner_1": "people, materials,,and tools,are included,as resources,.",
-    "order_subordinate_beginner_1": "before,starting,,,list the resources,your project needs,.",
     "order_active_1": "resources,include,people,materials,and,tools,for,projects,.",
-    "order_progressive_1": "resources,are,including,people,materials,and,tools,.",
+    "order_progressive_beginner_1": "projects,are using,people, materials,,and tools,.",
+    "order_progressive_1": "projects,are,using,people,materials,and,tools,.",
+    "order_passive_beginner_1": "people, materials,,and tools,are included,as resources,.",
     "order_passive_1": "people,materials,and,tools,are,included,as,resources,.",
-    "order_subordinate_1": "before,starting,,,list,the,resources,your,project,needs,.",
+    "order_subordinate_beginner_1": "before,starting,,,list the resources,your project needs,.",
     "order_subordinate_beginner_2": "list the resources,your project needs,before,starting,.",
+    "order_subordinate_1": "before,starting,,,list,the,resources,your,project,needs,.",
     "order_subordinate_2": "list,the,resources,your,project,needs,before,starting,."
   },
   {
@@ -3601,14 +3546,14 @@
       "."
     ],
     "order_active_beginner_1": "a project budget,lists all costs,for materials,and supplies,.",
-    "order_progressive_beginner_1": "a project budget,is listing,all costs,for the project,.",
-    "order_passive_beginner_1": "all project costs,are listed,in a budget,.",
-    "order_subordinate_beginner_1": "to,know if you can afford it,,,create a,project budget,.",
     "order_active_1": "a,project,budget,lists,all,costs,for,materials,and,supplies,.",
+    "order_progressive_beginner_1": "a project budget,is listing,all costs,for the project,.",
     "order_progressive_1": "a,project,budget,is,listing,all,costs,for,the,project,.",
+    "order_passive_beginner_1": "all project costs,are listed,in a budget,.",
     "order_passive_1": "all,project,costs,are,listed,in,a,budget,.",
-    "order_subordinate_1": "to,know,if,you,can,afford,it,,,create,a,project,budget,.",
+    "order_subordinate_beginner_1": "to,know if you can afford it,,,create a,project budget,.",
     "order_subordinate_beginner_2": "create a,project budget,to,know if you can afford it,.",
+    "order_subordinate_1": "to,know,if,you,can,afford,it,,,create,a,project,budget,.",
     "order_subordinate_2": "create,a,project,budget,to,know,if,you,can,afford,it,."
   },
   {
@@ -3617,7 +3562,7 @@
     "text_segment": "Career planning means thinking about what job you want after school. Research the qualifications, education, and skills needed for your chosen career. This helps you prepare and make good decisions about your future.",
     "question": "Explain what career planning involves.",
     "Active": "Career planning involves researching jobs and their requirements.",
-    "Progressive": "Career planning is involving research about job requirements.",
+    "Progressive": "Students are researching jobs and their requirements.",
     "Passive": "Jobs and requirements are researched through career planning.",
     "Subordinate": "To prepare for the future, research your chosen career.",
     "tiles_active": [
@@ -3628,10 +3573,10 @@
       "."
     ],
     "tiles_progressive": [
-      "career planning",
-      "is involving",
-      "research about",
-      "job requirements",
+      "students",
+      "are researching",
+      "jobs and",
+      "their requirements",
       "."
     ],
     "tiles_passive": [
@@ -3660,13 +3605,12 @@
       "."
     ],
     "tiles_progressive_advanced": [
-      "career",
-      "planning",
-      "is",
-      "involving",
-      "research",
-      "about",
-      "job",
+      "students",
+      "are",
+      "researching",
+      "jobs",
+      "and",
+      "their",
       "requirements",
       "."
     ],
@@ -3695,14 +3639,14 @@
       "."
     ],
     "order_active_beginner_1": "career planning,involves researching,jobs,and their requirements,.",
-    "order_progressive_beginner_1": "career planning,is involving,research about,job requirements,.",
-    "order_passive_beginner_1": "jobs and requirements,are researched,through career planning,.",
-    "order_subordinate_beginner_1": "to,prepare for the future,,,research,your chosen career,.",
     "order_active_1": "career,planning,involves,researching,jobs,and,their,requirements,.",
-    "order_progressive_1": "career,planning,is,involving,research,about,job,requirements,.",
+    "order_progressive_beginner_1": "students,are researching,jobs and,their requirements,.",
+    "order_progressive_1": "students,are,researching,jobs,and,their,requirements,.",
+    "order_passive_beginner_1": "jobs and requirements,are researched,through career planning,.",
     "order_passive_1": "jobs,and,requirements,are,researched,through,career,planning,.",
-    "order_subordinate_1": "to,prepare,for,the,future,,,research,your,chosen,career,.",
+    "order_subordinate_beginner_1": "to,prepare for the future,,,research,your chosen career,.",
     "order_subordinate_beginner_2": "research,your chosen career,to,prepare for the future,.",
+    "order_subordinate_1": "to,prepare,for,the,future,,,research,your,chosen,career,.",
     "order_subordinate_2": "research,your,chosen,career,to,prepare,for,the,future,."
   },
   {
@@ -3711,7 +3655,7 @@
     "text_segment": "Education costs include tuition, books, supplies, and room and board. These costs can be very high for college or trade school. Plan how to pay for education through savings, scholarships, or student loans.",
     "question": "Describe the costs of pursuing a career.",
     "Active": "Education costs include tuition, books, and housing.",
-    "Progressive": "Education costs are including tuition, books, and housing.",
+    "Progressive": "Families are paying for tuition, books, and housing.",
     "Passive": "Tuition, books, and housing are included in education costs.",
     "Subordinate": "Because education is expensive, plan how to pay for it.",
     "tiles_active": [
@@ -3722,8 +3666,8 @@
       "."
     ],
     "tiles_progressive": [
-      "education costs",
-      "are including",
+      "families",
+      "are paying for",
       "tuition, books,",
       "and housing",
       "."
@@ -3754,10 +3698,10 @@
       "."
     ],
     "tiles_progressive_advanced": [
-      "education",
-      "costs",
+      "families",
       "are",
-      "including",
+      "paying",
+      "for",
       "tuition",
       "books",
       "and",
@@ -3791,14 +3735,14 @@
       "."
     ],
     "order_active_beginner_1": "education costs,include,tuition, books,,and housing,.",
-    "order_progressive_beginner_1": "education costs,are including,tuition, books,,and housing,.",
-    "order_passive_beginner_1": "tuition, books,,and housing,are included,in education costs,.",
-    "order_subordinate_beginner_1": "because,education is expensive,,,plan how,to pay for it,.",
     "order_active_1": "education,costs,include,tuition,books,and,housing,.",
-    "order_progressive_1": "education,costs,are,including,tuition,books,and,housing,.",
+    "order_progressive_beginner_1": "families,are paying for,tuition, books,,and housing,.",
+    "order_progressive_1": "families,are,paying,for,tuition,books,and,housing,.",
+    "order_passive_beginner_1": "tuition, books,,and housing,are included,in education costs,.",
     "order_passive_1": "tuition,books,and,housing,are,included,in,education,costs,.",
-    "order_subordinate_1": "because,education,is,expensive,,,plan,how,to,pay,for,it,.",
+    "order_subordinate_beginner_1": "because,education is expensive,,,plan how,to pay for it,.",
     "order_subordinate_beginner_2": "plan how,to pay for it,because,education is expensive,.",
+    "order_subordinate_1": "because,education,is,expensive,,,plan,how,to,pay,for,it,.",
     "order_subordinate_2": "plan,how,to,pay,for,it,because,education,is,expensive,."
   },
   {
@@ -3807,7 +3751,7 @@
     "text_segment": "Financial responsibility means making smart choices with money. This includes spending less than you earn, saving for the future, and avoiding unnecessary debt. Good habits now lead to financial success later.",
     "question": "Explain what financial responsibility means.",
     "Active": "Financial responsibility means making smart money choices.",
-    "Progressive": "Financial responsibility is meaning smart money choices.",
+    "Progressive": "Responsible people are making smart money choices.",
     "Passive": "Smart money choices are required for financial responsibility.",
     "Subordinate": "By being responsible with money, people build financial success.",
     "tiles_active": [
@@ -3818,10 +3762,9 @@
       "."
     ],
     "tiles_progressive": [
-      "financial responsibility",
-      "is meaning",
-      "smart",
-      "money choices",
+      "responsible people",
+      "are making",
+      "smart money choices",
       "."
     ],
     "tiles_passive": [
@@ -3850,10 +3793,10 @@
       "."
     ],
     "tiles_progressive_advanced": [
-      "financial",
-      "responsibility",
-      "is",
-      "meaning",
+      "responsible",
+      "people",
+      "are",
+      "making",
       "smart",
       "money",
       "choices",
@@ -3884,14 +3827,14 @@
       "."
     ],
     "order_active_beginner_1": "financial responsibility,means,making smart,money choices,.",
-    "order_progressive_beginner_1": "financial responsibility,is meaning,smart,money choices,.",
-    "order_passive_beginner_1": "smart money choices,are required,for financial,responsibility,.",
-    "order_subordinate_beginner_1": "by,being responsible with money,,,people build,financial success,.",
     "order_active_1": "financial,responsibility,means,making,smart,money,choices,.",
-    "order_progressive_1": "financial,responsibility,is,meaning,smart,money,choices,.",
+    "order_progressive_beginner_1": "responsible people,are making,smart money choices,.",
+    "order_progressive_1": "responsible,people,are,making,smart,money,choices,.",
+    "order_passive_beginner_1": "smart money choices,are required,for financial,responsibility,.",
     "order_passive_1": "smart,money,choices,are,required,for,financial,responsibility,.",
-    "order_subordinate_1": "by,being,responsible,with,money,,,people,build,financial,success,.",
+    "order_subordinate_beginner_1": "by,being responsible with money,,,people build,financial success,.",
     "order_subordinate_beginner_2": "people build,financial success,by,being responsible with money,.",
+    "order_subordinate_1": "by,being,responsible,with,money,,,people,build,financial,success,.",
     "order_subordinate_2": "people,build,financial,success,by,being,responsible,with,money,."
   }
 ]

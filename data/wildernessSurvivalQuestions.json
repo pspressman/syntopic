@@ -5,7 +5,7 @@
     "text_segment": "Wilderness survival has many hazards including getting lost, extreme weather, injuries, and dangerous animals. You should anticipate these hazards by planning ahead, telling others your plans, and bringing proper gear.",
     "question": "Describe common hazards in wilderness survival.",
     "Active": "Wilderness hazards include getting lost, extreme weather, and injuries.",
-    "Progressive": "Wilderness hazards are including getting lost and extreme weather.",
+    "Progressive": "Hikers are facing hazards like getting lost and extreme weather.",
     "Passive": "Getting lost, extreme weather, and injuries are common wilderness hazards.",
     "Subordinate": "Before going into the wilderness, anticipate possible hazards.",
     "tiles_active": [
@@ -16,9 +16,9 @@
       "."
     ],
     "tiles_progressive": [
-      "wilderness hazards",
-      "are including",
-      "getting lost",
+      "hikers",
+      "are facing hazards",
+      "like getting lost",
       "and extreme weather",
       "."
     ],
@@ -50,10 +50,11 @@
       "."
     ],
     "tiles_progressive_advanced": [
-      "wilderness",
-      "hazards",
+      "hikers",
       "are",
-      "including",
+      "facing",
+      "hazards",
+      "like",
       "getting",
       "lost",
       "and",
@@ -87,11 +88,11 @@
       "."
     ],
     "order_active_beginner_1": "wilderness hazards,include getting lost,,extreme weather,,and injuries,.",
-    "order_progressive_beginner_1": "wilderness hazards,are including,getting lost,and extreme weather,.",
+    "order_progressive_beginner_1": "hikers,are facing hazards,like getting lost,and extreme weather,.",
     "order_passive_beginner_1": "getting lost,,extreme weather,,and injuries,are common wilderness hazards,.",
     "order_subordinate_beginner_1": "before,going into the wilderness,,,anticipate,possible hazards,.",
     "order_active_1": "wilderness,hazards,include,getting,lost,extreme,weather,and,injuries,.",
-    "order_progressive_1": "wilderness,hazards,are,including,getting,lost,and,extreme,weather,.",
+    "order_progressive_1": "hikers,are,facing,hazards,like,getting,lost,and,extreme,weather,.",
     "order_passive_1": "getting,lost,extreme,weather,and,injuries,are,common,wilderness,hazards,.",
     "order_subordinate_1": "before,going,into,the,wilderness,,,anticipate,possible,hazards,.",
     "order_subordinate_beginner_2": "anticipate,possible hazards,before,going into the wilderness,.",
@@ -193,13 +194,7 @@
     "order_active_1": "hypothermia,occurs,when,the,body,loses,heat,too,quickly,.",
     "order_progressive_1": "hypothermia,is,occurring,when,the,body,loses,heat,too,quickly,.",
     "order_passive_1": "heat,is,lost,too,quickly,by,the,body,during,hypothermia,.",
-    "order_subordinate_1": "when,someone,has,hypothermia,,,get,them,warm,and,dry,.",
-    "order_subordinate_beginner_2": "get them,warm and dry,when,someone has hypothermia,.",
-    "order_subordinate_2": "get,them,warm,and,dry,when,someone,has,hypothermia,.",
-    "order_active_2": "quickly,hypothermia,occurs,when,the,body,loses,heat,too,.",
-    "order_progressive_2": "quickly,hypothermia,is,occurring,when,the,body,loses,heat,too,.",
-    "order_passive_beginner_2": "by the body,during hypothermia,heat,is lost too quickly,.",
-    "order_passive_2": "quickly,heat,is,lost,too,by,the,body,during,hypothermia,."
+    "order_subordinate_1": "when,someone,has,hypothermia,,,get,them,warm,and,dry,."
   },
   {
     "id": "wilderness-survival-3",
@@ -301,10 +296,7 @@
     "order_active_1": "rescuers,treat,heat,exhaustion,by,moving,victims,to,shade,and,cooling,them,.",
     "order_progressive_1": "rescuers,are,treating,heat,exhaustion,by,cooling,victims,down,.",
     "order_passive_1": "heat,exhaustion,is,treated,by,moving,to,shade,and,cooling,down,.",
-    "order_subordinate_1": "when,someone,overheats,,,move,them,to,shade,and,give,water,.",
-    "order_subordinate_beginner_2": "move them to shade,and give water,when,someone overheats,.",
-    "order_subordinate_2": "move,them,to,shade,and,give,water,when,someone,overheats,.",
-    "order_passive_beginner_2": "by moving to shade,and cooling down,heat exhaustion,is treated,."
+    "order_subordinate_1": "when,someone,overheats,,,move,them,to,shade,and,give,water,."
   },
   {
     "id": "wilderness-survival-4",
@@ -403,10 +395,7 @@
     "order_passive_1": "skin,and,tissue,are,frozen,by,frostbite,in,cold,temperatures,.",
     "order_subordinate_1": "when,treating,frostbite,,,warm,the,area,gradually,with,body,heat,.",
     "order_subordinate_beginner_2": "warm the area gradually,with body heat,when,treating frostbite,.",
-    "order_subordinate_2": "warm,the,area,gradually,with,body,heat,when,treating,frostbite,.",
-    "order_active_beginner_2": "in cold temperatures,frostbite,freezes,skin and tissue,.",
-    "order_progressive_beginner_2": "in cold temperatures,frostbite,is freezing,skin and tissue,.",
-    "order_passive_beginner_2": "by frostbite,in cold temperatures,skin and tissue,are frozen,."
+    "order_subordinate_2": "warm,the,area,gradually,with,body,heat,when,treating,frostbite,."
   },
   {
     "id": "wilderness-survival-5",
@@ -494,8 +483,7 @@
     "order_passive_1": "dehydration,is,prevented,by,drinking,water,regularly,.",
     "order_subordinate_1": "to,prevent,dehydration,,,drink,water,before,feeling,thirsty,.",
     "order_subordinate_beginner_2": "drink water,before feeling thirsty,to,prevent dehydration,.",
-    "order_subordinate_2": "drink,water,before,feeling,thirsty,to,prevent,dehydration,.",
-    "order_passive_beginner_2": "by drinking water,regularly,dehydration,is prevented,."
+    "order_subordinate_2": "drink,water,before,feeling,thirsty,to,prevent,dehydration,."
   },
   {
     "id": "wilderness-survival-6",
@@ -588,8 +576,7 @@
     "order_passive_1": "blisters,are,prevented,by,properly,fitting,boots,and,good,socks,.",
     "order_subordinate_1": "to,prevent,blisters,,,wear,boots,that,fit,properly,.",
     "order_subordinate_beginner_2": "wear boots,that fit properly,to,prevent blisters,.",
-    "order_subordinate_2": "wear,boots,that,fit,properly,to,prevent,blisters,.",
-    "order_passive_beginner_2": "by properly fitting boots,and good socks,blisters,are prevented,."
+    "order_subordinate_2": "wear,boots,that,fit,properly,to,prevent,blisters,."
   },
   {
     "id": "wilderness-survival-7",
@@ -690,8 +677,7 @@
     "order_passive_1": "stings,are,treated,by,removing,the,stinger,and,applying,ice,.",
     "order_subordinate_1": "after,removing,the,stinger,,,apply,ice,to,reduce,swelling,.",
     "order_subordinate_beginner_2": "apply ice,to reduce swelling,after,removing the stinger,.",
-    "order_subordinate_2": "apply,ice,to,reduce,swelling,after,removing,the,stinger,.",
-    "order_passive_beginner_2": "by removing the stinger,and applying ice,stings,are treated,."
+    "order_subordinate_2": "apply,ice,to,reduce,swelling,after,removing,the,stinger,."
   },
   {
     "id": "wilderness-survival-8",
@@ -795,8 +781,7 @@
     "order_passive_1": "ticks,are,removed,by,grasping,with,tweezers,and,pulling,out,.",
     "order_subordinate_1": "when,removing,a,tick,,,grasp,near,the,skin,and,pull,straight,out,.",
     "order_subordinate_beginner_2": "grasp near the skin,and pull straight out,when,removing a tick,.",
-    "order_subordinate_2": "grasp,near,the,skin,and,pull,straight,out,when,removing,a,tick,.",
-    "order_passive_beginner_2": "by grasping with tweezers,and pulling out,ticks,are removed,."
+    "order_subordinate_2": "grasp,near,the,skin,and,pull,straight,out,when,removing,a,tick,."
   },
   {
     "id": "wilderness-survival-9",
@@ -898,8 +883,7 @@
     "order_passive_1": "snakebites,are,treated,by,staying,calm,and,getting,medical,help,.",
     "order_subordinate_1": "after,a,snakebite,,,stay,calm,and,get,medical,help,immediately,.",
     "order_subordinate_beginner_2": "stay calm,and get medical help immediately,after,a snakebite,.",
-    "order_subordinate_2": "stay,calm,and,get,medical,help,immediately,after,a,snakebite,.",
-    "order_passive_beginner_2": "by staying calm,and getting medical help,snakebites,are treated,."
+    "order_subordinate_2": "stay,calm,and,get,medical,help,immediately,after,a,snakebite,."
   },
   {
     "id": "wilderness-survival-10",
@@ -907,7 +891,7 @@
     "text_segment": "The seven priorities for wilderness survival are: positive attitude, first aid, shelter, fire, signaling, water, and food. These are listed in order of importance. A positive attitude is most important for survival.",
     "question": "List the seven priorities for wilderness survival.",
     "Active": "The seven survival priorities include attitude, first aid, shelter, fire, signaling, water, and food.",
-    "Progressive": "The priorities are including attitude, shelter, fire, and water.",
+    "Progressive": "Survivors are ranking attitude, shelter, fire, and water first.",
     "Passive": "Attitude, first aid, shelter, fire, signaling, water, and food are listed as priorities.",
     "Subordinate": "When surviving in the wilderness, follow the seven priorities in order.",
     "tiles_active": [
@@ -918,10 +902,11 @@
       "."
     ],
     "tiles_progressive": [
-      "the priorities",
-      "are including",
+      "survivors",
+      "are ranking",
       "attitude, shelter,",
       "fire, and water",
+      "first",
       "."
     ],
     "tiles_passive": [
@@ -956,15 +941,15 @@
       "."
     ],
     "tiles_progressive_advanced": [
-      "the",
-      "priorities",
+      "survivors",
       "are",
-      "including",
+      "ranking",
       "attitude",
       "shelter",
       "fire",
       "and",
       "water",
+      "first",
       "."
     ],
     "tiles_passive_advanced": [
@@ -999,11 +984,11 @@
       "."
     ],
     "order_active_beginner_1": "the seven priorities,include attitude,,first aid, shelter,,fire, signaling, water, and food,.",
-    "order_progressive_beginner_1": "the priorities,are including,attitude, shelter,,fire, and water,.",
+    "order_progressive_beginner_1": "survivors,are ranking,attitude, shelter,,fire, and water,first,.",
     "order_passive_beginner_1": "attitude, first aid,,shelter, fire,,signaling, water, and food,are listed as priorities,.",
     "order_subordinate_beginner_1": "when,surviving in the wilderness,,,follow the seven,priorities in order,.",
     "order_active_1": "the,seven,priorities,include,attitude,first,aid,shelter,fire,signaling,water,and,food,.",
-    "order_progressive_1": "the,priorities,are,including,attitude,shelter,fire,and,water,.",
+    "order_progressive_1": "survivors,are,ranking,attitude,shelter,fire,and,water,first,.",
     "order_passive_1": "attitude,first,aid,shelter,fire,signaling,water,and,food,are,listed,as,priorities,.",
     "order_subordinate_1": "when,surviving,in,the,wilderness,,,follow,the,seven,priorities,in,order,.",
     "order_subordinate_beginner_2": "follow the seven,priorities in order,when,surviving in the wilderness,.",
@@ -1108,8 +1093,7 @@
     "order_passive_1": "good,decisions,are,made,by,survivors,with,positive,attitudes,.",
     "order_subordinate_1": "because,panic,wastes,energy,,,staying,calm,is,essential,for,survival,.",
     "order_subordinate_beginner_2": "staying calm,is essential for survival,because,panic wastes energy,.",
-    "order_subordinate_2": "staying,calm,is,essential,for,survival,because,panic,wastes,energy,.",
-    "order_passive_beginner_2": "by survivors,with positive attitudes,good decisions,are made,."
+    "order_subordinate_2": "staying,calm,is,essential,for,survival,because,panic,wastes,energy,."
   },
   {
     "id": "wilderness-survival-12",
@@ -1304,8 +1288,7 @@
     "order_passive_1": "shelter,is,built,and,warmth,is,maintained,in,cold,conditions,.",
     "order_subordinate_1": "in,cold,weather,,,build,shelter,and,keep,your,clothing,dry,.",
     "order_subordinate_beginner_2": "build shelter,and keep your clothing dry,in,cold weather,.",
-    "order_subordinate_2": "build,shelter,and,keep,your,clothing,dry,in,cold,weather,.",
-    "order_active_beginner_2": "in cold conditions,survivors,build shelter,and stay dry,."
+    "order_subordinate_2": "build,shelter,and,keep,your,clothing,dry,in,cold,weather,."
   },
   {
     "id": "wilderness-survival-14",
@@ -1404,8 +1387,7 @@
     "order_passive_1": "shelter,is,found,and,clothing,is,dried,in,wet,conditions,.",
     "order_subordinate_1": "when,wet,,,find,shelter,and,change,into,dry,clothing,.",
     "order_subordinate_beginner_2": "find shelter,and change into dry clothing,when,wet,.",
-    "order_subordinate_2": "find,shelter,and,change,into,dry,clothing,when,wet,.",
-    "order_active_beginner_2": "in wet conditions,survivors,find shelter,and dry their clothing,."
+    "order_subordinate_2": "find,shelter,and,change,into,dry,clothing,when,wet,."
   },
   {
     "id": "wilderness-survival-15",
@@ -1503,8 +1485,7 @@
     "order_passive_1": "shade,is,found,and,water,is,conserved,in,hot,conditions,.",
     "order_subordinate_1": "in,hot,weather,,,stay,in,shade,and,conserve,your,water,.",
     "order_subordinate_beginner_2": "stay in shade,and conserve your water,in,hot weather,.",
-    "order_subordinate_2": "stay,in,shade,and,conserve,your,water,in,hot,weather,.",
-    "order_active_beginner_2": "in hot conditions,survivors,find shade,and conserve water,."
+    "order_subordinate_2": "stay,in,shade,and,conserve,your,water,in,hot,weather,."
   },
   {
     "id": "wilderness-survival-16",
@@ -1603,8 +1584,7 @@
     "order_passive_1": "wind,is,blocked,by,natural,shelter,or,a,built,windbreak,.",
     "order_subordinate_1": "when,wind,is,strong,,,find,shelter,behind,rocks,or,trees,.",
     "order_subordinate_beginner_2": "find shelter,behind rocks or trees,when,wind is strong,.",
-    "order_subordinate_2": "find,shelter,behind,rocks,or,trees,when,wind,is,strong,.",
-    "order_passive_beginner_2": "by natural shelter,or a built windbreak,wind,is blocked,."
+    "order_subordinate_2": "find,shelter,behind,rocks,or,trees,when,wind,is,strong,."
   },
   {
     "id": "wilderness-survival-17",
@@ -1702,9 +1682,7 @@
     "order_active_1": "survivors,stay,with,capsized,boats,and,signal,for,help,.",
     "order_progressive_1": "survivors,are,staying,with,boats,and,signaling,for,help,.",
     "order_passive_1": "capsized,boats,are,stayed,with,and,signals,are,sent,.",
-    "order_subordinate_1": "if,your,boat,capsizes,,,stay,with,it,and,signal,for,help,.",
-    "order_subordinate_beginner_2": "stay with it,and signal for help,if,your boat capsizes,.",
-    "order_subordinate_2": "stay,with,it,and,signal,for,help,if,your,boat,capsizes,."
+    "order_subordinate_1": "if,your,boat,capsizes,,,stay,with,it,and,signal,for,help,."
   },
   {
     "id": "wilderness-survival-18",
@@ -1712,7 +1690,7 @@
     "text_segment": "A personal survival kit should contain items for fire, shelter, signaling, water, and first aid. Include a knife, fire starters, cordage, a whistle, water purification tablets, and a space blanket.",
     "question": "Describe what a survival kit should contain.",
     "Active": "Survival kits contain items for fire, shelter, and signaling.",
-    "Progressive": "Survival kits are containing items for fire and shelter.",
+    "Progressive": "Campers are packing items for fire, shelter, and signaling.",
     "Passive": "Items for fire, shelter, and signaling are contained in survival kits.",
     "Subordinate": "When building a survival kit, include fire, shelter, and signaling items.",
     "tiles_active": [
@@ -1723,10 +1701,10 @@
       "."
     ],
     "tiles_progressive": [
-      "survival kits",
-      "are containing",
-      "items",
-      "for fire and shelter",
+      "campers",
+      "are packing items",
+      "for fire, shelter,",
+      "and signaling",
       "."
     ],
     "tiles_passive": [
@@ -1757,15 +1735,15 @@
       "."
     ],
     "tiles_progressive_advanced": [
-      "survival",
-      "kits",
+      "campers",
       "are",
-      "containing",
+      "packing",
       "items",
       "for",
       "fire",
-      "and",
       "shelter",
+      "and",
+      "signaling",
       "."
     ],
     "tiles_passive_advanced": [
@@ -1798,11 +1776,11 @@
       "."
     ],
     "order_active_beginner_1": "survival kits,contain items,for fire, shelter,,and signaling,.",
-    "order_progressive_beginner_1": "survival kits,are containing,items,for fire and shelter,.",
+    "order_progressive_beginner_1": "campers,are packing items,for fire, shelter,,and signaling,.",
     "order_passive_beginner_1": "items for fire,,shelter, and signaling,are contained,in survival kits,.",
     "order_subordinate_beginner_1": "when,building a survival kit,,,include fire, shelter,,and signaling items,.",
     "order_active_1": "survival,kits,contain,items,for,fire,shelter,and,signaling,.",
-    "order_progressive_1": "survival,kits,are,containing,items,for,fire,and,shelter,.",
+    "order_progressive_1": "campers,are,packing,items,for,fire,shelter,and,signaling,.",
     "order_passive_1": "items,for,fire,shelter,and,signaling,are,contained,in,survival,kits,.",
     "order_subordinate_1": "when,building,a,survival,kit,,,include,fire,shelter,and,signaling,items,.",
     "order_subordinate_beginner_2": "include fire, shelter,,and signaling items,when,building a survival kit,.",
@@ -1906,9 +1884,7 @@
     "order_passive_1": "cordage,is,cut,and,food,is,prepared,by,a,knife,.",
     "order_subordinate_1": "because,it,has,many,uses,,,a,knife,is,essential,for,survival,.",
     "order_subordinate_beginner_2": "a knife,is essential for survival,because,it has many uses,.",
-    "order_subordinate_2": "a,knife,is,essential,for,survival,because,it,has,many,uses,.",
-    "order_passive_beginner_2": "by a knife,cordage is cut,and food,is prepared,.",
-    "order_passive_2": "by,a,knife,cordage,is,cut,and,food,is,prepared,."
+    "order_subordinate_2": "a,knife,is,essential,for,survival,because,it,has,many,uses,."
   },
   {
     "id": "wilderness-survival-20",
@@ -2005,11 +1981,7 @@
     "order_active_1": "fire,provides,warmth,light,and,a,way,to,purify,water,.",
     "order_progressive_1": "fire,is,providing,warmth,light,and,water,purification,.",
     "order_passive_1": "warmth,light,and,water,purification,are,provided,by,fire,.",
-    "order_subordinate_1": "because,fire,provides,warmth,and,signals,rescuers,,,it,is,essential,.",
-    "order_subordinate_beginner_2": "it is essential,because,fire provides warmth,and signals rescuers,.",
-    "order_subordinate_2": "it,is,essential,because,fire,provides,warmth,and,signals,rescuers,.",
-    "order_passive_beginner_2": "by fire,warmth, light,,and water purification,are provided,.",
-    "order_passive_2": "by,fire,warmth,light,and,water,purification,are,provided,."
+    "order_subordinate_1": "because,fire,provides,warmth,and,signals,rescuers,,,it,is,essential,."
   },
   {
     "id": "wilderness-survival-21",
@@ -2110,8 +2082,7 @@
     "order_passive_1": "fires,are,started,without,matches,by,fire,steel,and,lenses,.",
     "order_subordinate_1": "when,matches,are,unavailable,,,use,fire,steel,or,a,magnifying,lens,.",
     "order_subordinate_beginner_2": "use fire steel,or a magnifying lens,when,matches are unavailable,.",
-    "order_subordinate_2": "use,fire,steel,or,a,magnifying,lens,when,matches,are,unavailable,.",
-    "order_passive_beginner_2": "by fire steel and lenses,fires,are started,without matches,."
+    "order_subordinate_2": "use,fire,steel,or,a,magnifying,lens,when,matches,are,unavailable,."
   },
   {
     "id": "wilderness-survival-22",
@@ -2213,10 +2184,7 @@
     "order_active_1": "the,fire,triangle,shows,that,fire,needs,fuel,heat,and,oxygen,.",
     "order_progressive_1": "the,fire,triangle,is,showing,that,fire,needs,three,things,.",
     "order_passive_1": "fuel,heat,and,oxygen,are,shown,by,the,fire,triangle,.",
-    "order_subordinate_1": "because,fire,needs,fuel,heat,and,oxygen,,,removing,one,stops,it,.",
-    "order_subordinate_beginner_2": "removing one,stops it,because,fire needs fuel, heat, and oxygen,.",
-    "order_subordinate_2": "removing,one,stops,it,because,fire,needs,fuel,heat,and,oxygen,.",
-    "order_passive_beginner_2": "by the fire triangle,fuel, heat,,and oxygen,are shown,."
+    "order_subordinate_1": "because,fire,needs,fuel,heat,and,oxygen,,,removing,one,stops,it,."
   },
   {
     "id": "wilderness-survival-23",
@@ -2408,8 +2376,7 @@
     "order_passive_1": "sunlight,is,reflected,toward,rescuers,by,a,signal,mirror,.",
     "order_subordinate_1": "to,signal,aircraft,,,flash,a,mirror,back,and,forth,.",
     "order_subordinate_beginner_2": "flash a mirror,back and forth,to,signal aircraft,.",
-    "order_subordinate_2": "flash,a,mirror,back,and,forth,to,signal,aircraft,.",
-    "order_passive_beginner_2": "by a signal mirror,sunlight,is reflected,toward rescuers,."
+    "order_subordinate_2": "flash,a,mirror,back,and,forth,to,signal,aircraft,."
   },
   {
     "id": "wilderness-survival-25",
@@ -2502,9 +2469,7 @@
     "order_passive_1": "needs,are,communicated,to,aircraft,by,ground,signals,.",
     "order_subordinate_1": "to,signal,aircraft,,,make,large,symbols,on,the,ground,.",
     "order_subordinate_beginner_2": "make large symbols,on the ground,to,signal aircraft,.",
-    "order_subordinate_2": "make,large,symbols,on,the,ground,to,signal,aircraft,.",
-    "order_passive_beginner_2": "by ground signals,needs,are communicated,to aircraft,.",
-    "order_passive_2": "by,ground,signals,needs,are,communicated,to,aircraft,."
+    "order_subordinate_2": "make,large,symbols,on,the,ground,to,signal,aircraft,."
   },
   {
     "id": "wilderness-survival-26",
@@ -2699,10 +2664,7 @@
     "order_active_1": "builders,create,debris,huts,by,leaning,branches,against,a,ridgepole,.",
     "order_progressive_1": "builders,are,creating,debris,huts,with,branches,and,leaves,.",
     "order_passive_1": "debris,huts,are,created,by,leaning,branches,against,ridgepoles,.",
-    "order_subordinate_1": "after,setting,up,a,ridgepole,,,lean,branches,against,it,for,walls,.",
-    "order_subordinate_beginner_2": "lean branches,against it for walls,after,setting up a ridgepole,.",
-    "order_subordinate_2": "lean,branches,against,it,for,walls,after,setting,up,a,ridgepole,.",
-    "order_passive_beginner_2": "by leaning branches,against ridgepoles,debris huts,are created,."
+    "order_subordinate_1": "after,setting,up,a,ridgepole,,,lean,branches,against,it,for,walls,."
   },
   {
     "id": "wilderness-survival-28",
@@ -2893,9 +2855,7 @@
     "order_active_1": "survivors,treat,water,by,boiling,using,tablets,or,filtering,.",
     "order_progressive_1": "survivors,are,treating,water,by,boiling,and,filtering,.",
     "order_passive_1": "water,is,treated,by,boiling,tablets,or,filtering,.",
-    "order_subordinate_1": "before,drinking,water,outdoors,,,treat,it,by,boiling,or,filtering,.",
-    "order_subordinate_beginner_2": "treat it,by boiling or filtering,before,drinking water outdoors,.",
-    "order_subordinate_2": "treat,it,by,boiling,or,filtering,before,drinking,water,outdoors,."
+    "order_subordinate_1": "before,drinking,water,outdoors,,,treat,it,by,boiling,or,filtering,."
   },
   {
     "id": "wilderness-survival-30",
@@ -2989,10 +2949,7 @@
     "order_active_1": "boiling,water,for,one,minute,kills,harmful,germs,.",
     "order_progressive_1": "boiling,water,is,killing,harmful,germs,.",
     "order_passive_1": "harmful,germs,are,killed,by,boiling,water,for,one,minute,.",
-    "order_subordinate_1": "to,purify,water,,,boil,it,for,at,least,one,minute,.",
-    "order_subordinate_beginner_2": "boil it,for at least one minute,to,purify water,.",
-    "order_subordinate_2": "boil,it,for,at,least,one,minute,to,purify,water,.",
-    "order_passive_beginner_2": "by boiling water,for one minute,harmful germs,are killed,."
+    "order_subordinate_1": "to,purify,water,,,boil,it,for,at,least,one,minute,."
   },
   {
     "id": "wilderness-survival-31",
@@ -3088,10 +3045,7 @@
     "order_passive_1": "warmth,is,maintained,by,wearing,layered,clothing,.",
     "order_subordinate_1": "to,stay,warm,in,cold,weather,,,dress,in,multiple,layers,.",
     "order_subordinate_beginner_2": "dress in,multiple layers,to,stay warm in cold weather,.",
-    "order_subordinate_2": "dress,in,multiple,layers,to,stay,warm,in,cold,weather,.",
-    "order_active_beginner_2": "in cold weather,layered clothing,keeps you,warm,.",
-    "order_progressive_beginner_2": "in cold weather,layered clothing,is keeping,people warm,.",
-    "order_passive_beginner_2": "by wearing,layered clothing,warmth,is maintained,."
+    "order_subordinate_2": "dress,in,multiple,layers,to,stay,warm,in,cold,weather,."
   },
   {
     "id": "wilderness-survival-32",
@@ -3185,9 +3139,7 @@
     "order_passive_1": "coolness,is,maintained,by,wearing,light-colored,clothing,.",
     "order_subordinate_1": "to,stay,cool,in,hot,weather,,,wear,loose,light,clothing,.",
     "order_subordinate_beginner_2": "wear loose,,light clothing,to,stay cool in hot weather,.",
-    "order_subordinate_2": "wear,loose,light,clothing,to,stay,cool,in,hot,weather,.",
-    "order_active_beginner_2": "in hot weather,loose, light-colored,clothing,keeps you cool,.",
-    "order_passive_beginner_2": "by wearing,light-colored clothing,coolness,is maintained,."
+    "order_subordinate_2": "wear,loose,light,clothing,to,stay,cool,in,hot,weather,."
   },
   {
     "id": "wilderness-survival-33",
@@ -3284,10 +3236,7 @@
     "order_active_1": "wool,and,synthetic,fabrics,keep,you,warm,when,wet,.",
     "order_progressive_1": "wool,and,synthetics,are,keeping,people,warm,when,wet,.",
     "order_passive_1": "warmth,is,kept,by,wool,and,synthetic,fabrics,when,wet,.",
-    "order_subordinate_1": "because,cotton,loses,warmth,when,wet,,,avoid,it,outdoors,.",
-    "order_subordinate_beginner_2": "avoid it,outdoors,because,cotton loses warmth when wet,.",
-    "order_subordinate_2": "avoid,it,outdoors,because,cotton,loses,warmth,when,wet,.",
-    "order_passive_beginner_2": "by wool and synthetic fabrics,when wet,warmth,is kept,."
+    "order_subordinate_1": "because,cotton,loses,warmth,when,wet,,,avoid,it,outdoors,."
   },
   {
     "id": "wilderness-survival-34",
@@ -3479,9 +3428,7 @@
     "order_active_1": "people,can,survive,weeks,without,food,but,only,days,without,water,.",
     "order_progressive_1": "people,are,surviving,weeks,without,food,.",
     "order_passive_1": "weeks,can,be,survived,without,food,but,not,without,water,.",
-    "order_subordinate_1": "because,water,is,more,urgent,,,focus,on,it,before,food,.",
-    "order_subordinate_beginner_2": "focus on it,before food,because,water is more urgent,.",
-    "order_subordinate_2": "focus,on,it,before,food,because,water,is,more,urgent,."
+    "order_subordinate_1": "because,water,is,more,urgent,,,focus,on,it,before,food,."
   },
   {
     "id": "wilderness-survival-36",
@@ -3576,8 +3523,7 @@
     "order_passive_1": "distress,is,signaled,by,using,three,of,anything,.",
     "order_subordinate_1": "to,signal,for,help,,,use,three,whistle,blasts,or,three,fires,.",
     "order_subordinate_beginner_2": "use three whistle blasts,or three fires,to,signal for help,.",
-    "order_subordinate_2": "use,three,whistle,blasts,or,three,fires,to,signal,for,help,.",
-    "order_passive_beginner_2": "by using,three of anything,distress,is signaled,."
+    "order_subordinate_2": "use,three,whistle,blasts,or,three,fires,to,signal,for,help,."
   },
   {
     "id": "wilderness-survival-37",
@@ -3671,11 +3617,7 @@
     "order_active_1": "whistles,carry,sound,farther,than,shouting,and,save,energy,.",
     "order_progressive_1": "whistles,are,carrying,sound,farther,than,shouting,.",
     "order_passive_1": "sound,is,carried,farther,by,whistles,than,by,shouting,.",
-    "order_subordinate_1": "because,whistles,save,energy,,,carry,one,around,your,neck,.",
-    "order_subordinate_beginner_2": "carry one,around your neck,because,whistles save energy,.",
-    "order_subordinate_2": "carry,one,around,your,neck,because,whistles,save,energy,.",
-    "order_passive_beginner_2": "by whistles,than by shouting,sound,is carried farther,.",
-    "order_passive_2": "by,shouting,sound,is,carried,farther,by,whistles,than,."
+    "order_subordinate_1": "because,whistles,save,energy,,,carry,one,around,your,neck,."
   },
   {
     "id": "wilderness-survival-38",
@@ -3774,8 +3716,7 @@
     "order_passive_1": "thick,white,smoke,is,created,by,adding,green,leaves,to,fires,.",
     "order_subordinate_1": "to,create,smoke,signals,,,add,green,leaves,to,your,fire,.",
     "order_subordinate_beginner_2": "add green leaves,to your fire,to,create smoke signals,.",
-    "order_subordinate_2": "add,green,leaves,to,your,fire,to,create,smoke,signals,.",
-    "order_passive_beginner_2": "by adding green leaves,to fires,thick white smoke,is created,."
+    "order_subordinate_2": "add,green,leaves,to,your,fire,to,create,smoke,signals,."
   },
   {
     "id": "wilderness-survival-39",
@@ -3971,7 +3912,6 @@
     "order_passive_1": "difficult,situations,are,overcome,by,those,with,the,will,to,survive,.",
     "order_subordinate_1": "because,determination,matters,most,,,never,give,up,hope,.",
     "order_subordinate_beginner_2": "never give up,hope,because,determination matters most,.",
-    "order_subordinate_2": "never,give,up,hope,because,determination,matters,most,.",
-    "order_passive_beginner_2": "by those with,the will to survive,difficult situations,are overcome,."
+    "order_subordinate_2": "never,give,up,hope,because,determination,matters,most,."
   }
 ]

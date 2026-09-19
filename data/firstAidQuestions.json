@@ -86,8 +86,7 @@
     "order_active_1": "rescuers,check,for,dangers,before,approaching,victims,.",
     "order_progressive_1": "rescuers,are,checking,for,dangers,before,approaching,.",
     "order_passive_1": "dangers,are,checked,by,rescuers,before,helping,.",
-    "order_subordinate_1": "before,approaching,a,victim,,,rescuers,check,for,dangers,.",
-    "order_passive_beginner_2": "by rescuers,before helping,dangers,are checked,."
+    "order_subordinate_1": "before,approaching,a,victim,,,rescuers,check,for,dangers,."
   },
   {
     "id": "first-aid-2",
@@ -364,8 +363,7 @@
     "order_active_1": "first,aiders,wear,gloves,to,prevent,spreading,germs,.",
     "order_progressive_1": "first,aiders,are,wearing,gloves,to,prevent,infection,.",
     "order_passive_1": "gloves,are,worn,by,first,aiders,to,block,germs,.",
-    "order_subordinate_1": "because,germs,spread,easily,,,first,aiders,wear,gloves,.",
-    "order_passive_beginner_2": "by first aiders,to block germs,gloves,are worn,."
+    "order_subordinate_1": "because,germs,spread,easily,,,first,aiders,wear,gloves,."
   },
   {
     "id": "first-aid-5",
@@ -462,9 +460,7 @@
     "order_active_1": "rescuers,tilt,the,head,back,and,lift,the,chin,.",
     "order_progressive_1": "rescuers,are,tilting,the,head,and,lifting,the,chin,.",
     "order_passive_1": "the,head,is,tilted,and,chin,is,lifted,by,rescuers,.",
-    "order_subordinate_1": "after,tilting,the,head,back,,,lift,the,chin,gently,.",
-    "order_passive_beginner_2": "by rescuers,the head,is tilted,and chin is lifted,.",
-    "order_passive_2": "by,rescuers,the,head,is,tilted,and,chin,is,lifted,."
+    "order_subordinate_1": "after,tilting,the,head,back,,,lift,the,chin,gently,."
   },
   {
     "id": "first-aid-6",
@@ -650,9 +646,7 @@
     "order_active_1": "rescuers,elevate,the,legs,and,keep,victims,warm,.",
     "order_progressive_1": "rescuers,are,elevating,legs,and,keeping,victims,warm,.",
     "order_passive_1": "legs,are,elevated,and,warmth,is,provided,by,rescuers,.",
-    "order_subordinate_1": "while,waiting,for,help,,,keep,the,shock,victim,warm,.",
-    "order_passive_beginner_2": "by rescuers,legs,are elevated,and warmth is provided,.",
-    "order_passive_2": "by,rescuers,legs,are,elevated,and,warmth,is,provided,."
+    "order_subordinate_1": "while,waiting,for,help,,,keep,the,shock,victim,warm,."
   },
   {
     "id": "first-aid-8",
@@ -744,8 +738,7 @@
     "order_active_1": "rescuers,sort,victims,by,the,severity,of,injuries,.",
     "order_progressive_1": "rescuers,are,sorting,victims,by,injury,severity,.",
     "order_passive_1": "victims,are,sorted,by,injury,severity,during,triage,.",
-    "order_subordinate_1": "during,mass,emergencies,,,the,most,injured,receive,help,first,.",
-    "order_passive_beginner_2": "by injury severity,during triage,victims,are sorted,."
+    "order_subordinate_1": "during,mass,emergencies,,,the,most,injured,receive,help,first,."
   },
   {
     "id": "first-aid-9",
@@ -934,7 +927,6 @@
     "order_passive_1": "swelling,is,reduced,by,applying,ice,to,bruises,.",
     "order_subordinate_1": "after,a,bump,causes,a,bruise,,,apply,ice,immediately,.",
     "order_progressive_beginner_2": "on the,bruised area,ice,is reducing swelling,.",
-    "order_passive_beginner_2": "by applying ice,to bruises,swelling,is reduced,.",
     "order_subordinate_beginner_2": "immediately,after,a bump causes a bruise,,,apply ice,.",
     "order_subordinate_2": "immediately,after,a,bump,causes,a,bruise,,,apply,ice,."
   },
@@ -1215,8 +1207,7 @@
     "order_active_1": "aloe,vera,and,cool,compresses,soothe,sunburned,skin,.",
     "order_progressive_1": "aloe,vera,is,soothing,the,sunburned,skin,.",
     "order_passive_1": "sunburned,skin,is,soothed,by,aloe,vera,gel,.",
-    "order_subordinate_1": "after,getting,sunburned,,,apply,aloe,vera,and,drink,water,.",
-    "order_passive_beginner_2": "by aloe vera,gel,sunburned skin,is soothed,."
+    "order_subordinate_1": "after,getting,sunburned,,,apply,aloe,vera,and,drink,water,."
   },
   {
     "id": "first-aid-14",
@@ -1783,8 +1774,7 @@
     "order_active_1": "pressure,and,bandages,stop,bleeding,from,small,cuts,.",
     "order_progressive_1": "pressure,is,stopping,the,bleeding,from,the,cut,.",
     "order_passive_1": "bleeding,is,stopped,by,applying,pressure,and,bandages,.",
-    "order_subordinate_1": "after,cleaning,the,cut,,,apply,pressure,to,stop,bleeding,.",
-    "order_passive_beginner_2": "by applying pressure,and bandages,bleeding,is stopped,."
+    "order_subordinate_1": "after,cleaning,the,cut,,,apply,pressure,to,stop,bleeding,."
   },
   {
     "id": "first-aid-20",
@@ -1872,8 +1862,7 @@
     "order_active_1": "direct,pressure,controls,severe,bleeding,effectively,.",
     "order_progressive_1": "direct,pressure,is,controlling,the,severe,bleeding,.",
     "order_passive_1": "severe,bleeding,is,controlled,by,firm,direct,pressure,.",
-    "order_subordinate_1": "while,applying,pressure,,,keep,the,wound,elevated,.",
-    "order_passive_beginner_2": "by firm,direct pressure,severe bleeding,is controlled,."
+    "order_subordinate_1": "while,applying,pressure,,,keep,the,wound,elevated,."
   },
   {
     "id": "first-aid-21",
@@ -1964,9 +1953,7 @@
     "order_active_1": "tourniquets,stop,life-threatening,bleeding,as,a,last,resort,.",
     "order_progressive_1": "tourniquets,are,stopping,dangerous,bleeding,.",
     "order_passive_1": "extreme,bleeding,is,stopped,by,tourniquets,.",
-    "order_subordinate_1": "because,tourniquets,can,cause,harm,,,use,them,only,as,a,last,resort,.",
-    "order_passive_beginner_2": "by,tourniquets,extreme bleeding,is stopped,.",
-    "order_passive_2": "by,tourniquets,extreme,bleeding,is,stopped,."
+    "order_subordinate_1": "because,tourniquets,can,cause,harm,,,use,them,only,as,a,last,resort,."
   },
   {
     "id": "first-aid-22",
@@ -2057,8 +2044,7 @@
     "order_passive_1": "nosebleeds,are,stopped,by,pinching,the,soft,nose,.",
     "order_subordinate_1": "while,leaning,forward,,,pinch,your,nose,shut,.",
     "order_active_beginner_2": "quickly,pinching the nose,stops most,nosebleeds,.",
-    "order_active_2": "quickly,pinching,the,nose,stops,most,nosebleeds,.",
-    "order_passive_beginner_2": "by pinching,the soft nose,nosebleeds,are stopped,."
+    "order_active_2": "quickly,pinching,the,nose,stops,most,nosebleeds,."
   },
   {
     "id": "first-aid-23",
@@ -2152,8 +2138,7 @@
     "order_active_1": "scraping,removes,the,stinger,without,releasing,more,venom,.",
     "order_progressive_1": "ice,is,reducing,the,swelling,from,the,sting,.",
     "order_passive_1": "the,stinger,is,removed,by,scraping,with,a,card,.",
-    "order_subordinate_1": "after,removing,the,stinger,,,apply,ice,to,reduce,swelling,.",
-    "order_passive_beginner_2": "by scraping,with a card,the stinger,is removed,."
+    "order_subordinate_1": "after,removing,the,stinger,,,apply,ice,to,reduce,swelling,."
   },
   {
     "id": "first-aid-24",
@@ -2713,7 +2698,6 @@
     "order_passive_1": "airways,are,opened,by,using,an,inhaler,.",
     "order_subordinate_1": "if,the,inhaler,does,not,help,,,call,911,immediately,.",
     "order_active_beginner_2": "during asthma,attacks,inhalers,help open airways,.",
-    "order_passive_beginner_2": "by using,an inhaler,airways,are opened,.",
     "order_subordinate_beginner_2": "immediately,if,the inhaler does not help,,,call 911,.",
     "order_subordinate_2": "immediately,if,the,inhaler,does,not,help,,,call,911,."
   },
@@ -2801,8 +2785,7 @@
     "order_active_1": "moleskin,protects,blisters,from,more,rubbing,.",
     "order_progressive_1": "a,bandage,is,protecting,the,blister,.",
     "order_passive_1": "blisters,are,protected,by,moleskin,or,bandages,.",
-    "order_subordinate_1": "because,popping,causes,infection,,,leave,blisters,alone,.",
-    "order_passive_beginner_2": "by moleskin,or bandages,blisters,are protected,."
+    "order_subordinate_1": "because,popping,causes,infection,,,leave,blisters,alone,."
   },
   {
     "id": "first-aid-31",
@@ -2891,9 +2874,7 @@
     "order_active_1": "chest,compressions,keep,blood,flowing,to,the,brain,.",
     "order_progressive_1": "chest,compressions,are,keeping,blood,flowing,.",
     "order_passive_1": "blood,is,kept,flowing,by,chest,compressions,.",
-    "order_subordinate_1": "when,the,heart,stops,,,cpr,keeps,blood,flowing,.",
-    "order_passive_beginner_2": "by chest,compressions,blood,is kept flowing,.",
-    "order_passive_2": "by,chest,compressions,blood,is,kept,flowing,."
+    "order_subordinate_1": "when,the,heart,stops,,,cpr,keeps,blood,flowing,."
   },
   {
     "id": "first-aid-32",
@@ -3075,8 +3056,7 @@
     "order_active_1": "aeds,restart,hearts,with,an,electrical,shock,.",
     "order_progressive_1": "the,aed,is,analyzing,the,heart,rhythm,.",
     "order_passive_1": "the,heart,is,shocked,by,the,aed,machine,.",
-    "order_subordinate_1": "before,the,shock,delivers,,,stand,back,from,the,victim,.",
-    "order_passive_beginner_2": "by the,aed machine,the heart,is shocked,."
+    "order_subordinate_1": "before,the,shock,delivers,,,stand,back,from,the,victim,."
   },
   {
     "id": "first-aid-34",
@@ -3260,9 +3240,7 @@
     "order_active_1": "splints,keep,broken,bones,still,and,protected,.",
     "order_progressive_1": "a,splint,is,keeping,the,broken,bone,still,.",
     "order_passive_1": "broken,bones,are,kept,still,by,splints,.",
-    "order_subordinate_1": "until,help,arrives,,,keep,the,broken,bone,still,.",
-    "order_passive_beginner_2": "by,splints,broken bones,are kept still,.",
-    "order_passive_2": "by,splints,broken,bones,are,kept,still,."
+    "order_subordinate_1": "until,help,arrives,,,keep,the,broken,bone,still,."
   },
   {
     "id": "first-aid-36",
@@ -3352,9 +3330,7 @@
     "order_active_1": "slings,support,injured,arms,against,the,body,.",
     "order_progressive_1": "the,sling,is,supporting,the,injured,arm,.",
     "order_passive_1": "injured,arms,are,supported,by,slings,.",
-    "order_subordinate_1": "when,making,a,sling,,,keep,the,hand,above,the,elbow,.",
-    "order_passive_beginner_2": "by,slings,injured arms,are supported,.",
-    "order_passive_2": "by,slings,injured,arms,are,supported,."
+    "order_subordinate_1": "when,making,a,sling,,,keep,the,hand,above,the,elbow,."
   },
   {
     "id": "first-aid-37",
@@ -3542,8 +3518,7 @@
     "order_active_1": "moving,can,cause,permanent,damage,to,the,spine,.",
     "order_progressive_1": "movement,is,risking,more,damage,to,the,spine,.",
     "order_passive_1": "the,spine,is,protected,by,keeping,the,victim,still,.",
-    "order_subordinate_1": "because,spine,injuries,are,serious,,,do,not,move,the,victim,.",
-    "order_passive_beginner_2": "by keeping,the victim still,the spine,is protected,."
+    "order_subordinate_1": "because,spine,injuries,are,serious,,,do,not,move,the,victim,."
   },
   {
     "id": "first-aid-39",
@@ -3906,8 +3881,7 @@
     "order_active_1": "rescuers,protect,seizure,victims,from,hitting,objects,.",
     "order_progressive_1": "rescuers,are,cushioning,the,victim's,head,.",
     "order_passive_1": "seizure,victims,are,protected,by,clearing,the,area,.",
-    "order_subordinate_1": "during,a,seizure,,,protect,the,person's,head,.",
-    "order_passive_beginner_2": "by clearing,the area,seizure victims,are protected,."
+    "order_subordinate_1": "during,a,seizure,,,protect,the,person's,head,."
   },
   {
     "id": "first-aid-43",
@@ -3997,9 +3971,7 @@
     "order_active_1": "warning,signs,tell,us,someone,needs,help,.",
     "order_progressive_1": "adults,are,watching,for,warning,signs,.",
     "order_passive_1": "warning,signs,are,taken,seriously,by,caring,people,.",
-    "order_subordinate_1": "if,you,notice,warning,signs,,,tell,a,trusted,adult,.",
-    "order_passive_beginner_2": "by caring,people,warning signs,are taken seriously,.",
-    "order_passive_2": "by,caring,people,warning,signs,are,taken,seriously,."
+    "order_subordinate_1": "if,you,notice,warning,signs,,,tell,a,trusted,adult,."
   },
   {
     "id": "first-aid-44",
@@ -4093,8 +4065,7 @@
     "order_progressive_1": "helpers,are,staying,with,the,person,and,listening,.",
     "order_passive_1": "help,is,provided,by,calling,988,for,support,.",
     "order_subordinate_1": "when,someone,needs,help,,,call,the,988,lifeline,.",
-    "order_active_beginner_2": "in crisis,the 988 lifeline,provides help,for people,.",
-    "order_passive_beginner_2": "by calling 988,for support,help,is provided,."
+    "order_active_beginner_2": "in crisis,the 988 lifeline,provides help,for people,."
   },
   {
     "id": "first-aid-45",
@@ -4183,7 +4154,6 @@
     "order_progressive_1": "safety,rules,are,preventing,accidents,every,day,.",
     "order_passive_1": "injuries,are,prevented,by,following,safety,rules,.",
     "order_subordinate_1": "by,wearing,protective,gear,,,you,prevent,many,injuries,.",
-    "order_progressive_beginner_2": "every day,safety rules,are preventing,accidents,.",
-    "order_passive_beginner_2": "by following,safety rules,injuries,are prevented,."
+    "order_progressive_beginner_2": "every day,safety rules,are preventing,accidents,."
   }
 ]

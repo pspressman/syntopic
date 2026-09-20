@@ -275,7 +275,7 @@
     "text_segment": "The biosphere is the part of Earth where life exists. It includes land, water, and air where living things are found. Earth is the only biosphere we know of in the universe.",
     "question": "Describe what the biosphere is.",
     "Active": "The biosphere contains all life on Earth.",
-    "Progressive": "Life is existing throughout the entire biosphere.",
+    "Progressive": "Life is thriving throughout the entire biosphere.",
     "Passive": "All life on Earth is contained in the biosphere.",
     "Subordinate": "Because Earth supports life, it forms a biosphere.",
     "tiles_active": [
@@ -287,7 +287,7 @@
     ],
     "tiles_progressive": [
       "life",
-      "is existing",
+      "is thriving",
       "throughout the",
       "entire biosphere",
       "."
@@ -320,7 +320,7 @@
     "tiles_progressive_advanced": [
       "life",
       "is",
-      "existing",
+      "thriving",
       "throughout",
       "the",
       "entire",
@@ -352,14 +352,14 @@
       "."
     ],
     "order_active_beginner_1": "the biosphere,contains all life,on,earth,.",
-    "order_progressive_beginner_1": "life,is existing,throughout the,entire biosphere,.",
+    "order_progressive_beginner_1": "life,is thriving,throughout the,entire biosphere,.",
     "order_passive_beginner_1": "all life on earth,is contained,in the,biosphere,.",
     "order_subordinate_beginner_1": "because,earth supports life,,,it forms,a biosphere,.",
     "order_active_1": "the,biosphere,contains,all,life,on,earth,.",
-    "order_progressive_1": "life,is,existing,throughout,the,entire,biosphere,.",
+    "order_progressive_1": "life,is,thriving,throughout,the,entire,biosphere,.",
     "order_passive_1": "all,life,on,earth,is,contained,in,the,biosphere,.",
     "order_subordinate_1": "because,earth,supports,life,,,it,forms,a,biosphere,.",
-    "order_progressive_beginner_2": "throughout the,entire biosphere,life,is existing,."
+    "order_progressive_beginner_2": "throughout the,entire biosphere,life,is thriving,."
   },
   {
     "id": "environmental-science-5",
@@ -447,9 +447,7 @@
     "order_active_1": "habitats,provide,food,water,and,shelter,for,animals,.",
     "order_progressive_1": "habitats,are,providing,everything,animals,need,.",
     "order_passive_1": "food,and,shelter,are,provided,by,habitats,.",
-    "order_subordinate_1": "when,habitats,are,healthy,,,animals,can,thrive,.",
-    "order_passive_beginner_2": "by,habitats,food and shelter,are provided,.",
-    "order_passive_2": "by,habitats,food,and,shelter,are,provided,."
+    "order_subordinate_1": "when,habitats,are,healthy,,,animals,can,thrive,."
   },
   {
     "id": "environmental-science-6",
@@ -543,9 +541,7 @@
     "order_active_1": "each,species,fills,a,special,role,called,a,niche,.",
     "order_progressive_1": "bees,are,filling,their,niche,by,pollinating,flowers,.",
     "order_passive_1": "a,special,role,is,filled,by,each,species,.",
-    "order_subordinate_1": "because,bees,pollinate,flowers,,,they,fill,an,important,niche,.",
-    "order_passive_beginner_2": "by each,species,a special role,is filled,.",
-    "order_passive_2": "by,each,species,a,special,role,is,filled,."
+    "order_subordinate_1": "because,bees,pollinate,flowers,,,they,fill,an,important,niche,."
   },
   {
     "id": "environmental-science-7",
@@ -634,9 +630,7 @@
     "order_progressive_1": "both,species,are,benefiting,from,mutualism,.",
     "order_passive_1": "both,species,are,helped,by,mutualistic,relationships,.",
     "order_subordinate_1": "when,both,species,benefit,,,the,relationship,is,mutualism,.",
-    "order_active_beginner_2": "in the,relationship,mutualism,helps both species,.",
-    "order_passive_beginner_2": "by mutualistic,relationships,both species,are helped,.",
-    "order_passive_2": "by,mutualistic,relationships,both,species,are,helped,."
+    "order_active_beginner_2": "in the,relationship,mutualism,helps both species,."
   },
   {
     "id": "environmental-science-8",
@@ -726,9 +720,7 @@
     "order_progressive_1": "ticks,are,harming,animals,by,feeding,on,blood,.",
     "order_passive_1": "host,animals,are,harmed,by,parasites,.",
     "order_subordinate_1": "because,ticks,feed,on,blood,,,they,are,parasites,.",
-    "order_progressive_beginner_2": "on blood,ticks,are harming animals,by feeding,.",
-    "order_passive_beginner_2": "by,parasites,host animals,are harmed,.",
-    "order_passive_2": "by,parasites,host,animals,are,harmed,."
+    "order_progressive_beginner_2": "on blood,ticks,are harming animals,by feeding,."
   },
   {
     "id": "environmental-science-9",
@@ -909,8 +901,7 @@
     "order_active_1": "producers,make,their,own,food,using,sunlight,.",
     "order_progressive_1": "plants,are,making,food,through,photosynthesis,.",
     "order_passive_1": "food,is,made,by,producers,using,sunlight,.",
-    "order_subordinate_1": "because,plants,make,food,,,they,are,called,producers,.",
-    "order_passive_beginner_2": "by producers,using sunlight,food,is made,."
+    "order_subordinate_1": "because,plants,make,food,,,they,are,called,producers,."
   },
   {
     "id": "environmental-science-11",
@@ -1000,9 +991,7 @@
     "order_active_1": "consumers,eat,plants,or,other,animals,for,energy,.",
     "order_progressive_1": "animals,are,consuming,plants,and,other,animals,.",
     "order_passive_1": "plants,and,animals,are,eaten,by,consumers,.",
-    "order_subordinate_1": "because,animals,eat,other,organisms,,,they,are,consumers,.",
-    "order_passive_beginner_2": "by,consumers,plants and animals,are eaten,.",
-    "order_passive_2": "by,consumers,plants,and,animals,are,eaten,."
+    "order_subordinate_1": "because,animals,eat,other,organisms,,,they,are,consumers,."
   },
   {
     "id": "environmental-science-12",
@@ -1090,9 +1079,7 @@
     "order_active_1": "decomposers,break,down,dead,matter,into,nutrients,.",
     "order_progressive_1": "fungi,are,breaking,down,fallen,leaves,.",
     "order_passive_1": "dead,matter,is,broken,down,by,decomposers,.",
-    "order_subordinate_1": "after,organisms,die,,,decomposers,return,nutrients,to,soil,.",
-    "order_passive_beginner_2": "by,decomposers,dead matter,is broken down,.",
-    "order_passive_2": "by,decomposers,dead,matter,is,broken,down,."
+    "order_subordinate_1": "after,organisms,die,,,decomposers,return,nutrients,to,soil,."
   },
   {
     "id": "environmental-science-13",
@@ -1182,9 +1169,7 @@
     "order_progressive_1": "many,species,are,living,together,in,healthy,ecosystems,.",
     "order_passive_1": "ecosystems,are,made,stronger,by,high,biodiversity,.",
     "order_subordinate_1": "when,many,species,exist,together,,,biodiversity,is,high,.",
-    "order_progressive_beginner_2": "in healthy,ecosystems,many species,are living together,.",
-    "order_passive_beginner_2": "by high,biodiversity,ecosystems,are made stronger,.",
-    "order_passive_2": "by,high,biodiversity,ecosystems,are,made,stronger,."
+    "order_progressive_beginner_2": "in healthy,ecosystems,many species,are living together,."
   },
   {
     "id": "environmental-science-14",
@@ -1541,9 +1526,7 @@
     "order_active_1": "cars,and,factories,release,pollutants,into,the,air,.",
     "order_progressive_1": "factories,are,releasing,harmful,gases,daily,.",
     "order_passive_1": "pollutants,are,released,into,the,air,by,vehicles,.",
-    "order_subordinate_1": "when,cars,burn,fuel,,,they,create,air,pollution,.",
-    "order_passive_beginner_2": "by vehicles,pollutants,are released,into the air,.",
-    "order_passive_2": "by,vehicles,pollutants,are,released,into,the,air,."
+    "order_subordinate_1": "when,cars,burn,fuel,,,they,create,air,pollution,."
   },
   {
     "id": "environmental-science-18",
@@ -1633,9 +1616,7 @@
     "order_active_1": "acid,rain,damages,forests,and,kills,fish,.",
     "order_progressive_1": "acid,rain,is,harming,trees,and,lakes,.",
     "order_passive_1": "forests,and,fish,are,damaged,by,acid,rain,.",
-    "order_subordinate_1": "when,pollution,mixes,with,clouds,,,acid,rain,forms,.",
-    "order_passive_beginner_2": "by acid,rain,forests and fish,are damaged,.",
-    "order_passive_2": "by,acid,rain,forests,and,fish,are,damaged,."
+    "order_subordinate_1": "when,pollution,mixes,with,clouds,,,acid,rain,forms,."
   },
   {
     "id": "environmental-science-19",
@@ -1724,9 +1705,7 @@
     "order_active_1": "chemicals,and,garbage,pollute,our,waterways,severely,.",
     "order_progressive_1": "pollution,is,entering,rivers,and,lakes,daily,.",
     "order_passive_1": "rivers,and,lakes,are,polluted,by,harmful,substances,.",
-    "order_subordinate_1": "when,oil,spills,occur,,,water,becomes,polluted,.",
-    "order_passive_beginner_2": "by harmful,substances,rivers and lakes,are polluted,.",
-    "order_passive_2": "by,harmful,substances,rivers,and,lakes,are,polluted,."
+    "order_subordinate_1": "when,oil,spills,occur,,,water,becomes,polluted,."
   },
   {
     "id": "environmental-science-20",
@@ -1904,8 +1883,7 @@
     "order_active_1": "trash,and,chemicals,contaminate,the,soil,.",
     "order_progressive_1": "landfills,are,filling,up,with,garbage,.",
     "order_passive_1": "soil,is,contaminated,by,chemicals,and,trash,.",
-    "order_subordinate_1": "when,chemicals,leak,into,soil,,,land,pollution,occurs,.",
-    "order_passive_beginner_2": "by chemicals,and trash,soil,is contaminated,."
+    "order_subordinate_1": "when,chemicals,leak,into,soil,,,land,pollution,occurs,."
   },
   {
     "id": "environmental-science-22",
@@ -1996,8 +1974,7 @@
     "order_active_1": "water,and,wind,wear,away,soil,over,time,.",
     "order_progressive_1": "rain,is,washing,soil,into,the,river,.",
     "order_passive_1": "soil,is,worn,away,by,wind,and,water,.",
-    "order_subordinate_1": "when,heavy,rains,fall,,,erosion,carries,soil,away,.",
-    "order_passive_beginner_2": "by wind,and water,soil,is worn away,."
+    "order_subordinate_1": "when,heavy,rains,fall,,,erosion,carries,soil,away,."
   },
   {
     "id": "environmental-science-23",
@@ -2088,8 +2065,7 @@
     "order_active_1": "the,ozone,layer,protects,us,from,harmful,rays,.",
     "order_progressive_1": "the,ozone,layer,is,shielding,earth,from,radiation,.",
     "order_passive_1": "earth,is,protected,by,the,ozone,layer,.",
-    "order_subordinate_1": "because,ozone,blocks,harmful,rays,,,life,can,exist,.",
-    "order_passive_beginner_2": "by the,ozone layer,earth,is protected,."
+    "order_subordinate_1": "because,ozone,blocks,harmful,rays,,,life,can,exist,."
   },
   {
     "id": "environmental-science-24",
@@ -2183,9 +2159,7 @@
     "order_progressive_1": "rain,is,flowing,through,the,watershed,into,rivers,.",
     "order_passive_1": "water,is,collected,and,drained,by,watersheds,.",
     "order_subordinate_1": "when,rain,falls,on,hills,,,it,flows,into,watersheds,.",
-    "order_progressive_beginner_2": "through the watershed,into rivers,rain,is flowing,.",
-    "order_passive_beginner_2": "by watersheds,water,is collected,and drained,.",
-    "order_passive_2": "by,watersheds,water,is,collected,and,drained,."
+    "order_progressive_beginner_2": "through the watershed,into rivers,rain,is flowing,."
   },
   {
     "id": "environmental-science-25",
@@ -2273,9 +2247,7 @@
     "order_progressive_1": "carbon,dioxide,is,trapping,more,heat,than,before,.",
     "order_passive_1": "heat,is,trapped,by,greenhouse,gases,.",
     "order_subordinate_1": "when,greenhouse,gases,increase,,,temperatures,rise,.",
-    "order_active_beginner_2": "in the,atmosphere,greenhouse gases,trap heat,.",
-    "order_passive_beginner_2": "by greenhouse,gases,heat,is trapped,.",
-    "order_passive_2": "by,greenhouse,gases,heat,is,trapped,."
+    "order_active_beginner_2": "in the,atmosphere,greenhouse gases,trap heat,."
   },
   {
     "id": "environmental-science-26",
@@ -2365,8 +2337,7 @@
     "order_active_1": "the,three,r's,help,reduce,waste,and,pollution,.",
     "order_progressive_1": "people,are,recycling,to,help,the,environment,.",
     "order_passive_1": "waste,is,reduced,by,following,the,three,r's,.",
-    "order_subordinate_1": "by,recycling,materials,,,we,create,less,pollution,.",
-    "order_passive_beginner_2": "by following,the three r's,waste,is reduced,."
+    "order_subordinate_1": "by,recycling,materials,,,we,create,less,pollution,."
   },
   {
     "id": "environmental-science-27",
@@ -2457,9 +2428,7 @@
     "order_progressive_1": "invasive,plants,are,spreading,across,the,forest,.",
     "order_passive_1": "native,species,are,harmed,by,invasive,organisms,.",
     "order_subordinate_1": "because,they,have,no,predators,,,invasive,species,spread,fast,.",
-    "order_progressive_beginner_2": "across the,forest,invasive plants,are spreading,.",
-    "order_passive_beginner_2": "by invasive,organisms,native species,are harmed,.",
-    "order_passive_2": "by,invasive,organisms,native,species,are,harmed,."
+    "order_progressive_beginner_2": "across the,forest,invasive plants,are spreading,."
   },
   {
     "id": "environmental-science-28",
@@ -2547,9 +2516,7 @@
     "order_active_1": "pollinators,help,plants,make,seeds,and,fruit,.",
     "order_progressive_1": "bees,are,carrying,pollen,between,flowers,.",
     "order_passive_1": "pollen,is,carried,between,flowers,by,pollinators,.",
-    "order_subordinate_1": "without,bees,and,butterflies,,,many,plants,cannot,reproduce,.",
-    "order_passive_beginner_2": "by pollinators,pollen,is carried,between flowers,.",
-    "order_passive_2": "by,pollinators,pollen,is,carried,between,flowers,."
+    "order_subordinate_1": "without,bees,and,butterflies,,,many,plants,cannot,reproduce,."
   },
   {
     "id": "environmental-science-29",
@@ -2641,9 +2608,7 @@
     "order_active_1": "hybrid,vehicles,use,less,fuel,and,reduce,pollution,.",
     "order_progressive_1": "hybrid,cars,are,using,both,gas,and,electricity,.",
     "order_passive_1": "less,fuel,is,used,by,hybrid,vehicles,.",
-    "order_subordinate_1": "because,hybrids,use,less,gas,,,they,create,less,pollution,.",
-    "order_passive_beginner_2": "by hybrid,vehicles,less fuel,is used,.",
-    "order_passive_2": "by,hybrid,vehicles,less,fuel,is,used,."
+    "order_subordinate_1": "because,hybrids,use,less,gas,,,they,create,less,pollution,."
   },
   {
     "id": "environmental-science-30",
@@ -2736,8 +2701,7 @@
     "order_active_1": "renewable,energy,comes,from,sources,that,never,run,out,.",
     "order_progressive_1": "solar,panels,are,collecting,energy,from,sunlight,.",
     "order_passive_1": "clean,energy,is,produced,by,wind,and,solar,power,.",
-    "order_subordinate_1": "because,sunlight,is,endless,,,solar,energy,is,renewable,.",
-    "order_passive_beginner_2": "by wind,and solar power,clean energy,is produced,."
+    "order_subordinate_1": "because,sunlight,is,endless,,,solar,energy,is,renewable,."
   },
   {
     "id": "environmental-science-31",
@@ -2827,9 +2791,7 @@
     "order_active_1": "nonpoint,pollution,comes,from,many,scattered,sources,.",
     "order_progressive_1": "rainwater,is,carrying,pollutants,into,streams,.",
     "order_passive_1": "pollutants,are,washed,into,streams,by,rainwater,.",
-    "order_subordinate_1": "because,pollution,comes,from,everywhere,,,it,is,hard,to,stop,.",
-    "order_passive_beginner_2": "by rainwater,pollutants,are washed,into streams,.",
-    "order_passive_2": "by,rainwater,pollutants,are,washed,into,streams,."
+    "order_subordinate_1": "because,pollution,comes,from,everywhere,,,it,is,hard,to,stop,."
   },
   {
     "id": "environmental-science-32",
@@ -3008,9 +2970,7 @@
     "order_progressive_1": "rangers,are,protecting,wildlife,in,the,parks,.",
     "order_passive_1": "natural,areas,are,protected,by,national,parks,.",
     "order_subordinate_1": "because,parks,preserve,nature,,,wildlife,can,thrive,.",
-    "order_progressive_beginner_2": "in the,parks,rangers,are protecting wildlife,.",
-    "order_passive_beginner_2": "by national,parks,natural areas,are protected,.",
-    "order_passive_2": "by,national,parks,natural,areas,are,protected,."
+    "order_progressive_beginner_2": "in the,parks,rangers,are protecting wildlife,."
   },
   {
     "id": "environmental-science-34",
@@ -3192,9 +3152,7 @@
     "order_active_1": "the,epa,protects,human,health,and,the,environment,.",
     "order_progressive_1": "the,epa,is,setting,rules,for,clean,air,.",
     "order_passive_1": "environmental,rules,are,made,by,the,epa,.",
-    "order_subordinate_1": "since,1970,,,the,epa,has,protected,the,environment,.",
-    "order_passive_beginner_2": "by the,epa,environmental rules,are made,.",
-    "order_passive_2": "by,the,epa,environmental,rules,are,made,."
+    "order_subordinate_1": "since,1970,,,the,epa,has,protected,the,environment,."
   },
   {
     "id": "environmental-science-36",
@@ -3370,9 +3328,7 @@
     "order_active_1": "fuel,cells,produce,clean,energy,without,pollution,.",
     "order_progressive_1": "fuel,cells,are,producing,electricity,from,hydrogen,.",
     "order_passive_1": "clean,electricity,is,produced,by,fuel,cells,.",
-    "order_subordinate_1": "because,fuel,cells,only,release,water,,,they,are,clean,.",
-    "order_passive_beginner_2": "by fuel,cells,clean electricity,is produced,.",
-    "order_passive_2": "by,fuel,cells,clean,electricity,is,produced,."
+    "order_subordinate_1": "because,fuel,cells,only,release,water,,,they,are,clean,."
   },
   {
     "id": "environmental-science-38",
@@ -3463,8 +3419,7 @@
     "order_active_1": "leave,no,trace,protects,nature,from,human,damage,.",
     "order_progressive_1": "hikers,are,packing,out,all,their,trash,.",
     "order_passive_1": "nature,is,protected,by,following,leave,no,trace,.",
-    "order_subordinate_1": "when,hiking,,,pack,out,everything,you,bring,in,.",
-    "order_passive_beginner_2": "by following,leave no trace,nature,is protected,."
+    "order_subordinate_1": "when,hiking,,,pack,out,everything,you,bring,in,."
   },
   {
     "id": "environmental-science-39",
@@ -3553,9 +3508,7 @@
     "order_passive_1": "species,are,saved,by,conservation,efforts,.",
     "order_subordinate_1": "after,protection,laws,passed,,,bald,eagles,recovered,.",
     "order_progressive_beginner_2": "quickly,bald eagle populations,are recovering,now,.",
-    "order_progressive_2": "quickly,bald,eagle,populations,are,recovering,now,.",
-    "order_passive_beginner_2": "by conservation,efforts,species,are saved,.",
-    "order_passive_2": "by,conservation,efforts,species,are,saved,."
+    "order_progressive_2": "quickly,bald,eagle,populations,are,recovering,now,."
   },
   {
     "id": "environmental-science-40",
@@ -3645,8 +3598,6 @@
     "order_active_1": "environmental,scientists,study,and,protect,nature,daily,.",
     "order_progressive_1": "scientists,are,testing,water,quality,for,pollution,.",
     "order_passive_1": "nature,is,studied,and,protected,by,scientists,.",
-    "order_subordinate_1": "if,you,love,nature,,,environmental,science,offers,many,careers,.",
-    "order_passive_beginner_2": "by,scientists,nature,is studied and protected,.",
-    "order_passive_2": "by,scientists,nature,is,studied,and,protected,."
+    "order_subordinate_1": "if,you,love,nature,,,environmental,science,offers,many,careers,."
   }
 ]

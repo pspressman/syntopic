@@ -101,8 +101,8 @@
     "order_progressive_1": "scholars,are,grouping,tribes,by,their,shared,customs,and,locations,.",
     "order_passive_1": "tribes,are,grouped,by,scholars,according,to,shared,customs,and,locations,.",
     "order_subordinate_1": "because,tribes,differ,greatly,,,scholars,group,them,by,shared,customs,.",
-    "order_subordinate_beginner_2": "scholars,group them,by shared customs,because,tribes differ greatly,.",
-    "order_subordinate_2": "scholars,group,them,by,shared,customs,because,tribes,differ,greatly,."
+    "order_subordinate_2": "scholars,group,them,by,shared,customs,because,tribes,differ,greatly,.",
+    "order_subordinate_beginner_2": "scholars,group them,by shared customs,because,tribes differ greatly,."
   },
   {
     "id": "indian-lore-2",
@@ -206,9 +206,7 @@
     "order_passive_1": "cedar,and,salmon,were,relied,upon,by,northwest,tribes,.",
     "order_subordinate_1": "since,forests,and,rivers,surrounded,them,,,northwest,tribes,relied,on,cedar,and,salmon,.",
     "order_subordinate_beginner_2": "northwest tribes,relied on,cedar and salmon,since,forests and rivers,surrounded them,.",
-    "order_subordinate_2": "northwest,tribes,relied,on,cedar,and,salmon,since,forests,and,rivers,surrounded,them,.",
-    "order_passive_beginner_2": "by northwest tribes,cedar and salmon,were relied upon,.",
-    "order_passive_2": "by,northwest,tribes,cedar,and,salmon,were,relied,upon,."
+    "order_subordinate_2": "northwest,tribes,relied,on,cedar,and,salmon,since,forests,and,rivers,surrounded,them,."
   },
   {
     "id": "indian-lore-3",
@@ -313,8 +311,7 @@
     "order_passive_1": "totem,poles,were,carved,by,northwest,tribes,to,record,stories,.",
     "order_subordinate_1": "because,they,had,no,written,language,,,northwest,tribes,carved,totem,poles,.",
     "order_subordinate_beginner_2": "northwest tribes,carved totem poles,because,they had no,written language,.",
-    "order_subordinate_2": "northwest,tribes,carved,totem,poles,because,they,had,no,written,language,.",
-    "order_passive_beginner_2": "by northwest tribes,to record stories,totem poles,were carved,."
+    "order_subordinate_2": "northwest,tribes,carved,totem,poles,because,they,had,no,written,language,."
   },
   {
     "id": "indian-lore-4",
@@ -421,8 +418,7 @@
     "order_passive_1": "seeds,nuts,and,small,animals,were,eaten,by,great,basin,tribes,.",
     "order_subordinate_1": "because,the,desert,had,few,large,animals,,,great,basin,tribes,ate,seeds,and,nuts,.",
     "order_subordinate_beginner_2": "great basin tribes,ate seeds and nuts,because,the desert had,few large animals,.",
-    "order_subordinate_2": "great,basin,tribes,ate,seeds,and,nuts,because,the,desert,had,few,large,animals,.",
-    "order_passive_beginner_2": "by great basin tribes,seeds, nuts,,and small animals,were eaten,."
+    "order_subordinate_2": "great,basin,tribes,ate,seeds,and,nuts,because,the,desert,had,few,large,animals,."
   },
   {
     "id": "indian-lore-5",
@@ -522,9 +518,8 @@
     "order_progressive_1": "the,sun,dance,was,symbolizing,harmony,and,rebirth,for,tribes,.",
     "order_passive_1": "harmony,and,rebirth,were,symbolized,by,the,sun,dance,.",
     "order_subordinate_1": "when,tribes,held,the,sun,dance,,,they,celebrated,harmony,and,rebirth,.",
-    "order_subordinate_beginner_2": "they celebrated,harmony and rebirth,when,tribes held,the sun dance,.",
     "order_subordinate_2": "they,celebrated,harmony,and,rebirth,when,tribes,held,the,sun,dance,.",
-    "order_passive_beginner_2": "by the sun dance,harmony and rebirth,were symbolized,."
+    "order_subordinate_beginner_2": "they celebrated,harmony and rebirth,when,tribes held,the sun dance,."
   },
   {
     "id": "indian-lore-6",
@@ -739,8 +734,7 @@
     "order_subordinate_beginner_2": "young people,received,spiritual visions,after,spending five days alone,.",
     "order_subordinate_2": "young,people,received,spiritual,visions,after,spending,five,days,alone,.",
     "order_active_beginner_2": "on mountain tops,young people,sought,spiritual visions,.",
-    "order_progressive_beginner_2": "on mountain tops,young people,were seeking,spiritual visions,.",
-    "order_passive_beginner_2": "by young people,on mountain tops,spiritual visions,were sought,."
+    "order_progressive_beginner_2": "on mountain tops,young people,were seeking,spiritual visions,."
   },
   {
     "id": "indian-lore-8",
@@ -843,8 +837,7 @@
     "order_passive_1": "permanent,homes,were,built,by,southwest,tribes,from,adobe,and,stone,.",
     "order_subordinate_1": "because,the,climate,was,dry,,,southwest,tribes,built,adobe,homes,.",
     "order_subordinate_beginner_2": "southwest tribes,built,adobe homes,because,the climate was dry,.",
-    "order_subordinate_2": "southwest,tribes,built,adobe,homes,because,the,climate,was,dry,.",
-    "order_passive_beginner_2": "by southwest tribes,from adobe and stone,permanent homes,were built,."
+    "order_subordinate_2": "southwest,tribes,built,adobe,homes,because,the,climate,was,dry,."
   },
   {
     "id": "indian-lore-9",
@@ -943,8 +936,7 @@
     "order_passive_1": "farming,was,practiced,by,southwest,tribes,because,hunting,was,unreliable,.",
     "order_subordinate_1": "since,hunting,was,unreliable,in,the,desert,,,southwest,tribes,grew,crops,.",
     "order_subordinate_beginner_2": "southwest tribes,grew crops,since,hunting was unreliable,in the desert,.",
-    "order_subordinate_2": "southwest,tribes,grew,crops,since,hunting,was,unreliable,in,the,desert,.",
-    "order_passive_beginner_2": "by southwest tribes,because hunting was unreliable,farming,was practiced,."
+    "order_subordinate_2": "southwest,tribes,grew,crops,since,hunting,was,unreliable,in,the,desert,."
   },
   {
     "id": "indian-lore-10",
@@ -1052,9 +1044,7 @@
     "order_passive_1": "every,part,of,the,buffalo,was,used,by,plains,indians,.",
     "order_subordinate_1": "after,hunting,buffalo,,,plains,indians,used,every,part,of,the,animal,.",
     "order_subordinate_beginner_2": "plains indians,used,every part,of the animal,after,hunting buffalo,.",
-    "order_subordinate_2": "plains,indians,used,every,part,of,the,animal,after,hunting,buffalo,.",
-    "order_passive_beginner_2": "by plains indians,every part,of the buffalo,was used,.",
-    "order_passive_2": "by,plains,indians,every,part,of,the,buffalo,was,used,."
+    "order_subordinate_2": "plains,indians,used,every,part,of,the,animal,after,hunting,buffalo,."
   },
   {
     "id": "indian-lore-11",
@@ -1161,8 +1151,7 @@
     "order_passive_1": "teepees,were,used,by,plains,indians,because,they,could,be,moved,.",
     "order_subordinate_1": "because,they,followed,buffalo,herds,,,plains,indians,used,movable,teepees,.",
     "order_subordinate_beginner_2": "plains indians,used movable teepees,because,they followed,buffalo herds,.",
-    "order_subordinate_2": "plains,indians,used,movable,teepees,because,they,followed,buffalo,herds,.",
-    "order_passive_beginner_2": "by plains indians,because they could be moved,teepees,were used,."
+    "order_subordinate_2": "plains,indians,used,movable,teepees,because,they,followed,buffalo,herds,."
   },
   {
     "id": "indian-lore-12",
@@ -1265,9 +1254,7 @@
     "order_passive_1": "squash,corn,and,beans,were,planted,together,by,northeast,tribes,.",
     "order_subordinate_1": "when,using,three,sisters,farming,,,tribes,planted,squash,corn,and,beans,together,.",
     "order_subordinate_beginner_2": "tribes,planted,squash, corn, and beans,together,when,using three sisters farming,.",
-    "order_subordinate_2": "tribes,planted,squash,corn,and,beans,together,when,using,three,sisters,farming,.",
-    "order_passive_beginner_2": "by northeast tribes,squash, corn, and beans,were planted,together,.",
-    "order_passive_2": "by,northeast,tribes,squash,corn,and,beans,were,planted,together,."
+    "order_subordinate_2": "tribes,planted,squash,corn,and,beans,together,when,using,three,sisters,farming,."
   },
   {
     "id": "indian-lore-13",
@@ -1362,9 +1349,8 @@
     "order_progressive_1": "the,iroquois,league,was,uniting,several,northeast,tribes,together,.",
     "order_passive_1": "several,northeast,tribes,were,united,by,the,iroquois,league,.",
     "order_subordinate_1": "although,tribes,were,different,,,the,iroquois,league,united,them,.",
-    "order_subordinate_beginner_2": "the iroquois league,united them,although,tribes were different,.",
     "order_subordinate_2": "the,iroquois,league,united,them,although,tribes,were,different,.",
-    "order_passive_beginner_2": "by the iroquois league,several northeast tribes,were united,."
+    "order_subordinate_beginner_2": "the iroquois league,united them,although,tribes were different,."
   },
   {
     "id": "indian-lore-14",
@@ -1460,8 +1446,7 @@
     "order_passive_1": "wampum,beads,were,used,by,northeast,tribes,for,trading,.",
     "order_subordinate_1": "when,trading,with,settlers,,,northeast,tribes,used,wampum,beads,.",
     "order_subordinate_beginner_2": "northeast tribes,used,wampum beads,when,trading with settlers,.",
-    "order_subordinate_2": "northeast,tribes,used,wampum,beads,when,trading,with,settlers,.",
-    "order_passive_beginner_2": "by northeast tribes,for trading,wampum beads,were used,."
+    "order_subordinate_2": "northeast,tribes,used,wampum,beads,when,trading,with,settlers,."
   },
   {
     "id": "indian-lore-15",
@@ -1565,9 +1550,7 @@
     "order_passive_1": "the,area,from,virginia,to,florida,was,inhabited,by,southeast,tribes,.",
     "order_subordinate_1": "before,europeans,arrived,,,southeast,tribes,populated,a,large,region,.",
     "order_subordinate_beginner_2": "southeast tribes,populated,a large region,before,europeans arrived,.",
-    "order_subordinate_2": "southeast,tribes,populated,a,large,region,before,europeans,arrived,.",
-    "order_passive_beginner_2": "by southeast tribes,the area,from virginia to florida,was inhabited,.",
-    "order_passive_2": "by,southeast,tribes,the,area,from,virginia,to,florida,was,inhabited,."
+    "order_subordinate_2": "southeast,tribes,populated,a,large,region,before,europeans,arrived,."
   },
   {
     "id": "indian-lore-16",
@@ -1673,8 +1656,7 @@
     "order_subordinate_beginner_2": "southeast tribes,celebrated,the harvest,when,fall arrived,.",
     "order_subordinate_2": "southeast,tribes,celebrated,the,harvest,when,fall,arrived,.",
     "order_active_beginner_2": "at the green corn festival,southeast tribes,celebrated,the harvest,.",
-    "order_progressive_beginner_2": "at the green corn festival,southeast tribes,were celebrating,the harvest,.",
-    "order_passive_beginner_2": "by southeast tribes,at the green corn festival,the harvest,was celebrated,."
+    "order_progressive_beginner_2": "at the green corn festival,southeast tribes,were celebrating,the harvest,."
   },
   {
     "id": "indian-lore-17",
@@ -1773,9 +1755,7 @@
     "order_passive_1": "small,groups,called,tribelets,were,formed,by,california,tribes,.",
     "order_subordinate_1": "instead,of,forming,large,tribes,,,california,indians,created,small,tribelets,.",
     "order_subordinate_beginner_2": "california indians,created,small tribelets,instead of,forming large tribes,.",
-    "order_subordinate_2": "california,indians,created,small,tribelets,instead,of,forming,large,tribes,.",
-    "order_passive_beginner_2": "by california tribes,small groups,called tribelets,were formed,.",
-    "order_passive_2": "by,california,tribes,small,groups,called,tribelets,were,formed,."
+    "order_subordinate_2": "california,indians,created,small,tribelets,instead,of,forming,large,tribes,."
   },
   {
     "id": "indian-lore-18",
@@ -1883,9 +1863,7 @@
     "order_passive_1": "the,cold,northernmost,parts,of,canada,were,inhabited,by,arctic,tribes,.",
     "order_subordinate_1": "although,the,climate,was,harsh,,,arctic,tribes,survived,in,northern,canada,.",
     "order_subordinate_beginner_2": "arctic tribes,survived in,northern canada,although,the climate was harsh,.",
-    "order_subordinate_2": "arctic,tribes,survived,in,northern,canada,although,the,climate,was,harsh,.",
-    "order_passive_beginner_2": "by arctic tribes,the cold northernmost parts,of canada,were inhabited,.",
-    "order_passive_2": "by,arctic,tribes,the,cold,northernmost,parts,of,canada,were,inhabited,."
+    "order_subordinate_2": "arctic,tribes,survived,in,northern,canada,although,the,climate,was,harsh,."
   },
   {
     "id": "indian-lore-19",
@@ -1982,8 +1960,7 @@
     "order_passive_1": "igloos,were,built,by,arctic,people,from,packed,snow,.",
     "order_subordinate_1": "when,winter,came,,,arctic,people,built,igloos,from,packed,snow,.",
     "order_subordinate_beginner_2": "arctic people,built igloos,from packed snow,when,winter came,.",
-    "order_subordinate_2": "arctic,people,built,igloos,from,packed,snow,when,winter,came,.",
-    "order_passive_beginner_2": "by arctic people,from packed snow,igloos,were built,."
+    "order_subordinate_2": "arctic,people,built,igloos,from,packed,snow,when,winter,came,."
   },
   {
     "id": "indian-lore-20",
@@ -2086,9 +2063,7 @@
     "order_passive_1": "moose,caribou,and,beavers,were,hunted,by,subarctic,tribes,.",
     "order_subordinate_1": "because,fur,was,valuable,,,subarctic,tribes,hunted,moose,and,caribou,.",
     "order_subordinate_beginner_2": "subarctic tribes,hunted,moose and caribou,because,fur was valuable,.",
-    "order_subordinate_2": "subarctic,tribes,hunted,moose,and,caribou,because,fur,was,valuable,.",
-    "order_passive_beginner_2": "by subarctic tribes,moose, caribou,,and beavers,were hunted,.",
-    "order_passive_2": "by,subarctic,tribes,moose,caribou,and,beavers,were,hunted,."
+    "order_subordinate_2": "subarctic,tribes,hunted,moose,and,caribou,because,fur,was,valuable,."
   },
   {
     "id": "indian-lore-21",
@@ -2200,7 +2175,7 @@
     "text_segment": "Unlike the nomadic Plains Indians, the Cherokee Indians lived in permanent villages all year. A typical Cherokee village had between 30 and 60 dwellings that housed around 200 tribal members.",
     "question": "Describe how Cherokee villages were organized.",
     "Active": "Cherokee villages contained 30 to 60 homes for 200 people.",
-    "Progressive": "Cherokee villages were containing 30 to 60 homes for 200 people.",
+    "Progressive": "Cherokee families were building 30 to 60 homes for 200 people.",
     "Passive": "Thirty to sixty homes were contained in Cherokee villages.",
     "Subordinate": "Unlike nomadic tribes, Cherokee people lived in permanent villages.",
     "tiles_active": [
@@ -2211,8 +2186,8 @@
       "."
     ],
     "tiles_progressive": [
-      "cherokee villages",
-      "were containing",
+      "cherokee families",
+      "were building",
       "30 to 60 homes",
       "for 200 people",
       "."
@@ -2247,9 +2222,9 @@
     ],
     "tiles_progressive_advanced": [
       "cherokee",
-      "villages",
+      "families",
       "were",
-      "containing",
+      "building",
       "30",
       "to",
       "60",
@@ -2285,11 +2260,11 @@
       "."
     ],
     "order_active_beginner_1": "cherokee villages,contained,30 to 60 homes,for 200 people,.",
-    "order_progressive_beginner_1": "cherokee villages,were containing,30 to 60 homes,for 200 people,.",
+    "order_progressive_beginner_1": "cherokee families,were building,30 to 60 homes,for 200 people,.",
     "order_passive_beginner_1": "thirty to sixty homes,were contained,in cherokee villages,.",
     "order_subordinate_beginner_1": "unlike,nomadic tribes,,,cherokee people,lived in,permanent villages,.",
     "order_active_1": "cherokee,villages,contained,30,to,60,homes,for,200,people,.",
-    "order_progressive_1": "cherokee,villages,were,containing,30,to,60,homes,for,200,people,.",
+    "order_progressive_1": "cherokee,families,were,building,30,to,60,homes,for,200,people,.",
     "order_passive_1": "thirty,to,sixty,homes,were,contained,in,cherokee,villages,.",
     "order_subordinate_1": "unlike,nomadic,tribes,,,cherokee,people,lived,in,permanent,villages,.",
     "order_subordinate_beginner_2": "cherokee people,lived in,permanent villages,unlike,nomadic tribes,.",
@@ -2390,8 +2365,7 @@
     "order_passive_1": "food,was,obtained,by,cherokee,people,through,farming,and,hunting,.",
     "order_subordinate_1": "to,survive,,,cherokee,people,farmed,hunted,and,foraged,.",
     "order_subordinate_beginner_2": "cherokee people,farmed,,hunted, and foraged,to survive,.",
-    "order_subordinate_2": "cherokee,people,farmed,hunted,and,foraged,to,survive,.",
-    "order_passive_beginner_2": "by cherokee people,through farming and hunting,food,was obtained,."
+    "order_subordinate_2": "cherokee,people,farmed,hunted,and,foraged,to,survive,."
   },
   {
     "id": "indian-lore-24",
@@ -2494,8 +2468,7 @@
     "order_subordinate_beginner_2": "cherokee people,connected with,spirits,through,dance and chanting,.",
     "order_subordinate_2": "cherokee,people,connected,with,spirits,through,dance,and,chanting,.",
     "order_active_beginner_2": "through rituals,cherokee people,believed,spirits could help them,.",
-    "order_progressive_beginner_2": "through rituals,cherokee people,were believing,spirits could help them,.",
-    "order_passive_beginner_2": "by cherokee people,to help through rituals,spirits,were believed,."
+    "order_progressive_beginner_2": "through rituals,cherokee people,were believing,spirits could help them,."
   },
   {
     "id": "indian-lore-25",
@@ -2503,7 +2476,7 @@
     "text_segment": "Cherokee families were organized into matrilineal clans. Women were considered the heads of households. Children belonged to their mother's clan and took on her animal symbol, which was like a last name.",
     "question": "Explain how Cherokee family clans worked.",
     "Active": "Cherokee children belonged to their mother's clan.",
-    "Progressive": "Cherokee children were belonging to their mother's clan.",
+    "Progressive": "Cherokee children were joining their mother's clan.",
     "Passive": "Membership in clans was determined by Cherokee mothers.",
     "Subordinate": "Because clans were matrilineal, children belonged to their mother's clan.",
     "tiles_active": [
@@ -2515,7 +2488,7 @@
     ],
     "tiles_progressive": [
       "cherokee children",
-      "were belonging to",
+      "were joining",
       "their mother's",
       "clan",
       "."
@@ -2548,8 +2521,7 @@
       "cherokee",
       "children",
       "were",
-      "belonging",
-      "to",
+      "joining",
       "their",
       "mother's",
       "clan",
@@ -2581,17 +2553,15 @@
       "."
     ],
     "order_active_beginner_1": "cherokee children,belonged to,their mother's,clan,.",
-    "order_progressive_beginner_1": "cherokee children,were belonging to,their mother's,clan,.",
+    "order_progressive_beginner_1": "cherokee children,were joining,their mother's,clan,.",
     "order_passive_beginner_1": "membership in clans,was determined,by cherokee mothers,.",
     "order_subordinate_beginner_1": "because,clans were matrilineal,,,children belonged to,their mother's clan,.",
     "order_active_1": "cherokee,children,belonged,to,their,mother's,clan,.",
-    "order_progressive_1": "cherokee,children,were,belonging,to,their,mother's,clan,.",
+    "order_progressive_1": "cherokee,children,were,joining,their,mother's,clan,.",
     "order_passive_1": "membership,in,clans,was,determined,by,cherokee,mothers,.",
     "order_subordinate_1": "because,clans,were,matrilineal,,,children,belonged,to,their,mother's,clan,.",
     "order_subordinate_beginner_2": "children belonged to,their mother's clan,because,clans were matrilineal,.",
-    "order_subordinate_2": "children,belonged,to,their,mother's,clan,because,clans,were,matrilineal,.",
-    "order_passive_beginner_2": "by cherokee mothers,membership in clans,was determined,.",
-    "order_passive_2": "by,cherokee,mothers,membership,in,clans,was,determined,."
+    "order_subordinate_2": "children,belonged,to,their,mother's,clan,because,clans,were,matrilineal,."
   },
   {
     "id": "indian-lore-26",
@@ -2691,8 +2661,7 @@
     "order_subordinate_beginner_2": "one word,equals,a sentence,because,the language is polysynthetic,.",
     "order_subordinate_2": "one,word,equals,a,sentence,because,the,language,is,polysynthetic,.",
     "order_active_beginner_2": "in english,cherokee words,can express,entire sentences,.",
-    "order_progressive_beginner_2": "in english,cherokee words,are expressing,entire sentences,.",
-    "order_passive_beginner_2": "by single,cherokee words,entire sentences,can be expressed,."
+    "order_progressive_beginner_2": "in english,cherokee words,are expressing,entire sentences,."
   },
   {
     "id": "indian-lore-27",
@@ -2791,9 +2760,7 @@
     "order_passive_1": "deerskin,clothing,with,bright,patterns,was,worn,by,cherokee,people,.",
     "order_subordinate_1": "when,dressing,,,cherokee,people,chose,deerskin,with,bright,patterns,.",
     "order_subordinate_beginner_2": "cherokee people,chose deerskin,with bright patterns,when,dressing,.",
-    "order_subordinate_2": "cherokee,people,chose,deerskin,with,bright,patterns,when,dressing,.",
-    "order_passive_beginner_2": "by cherokee people,deerskin clothing,with bright patterns,was worn,.",
-    "order_passive_2": "by,cherokee,people,deerskin,clothing,with,bright,patterns,was,worn,."
+    "order_subordinate_2": "cherokee,people,chose,deerskin,with,bright,patterns,when,dressing,."
   },
   {
     "id": "indian-lore-28",
@@ -2889,9 +2856,7 @@
     "order_passive_1": "baskets,masks,and,pottery,were,created,by,cherokee,artisans,.",
     "order_subordinate_1": "when,making,crafts,,,cherokee,artisans,told,stories,through,patterns,.",
     "order_subordinate_beginner_2": "cherokee artisans,told stories,through patterns,when,making crafts,.",
-    "order_subordinate_2": "cherokee,artisans,told,stories,through,patterns,when,making,crafts,.",
-    "order_passive_beginner_2": "by cherokee artisans,baskets, masks,,and pottery,were created,.",
-    "order_passive_2": "by,cherokee,artisans,baskets,masks,and,pottery,were,created,."
+    "order_subordinate_2": "cherokee,artisans,told,stories,through,patterns,when,making,crafts,."
   },
   {
     "id": "indian-lore-29",
@@ -2989,8 +2954,7 @@
     "order_subordinate_beginner_2": "cherokee people,cooked stews,over fires,when,preparing meals,.",
     "order_subordinate_2": "cherokee,people,cooked,stews,over,fires,when,preparing,meals,.",
     "order_active_beginner_2": "over open fires,cherokee people,cooked,stews,.",
-    "order_progressive_beginner_2": "over open fires,cherokee people,were cooking,stews,.",
-    "order_passive_beginner_2": "by cherokee people,over open fires,stews,were cooked,."
+    "order_progressive_beginner_2": "over open fires,cherokee people,were cooking,stews,."
   },
   {
     "id": "indian-lore-30",
@@ -3298,8 +3262,7 @@
     "order_passive_1": "conflicts,were,settled,peacefully,by,cherokee,tribes,through,stickball,.",
     "order_subordinate_1": "instead,of,going,to,war,,,cherokee,tribes,played,stickball,.",
     "order_subordinate_beginner_2": "cherokee tribes,played stickball,instead of,going to war,.",
-    "order_subordinate_2": "cherokee,tribes,played,stickball,instead,of,going,to,war,.",
-    "order_passive_beginner_2": "by cherokee tribes,through stickball,conflicts,were settled peacefully,."
+    "order_subordinate_2": "cherokee,tribes,played,stickball,instead,of,going,to,war,."
   },
   {
     "id": "indian-lore-33",
@@ -3401,8 +3364,7 @@
     "order_passive_1": "stones,are,rolled,toward,holes,by,players,who,block,opponents,.",
     "order_subordinate_1": "while,aiming,for,holes,,,players,can,block,their,opponents,.",
     "order_subordinate_beginner_2": "players,can block,their opponents,while,aiming for holes,.",
-    "order_subordinate_2": "players,can,block,their,opponents,while,aiming,for,holes,.",
-    "order_passive_beginner_2": "by players,who block opponents,stones,are rolled,toward holes,."
+    "order_subordinate_2": "players,can,block,their,opponents,while,aiming,for,holes,."
   },
   {
     "id": "indian-lore-34",
@@ -3499,9 +3461,7 @@
     "order_passive_1": "clubs,tomahawks,and,bows,were,used,by,cherokee,warriors,.",
     "order_subordinate_1": "when,going,to,battle,,,cherokee,warriors,used,clubs,and,tomahawks,.",
     "order_subordinate_beginner_2": "cherokee warriors,used clubs,and tomahawks,when,going to battle,.",
-    "order_subordinate_2": "cherokee,warriors,used,clubs,and,tomahawks,when,going,to,battle,.",
-    "order_passive_beginner_2": "by cherokee warriors,clubs, tomahawks,,and bows,were used,.",
-    "order_passive_2": "by,cherokee,warriors,clubs,tomahawks,and,bows,were,used,."
+    "order_subordinate_2": "cherokee,warriors,used,clubs,and,tomahawks,when,going,to,battle,."
   },
   {
     "id": "indian-lore-35",
@@ -3602,8 +3562,7 @@
     "order_passive_1": "cherokee,people,were,forced,by,the,government,to,move,west,.",
     "order_subordinate_1": "after,losing,their,wars,,,cherokee,people,were,forced,to,move,west,.",
     "order_subordinate_beginner_2": "cherokee people,were forced,to move west,after,losing their wars,.",
-    "order_subordinate_2": "cherokee,people,were,forced,to,move,west,after,losing,their,wars,.",
-    "order_passive_beginner_2": "by the government,to move west,cherokee people,were forced,."
+    "order_subordinate_2": "cherokee,people,were,forced,to,move,west,after,losing,their,wars,."
   },
   {
     "id": "indian-lore-36",
@@ -3702,9 +3661,8 @@
     "order_progressive_1": "american,indians,were,breeding,corn,for,thousands,of,years,.",
     "order_passive_1": "corn,was,bred,by,american,indians,for,thousands,of,years,.",
     "order_subordinate_1": "because,indians,bred,corn,carefully,,,it,became,a,major,food,source,.",
-    "order_subordinate_beginner_2": "it became,a major food source,because,indians bred corn carefully,.",
     "order_subordinate_2": "it,became,a,major,food,source,because,indians,bred,corn,carefully,.",
-    "order_passive_beginner_2": "by american indians,for thousands of years,corn,was bred,."
+    "order_subordinate_beginner_2": "it became,a major food source,because,indians bred corn carefully,."
   },
   {
     "id": "indian-lore-37",
@@ -3805,8 +3763,7 @@
     "order_passive_1": "snow,goggles,were,invented,by,arctic,tribes,and,inspired,sunglasses,.",
     "order_subordinate_1": "after,arctic,tribes,made,snow,goggles,,,europeans,created,sunglasses,.",
     "order_subordinate_beginner_2": "europeans,created sunglasses,after,arctic tribes,made snow goggles,.",
-    "order_subordinate_2": "europeans,created,sunglasses,after,arctic,tribes,made,snow,goggles,.",
-    "order_passive_beginner_2": "by arctic tribes,and inspired sunglasses,snow goggles,were invented,."
+    "order_subordinate_2": "europeans,created,sunglasses,after,arctic,tribes,made,snow,goggles,."
   },
   {
     "id": "indian-lore-38",
@@ -3905,8 +3862,7 @@
     "order_passive_1": "bridges,were,built,by,american,indians,using,woven,plant,ropes,.",
     "order_subordinate_1": "by,weaving,plant,materials,,,american,indians,created,suspension,bridges,.",
     "order_subordinate_beginner_2": "american indians,created,suspension bridges,by,weaving plant materials,.",
-    "order_subordinate_2": "american,indians,created,suspension,bridges,by,weaving,plant,materials,.",
-    "order_passive_beginner_2": "by american indians,using woven plant ropes,bridges,were built,."
+    "order_subordinate_2": "american,indians,created,suspension,bridges,by,weaving,plant,materials,."
   },
   {
     "id": "indian-lore-39",
@@ -3996,8 +3952,7 @@
     "order_passive_1": "democratic,revolutions,were,inspired,by,the,iroquois,system,.",
     "order_subordinate_1": "after,europeans,saw,iroquois,democracy,,,revolutions,followed,.",
     "order_subordinate_beginner_2": "revolutions,followed,after,europeans saw,iroquois democracy,.",
-    "order_subordinate_2": "revolutions,followed,after,europeans,saw,iroquois,democracy,.",
-    "order_passive_beginner_2": "by the iroquois system,democratic revolutions,were inspired,."
+    "order_subordinate_2": "revolutions,followed,after,europeans,saw,iroquois,democracy,."
   },
   {
     "id": "indian-lore-40",
@@ -4090,9 +4045,8 @@
     "order_progressive_1": "european,sailors,were,adopting,hammocks,from,american,indians,.",
     "order_passive_1": "hammocks,were,adopted,by,european,sailors,from,american,indians,.",
     "order_subordinate_1": "after,seeing,indian,hammocks,,,european,sailors,began,using,them,.",
-    "order_subordinate_beginner_2": "european sailors,began using them,after,seeing indian hammocks,.",
     "order_subordinate_2": "european,sailors,began,using,them,after,seeing,indian,hammocks,.",
-    "order_passive_beginner_2": "by european sailors,from american indians,hammocks,were adopted,."
+    "order_subordinate_beginner_2": "european sailors,began using them,after,seeing indian hammocks,."
   },
   {
     "id": "indian-lore-41",
@@ -4192,8 +4146,7 @@
     "order_passive_1": "needles,were,used,by,american,indians,to,inject,medicines,.",
     "order_subordinate_1": "before,europeans,learned,,,american,indians,injected,medicines,with,needles,.",
     "order_subordinate_beginner_2": "american indians,injected medicines,with needles,before,europeans learned,.",
-    "order_subordinate_2": "american,indians,injected,medicines,with,needles,before,europeans,learned,.",
-    "order_passive_beginner_2": "by american indians,to inject medicines,needles,were used,."
+    "order_subordinate_2": "american,indians,injected,medicines,with,needles,before,europeans,learned,."
   },
   {
     "id": "indian-lore-42",
@@ -4288,9 +4241,7 @@
     "order_passive_1": "knowledge,of,healing,plants,was,taught,by,american,indians,.",
     "order_subordinate_1": "because,indians,knew,herbal,medicine,,,colonists,learned,to,heal,.",
     "order_subordinate_beginner_2": "colonists,learned to heal,because,indians knew herbal medicine,.",
-    "order_subordinate_2": "colonists,learned,to,heal,because,indians,knew,herbal,medicine,.",
-    "order_passive_beginner_2": "by american indians,knowledge of,healing plants,was taught,.",
-    "order_passive_2": "by,american,indians,knowledge,of,healing,plants,was,taught,."
+    "order_subordinate_2": "colonists,learned,to,heal,because,indians,knew,herbal,medicine,."
   },
   {
     "id": "indian-lore-43",
@@ -4384,9 +4335,7 @@
     "order_passive_1": "llamas,turkeys,and,bees,were,domesticated,by,american,indians,.",
     "order_subordinate_1": "besides,farming,crops,,,american,indians,domesticated,animals,.",
     "order_subordinate_beginner_2": "american indians,domesticated,animals,besides,farming crops,.",
-    "order_subordinate_2": "american,indians,domesticated,animals,besides,farming,crops,.",
-    "order_passive_beginner_2": "by american indians,llamas, turkeys,,and bees,were domesticated,.",
-    "order_passive_2": "by,american,indians,llamas,turkeys,and,bees,were,domesticated,."
+    "order_subordinate_2": "american,indians,domesticated,animals,besides,farming,crops,."
   },
   {
     "id": "indian-lore-44",
@@ -4577,9 +4526,7 @@
     "order_passive_1": "how,tribes,lived,was,shaped,by,their,climate,.",
     "order_subordinate_1": "because,climates,differed,,,tribes,developed,different,lifestyles,.",
     "order_subordinate_beginner_2": "tribes,developed,different lifestyles,because,climates differed,.",
-    "order_subordinate_2": "tribes,developed,different,lifestyles,because,climates,differed,.",
-    "order_passive_beginner_2": "by their climate,how tribes lived,was shaped,.",
-    "order_passive_2": "by,their,climate,how,tribes,lived,was,shaped,."
+    "order_subordinate_2": "tribes,developed,different,lifestyles,because,climates,differed,."
   },
   {
     "id": "indian-lore-46",
@@ -4677,8 +4624,7 @@
     "order_passive_1": "animals,were,honored,by,subarctic,indians,through,total,use,.",
     "order_subordinate_1": "to,show,respect,,,subarctic,indians,used,every,animal,part,.",
     "order_subordinate_beginner_2": "subarctic indians,used,every animal part,to,show respect,.",
-    "order_subordinate_2": "subarctic,indians,used,every,animal,part,to,show,respect,.",
-    "order_passive_beginner_2": "by subarctic indians,through total use,animals,were honored,."
+    "order_subordinate_2": "subarctic,indians,used,every,animal,part,to,show,respect,."
   },
   {
     "id": "indian-lore-47",
@@ -4777,9 +4723,7 @@
     "order_passive_1": "men,and,women,were,considered,equals,by,plateau,tribes,.",
     "order_subordinate_1": "although,duties,differed,,,plateau,tribes,treated,men,and,women,equally,.",
     "order_subordinate_beginner_2": "plateau tribes,treated men and women,equally,although,duties differed,.",
-    "order_subordinate_2": "plateau,tribes,treated,men,and,women,equally,although,duties,differed,.",
-    "order_passive_beginner_2": "by plateau tribes,men and women,were considered,equals,.",
-    "order_passive_2": "by,plateau,tribes,men,and,women,were,considered,equals,."
+    "order_subordinate_2": "plateau,tribes,treated,men,and,women,equally,although,duties,differed,."
   },
   {
     "id": "indian-lore-48",
@@ -4876,8 +4820,6 @@
     "order_passive_1": "textiles,dolls,and,jewelry,were,created,by,southwest,indians,.",
     "order_subordinate_1": "through,skilled,craftsmanship,,,southwest,indians,made,beautiful,art,.",
     "order_subordinate_beginner_2": "southwest indians,made,beautiful art,through,skilled craftsmanship,.",
-    "order_subordinate_2": "southwest,indians,made,beautiful,art,through,skilled,craftsmanship,.",
-    "order_passive_beginner_2": "by southwest indians,textiles, dolls,,and jewelry,were created,.",
-    "order_passive_2": "by,southwest,indians,textiles,dolls,and,jewelry,were,created,."
+    "order_subordinate_2": "southwest,indians,made,beautiful,art,through,skilled,craftsmanship,."
   }
 ]

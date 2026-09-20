@@ -88,12 +88,7 @@
     "order_active_1": "eight,planets,orbit,the,sun,in,our,solar,system,.",
     "order_progressive_1": "planets,are,orbiting,the,sun,continuously,.",
     "order_passive_1": "the,sun,is,orbited,by,eight,planets,.",
-    "order_subordinate_1": "while,inner,planets,are,rocky,,,outer,planets,are,gaseous,.",
-    "order_active_beginner_2": "in our,solar system,eight planets,orbit the sun,.",
-    "order_progressive_beginner_2": "continuously,planets,are orbiting,the sun,.",
-    "order_progressive_2": "continuously,planets,are,orbiting,the,sun,.",
-    "order_passive_beginner_2": "by eight,planets,the sun,is orbited,.",
-    "order_passive_2": "by,eight,planets,the,sun,is,orbited,."
+    "order_subordinate_1": "while,inner,planets,are,rocky,,,outer,planets,are,gaseous,."
   },
   {
     "id": "astronomy-2",
@@ -188,10 +183,7 @@
     "order_active_1": "the,sun,provides,light,and,heat,to,earth,.",
     "order_progressive_1": "the,sun,is,giving,us,energy,every,day,.",
     "order_passive_1": "light,and,heat,are,provided,by,the,sun,.",
-    "order_subordinate_1": "because,the,sun,is,a,star,,,it,produces,its,own,light,.",
-    "order_progressive_beginner_2": "every day,the sun,is giving us,energy,.",
-    "order_passive_beginner_2": "by the,sun,light and heat,are provided,.",
-    "order_passive_2": "by,the,sun,light,and,heat,are,provided,."
+    "order_subordinate_1": "because,the,sun,is,a,star,,,it,produces,its,own,light,."
   },
   {
     "id": "astronomy-3",
@@ -284,9 +276,7 @@
     "order_active_1": "hydrogen,and,helium,make,up,most,of,the,sun,.",
     "order_progressive_1": "nuclear,reactions,are,releasing,energy,in,the,sun,.",
     "order_passive_1": "energy,is,released,by,nuclear,reactions,in,the,sun,.",
-    "order_subordinate_1": "when,hydrogen,becomes,helium,,,energy,is,released,.",
-    "order_progressive_beginner_2": "in the,sun,nuclear reactions,are releasing energy,.",
-    "order_passive_beginner_2": "by nuclear reactions,in the sun,energy,is released,."
+    "order_subordinate_1": "when,hydrogen,becomes,helium,,,energy,is,released,."
   },
   {
     "id": "astronomy-4",
@@ -377,11 +367,7 @@
     "order_active_1": "sunspots,appear,as,dark,cool,spots,on,the,sun,.",
     "order_progressive_1": "sunspots,are,affecting,radio,signals,on,earth,.",
     "order_passive_1": "radio,signals,are,affected,by,sunspot,activity,.",
-    "order_subordinate_1": "because,sunspots,have,strong,magnetism,,,they,appear,darker,.",
-    "order_active_beginner_2": "on the sun,sunspots,appear as dark,cool spots,.",
-    "order_progressive_beginner_2": "on earth,sunspots,are affecting,radio signals,.",
-    "order_passive_beginner_2": "by sunspot,activity,radio signals,are affected,.",
-    "order_passive_2": "by,sunspot,activity,radio,signals,are,affected,."
+    "order_subordinate_1": "because,sunspots,have,strong,magnetism,,,they,appear,darker,."
   },
   {
     "id": "astronomy-5",
@@ -476,8 +462,7 @@
     "order_active_1": "mercury,venus,earth,mars,orbit,closest,to,the,sun,.",
     "order_progressive_1": "the,inner,planets,are,orbiting,near,the,sun,.",
     "order_passive_1": "solid,surfaces,are,found,on,the,inner,planets,.",
-    "order_subordinate_1": "because,they,have,rocky,surfaces,,,they,are,called,terrestrial,planets,.",
-    "order_progressive_beginner_2": "near the,sun,the inner planets,are orbiting,."
+    "order_subordinate_1": "because,they,have,rocky,surfaces,,,they,are,called,terrestrial,planets,."
   },
   {
     "id": "astronomy-6",
@@ -664,8 +649,7 @@
     "order_active_1": "five,planets,shine,brightly,enough,to,see,unaided,.",
     "order_progressive_1": "venus,is,shining,as,the,brightest,planet,tonight,.",
     "order_passive_1": "five,planets,can,be,seen,without,telescopes,.",
-    "order_subordinate_1": "because,mars,has,iron,in,its,soil,,,it,looks,red,.",
-    "order_progressive_2": "tonight,venus,is,shining,as,the,brightest,planet,."
+    "order_subordinate_1": "because,mars,has,iron,in,its,soil,,,it,looks,red,."
   },
   {
     "id": "astronomy-8",
@@ -759,8 +743,7 @@
     "order_active_1": "mercury,and,venus,show,phases,like,the,moon,.",
     "order_progressive_1": "venus,is,showing,a,crescent,phase,this,month,.",
     "order_passive_1": "phases,are,shown,by,planets,closer,to,the,sun,.",
-    "order_subordinate_1": "because,they,orbit,inside,earth's,orbit,,,they,show,phases,.",
-    "order_passive_beginner_2": "by planets closer,to the sun,phases,are shown,."
+    "order_subordinate_1": "because,they,orbit,inside,earth's,orbit,,,they,show,phases,."
   },
   {
     "id": "astronomy-9",
@@ -853,8 +836,7 @@
     "order_active_1": "planets,travel,along,a,path,called,the,ecliptic,.",
     "order_progressive_1": "mars,is,moving,through,the,constellation,leo,.",
     "order_passive_1": "the,ecliptic,is,followed,by,all,the,planets,.",
-    "order_subordinate_1": "when,planets,appear,to,move,backward,,,it,is,called,retrograde,.",
-    "order_passive_beginner_2": "by all,the planets,the ecliptic,is followed,."
+    "order_subordinate_1": "when,planets,appear,to,move,backward,,,it,is,called,retrograde,."
   },
   {
     "id": "astronomy-10",
@@ -946,10 +928,7 @@
     "order_active_1": "the,moon,orbits,earth,once,every,27,days,.",
     "order_progressive_1": "the,moon,is,orbiting,earth,right,now,.",
     "order_passive_1": "earth,is,orbited,by,one,natural,satellite,.",
-    "order_subordinate_1": "because,the,moon,has,no,atmosphere,,,there,is,no,weather,.",
-    "order_progressive_beginner_2": "right now,the moon,is orbiting,earth,.",
-    "order_progressive_2": "now,the,moon,is,orbiting,earth,right,.",
-    "order_passive_beginner_2": "by one natural,satellite,earth,is orbited,."
+    "order_subordinate_1": "because,the,moon,has,no,atmosphere,,,there,is,no,weather,."
   },
   {
     "id": "astronomy-11",
@@ -1223,8 +1202,7 @@
     "order_active_1": "earth's,gravity,keeps,the,moon,in,orbit,.",
     "order_progressive_1": "the,moon,is,pulling,on,earth's,oceans,.",
     "order_passive_1": "ocean,tides,are,caused,by,the,moon's,gravity,.",
-    "order_subordinate_1": "because,gravity,pulls,on,the,moon,,,it,stays,in,orbit,.",
-    "order_passive_beginner_2": "by the,moon's gravity,ocean tides,are caused,."
+    "order_subordinate_1": "because,gravity,pulls,on,the,moon,,,it,stays,in,orbit,."
   },
   {
     "id": "astronomy-14",
@@ -1239,8 +1217,7 @@
       "earth's shadow",
       "causes lunar",
       "eclipses",
-      ".",
-      ""
+      "."
     ],
     "tiles_progressive": [
       "earth's shadow",
@@ -1306,18 +1283,14 @@
       "occurs",
       "."
     ],
-    "order_active_beginner_1": "earth's shadow,causes lunar,eclipses,.,",
+    "order_active_beginner_1": "earth's shadow,causes lunar,eclipses,.",
     "order_progressive_beginner_1": "earth's shadow,is covering,the moon,tonight,.",
     "order_passive_beginner_1": "the moon,is darkened,by earth's,shadow,.",
     "order_subordinate_beginner_1": "when,earth blocks the sun's light,,,a lunar eclipse,occurs,.",
     "order_active_1": "earth's,shadow,causes,lunar,eclipses,.",
     "order_progressive_1": "earth's,shadow,is,covering,the,moon,tonight,.",
     "order_passive_1": "the,moon,is,darkened,by,earth's,shadow,.",
-    "order_subordinate_1": "when,earth,blocks,the,sun's,light,,,a,lunar,eclipse,occurs,.",
-    "order_progressive_beginner_2": "tonight,earth's shadow,is covering,the moon,.",
-    "order_progressive_2": "tonight,earth's,shadow,is,covering,the,moon,.",
-    "order_passive_beginner_2": "by earth's,shadow,the moon,is darkened,.",
-    "order_passive_2": "by,earth's,shadow,the,moon,is,darkened,."
+    "order_subordinate_1": "when,earth,blocks,the,sun's,light,,,a,lunar,eclipse,occurs,."
   },
   {
     "id": "astronomy-15",
@@ -1412,10 +1385,7 @@
     "order_active_1": "the,moon,blocks,the,sun,during,a,solar,eclipse,.",
     "order_progressive_1": "the,moon,is,blocking,sunlight,during,the,eclipse,.",
     "order_passive_1": "sunlight,is,blocked,by,the,moon,during,an,eclipse,.",
-    "order_subordinate_1": "because,the,moon,blocks,the,sun,,,day,becomes,dark,.",
-    "order_active_beginner_2": "during a,solar eclipse,the moon,blocks the sun,.",
-    "order_progressive_beginner_2": "during the,eclipse,the moon,is blocking sunlight,.",
-    "order_passive_beginner_2": "by the moon,during an eclipse,sunlight,is blocked,."
+    "order_subordinate_1": "because,the,moon,blocks,the,sun,,,day,becomes,dark,."
   },
   {
     "id": "astronomy-16",
@@ -1506,9 +1476,7 @@
     "order_active_1": "stars,produce,their,own,light,from,hot,gas,.",
     "order_progressive_1": "stars,are,shining,across,the,night,sky,.",
     "order_passive_1": "light,is,produced,by,stars,through,nuclear,fusion,.",
-    "order_subordinate_1": "because,stars,are,extremely,hot,,,they,glow,brightly,.",
-    "order_progressive_beginner_2": "across the,night sky,stars,are shining,.",
-    "order_passive_beginner_2": "by stars,through nuclear fusion,light,is produced,."
+    "order_subordinate_1": "because,stars,are,extremely,hot,,,they,glow,brightly,."
   },
   {
     "id": "astronomy-17",
@@ -1598,8 +1566,7 @@
     "order_active_1": "star,colors,indicate,their,surface,temperature,.",
     "order_progressive_1": "blue,stars,are,burning,much,hotter,than,red,stars,.",
     "order_passive_1": "temperature,is,indicated,by,a,star's,color,.",
-    "order_subordinate_1": "because,blue,stars,are,hottest,,,they,shine,blue-white,.",
-    "order_passive_beginner_2": "by a star's,color,temperature,is indicated,."
+    "order_subordinate_1": "because,blue,stars,are,hottest,,,they,shine,blue-white,."
   },
   {
     "id": "astronomy-18",
@@ -1688,11 +1655,7 @@
     "order_active_1": "astronomers,measure,star,brightness,using,magnitude,.",
     "order_progressive_1": "sirius,is,shining,as,the,brightest,star,tonight,.",
     "order_passive_1": "star,brightness,is,measured,by,magnitude,numbers,.",
-    "order_subordinate_1": "when,magnitude,numbers,are,lower,,,stars,are,brighter,.",
-    "order_progressive_beginner_2": "tonight,sirius,is shining as,the brightest star,.",
-    "order_progressive_2": "tonight,sirius,is,shining,as,the,brightest,star,.",
-    "order_passive_beginner_2": "by magnitude,numbers,star brightness,is measured,.",
-    "order_passive_2": "by,magnitude,numbers,star,brightness,is,measured,."
+    "order_subordinate_1": "when,magnitude,numbers,are,lower,,,stars,are,brighter,."
   },
   {
     "id": "astronomy-19",
@@ -1721,8 +1684,7 @@
       "star patterns",
       "are called",
       "constellations",
-      ".",
-      ""
+      "."
     ],
     "tiles_subordinate": [
       "when",
@@ -1777,13 +1739,12 @@
     ],
     "order_active_beginner_1": "constellations,form patterns of stars,in the,sky,.",
     "order_progressive_beginner_1": "people,are identifying,constellations in,the night sky,.",
-    "order_passive_beginner_1": "star patterns,are called,constellations,.,",
+    "order_passive_beginner_1": "star patterns,are called,constellations,.",
     "order_subordinate_beginner_1": "when,stars form recognizable shapes,,,we call them,constellations,.",
     "order_active_1": "constellations,form,patterns,of,stars,in,the,sky,.",
     "order_progressive_1": "people,are,identifying,constellations,in,the,night,sky,.",
     "order_passive_1": "star,patterns,are,called,constellations,.",
-    "order_subordinate_1": "when,stars,form,recognizable,shapes,,,we,call,them,constellations,.",
-    "order_active_beginner_2": "in the,sky,constellations,form patterns of stars,."
+    "order_subordinate_1": "when,stars,form,recognizable,shapes,,,we,call,them,constellations,."
   },
   {
     "id": "astronomy-20",
@@ -1967,10 +1928,7 @@
     "order_active_1": "zodiac,constellations,lie,along,the,ecliptic,path,.",
     "order_progressive_1": "the,sun,is,moving,through,zodiac,constellations,.",
     "order_passive_1": "the,ecliptic,is,marked,by,zodiac,constellations,.",
-    "order_subordinate_1": "because,planets,follow,the,ecliptic,,,they,pass,through,zodiac,signs,.",
-    "order_progressive_beginner_2": "through zodiac,constellations,the sun,is moving,.",
-    "order_passive_beginner_2": "by zodiac,constellations,the ecliptic,is marked,.",
-    "order_passive_2": "by,zodiac,constellations,the,ecliptic,is,marked,."
+    "order_subordinate_1": "because,planets,follow,the,ecliptic,,,they,pass,through,zodiac,signs,."
   },
   {
     "id": "astronomy-22",
@@ -2058,12 +2016,7 @@
     "order_active_1": "polaris,stays,fixed,above,the,north,pole,.",
     "order_progressive_1": "stars,are,rotating,around,polaris,all,night,.",
     "order_passive_1": "navigation,was,aided,by,using,polaris,.",
-    "order_subordinate_1": "because,polaris,marks,north,,,it,helps,with,navigation,.",
-    "order_active_beginner_2": "above the,north pole,polaris,stays fixed,.",
-    "order_progressive_beginner_2": "all night,stars,are rotating,around polaris,.",
-    "order_progressive_beginner_3": "around polaris,all night,stars,are rotating,.",
-    "order_passive_beginner_2": "by using,polaris,navigation,was aided,.",
-    "order_passive_2": "by,using,polaris,navigation,was,aided,."
+    "order_subordinate_1": "because,polaris,marks,north,,,it,helps,with,navigation,."
   },
   {
     "id": "astronomy-23",
@@ -2248,9 +2201,7 @@
     "order_active_1": "telescopes,collect,light,and,magnify,distant,objects,.",
     "order_progressive_1": "astronomers,are,using,telescopes,to,study,stars,.",
     "order_passive_1": "light,is,collected,and,magnified,by,telescopes,.",
-    "order_subordinate_1": "because,telescopes,gather,more,light,,,we,see,fainter,objects,.",
-    "order_passive_beginner_2": "by,telescopes,light,is collected and magnified,.",
-    "order_passive_2": "by,telescopes,light,is,collected,and,magnified,."
+    "order_subordinate_1": "because,telescopes,gather,more,light,,,we,see,fainter,objects,."
   },
   {
     "id": "astronomy-25",
@@ -2341,9 +2292,7 @@
     "order_active_1": "binoculars,reveal,moon,craters,and,jupiter's,moons,.",
     "order_progressive_1": "astronomers,are,viewing,the,moon,through,binoculars,.",
     "order_passive_1": "moon,craters,are,revealed,by,using,binoculars,.",
-    "order_subordinate_1": "because,binoculars,show,a,wide,view,,,they,help,find,objects,.",
-    "order_passive_beginner_2": "by using,binoculars,moon craters,are revealed,.",
-    "order_passive_2": "by,using,binoculars,moon,craters,are,revealed,."
+    "order_subordinate_1": "because,binoculars,show,a,wide,view,,,they,help,find,objects,."
   },
   {
     "id": "astronomy-26",
@@ -2437,9 +2386,7 @@
     "order_active_1": "radio,telescopes,detect,radio,waves,from,space,.",
     "order_progressive_1": "radio,telescopes,are,receiving,signals,from,distant,galaxies,.",
     "order_passive_1": "radio,waves,from,space,are,detected,by,special,telescopes,.",
-    "order_subordinate_1": "because,radio,waves,pass,through,dust,,,they,reveal,hidden,objects,.",
-    "order_passive_beginner_2": "by special telescopes,radio waves,from space,are detected,.",
-    "order_passive_2": "by,special,telescopes,radio,waves,from,space,are,detected,."
+    "order_subordinate_1": "because,radio,waves,pass,through,dust,,,they,reveal,hidden,objects,."
   },
   {
     "id": "astronomy-27",
@@ -2530,9 +2477,7 @@
     "order_active_1": "light,pollution,hides,faint,stars,from,view,.",
     "order_progressive_1": "city,lights,are,blocking,our,view,of,stars,.",
     "order_passive_1": "faint,stars,are,hidden,by,light,pollution,.",
-    "order_subordinate_1": "when,cities,are,bright,,,fewer,stars,can,be,seen,.",
-    "order_passive_beginner_2": "by light,pollution,faint stars,are hidden,.",
-    "order_passive_2": "by,light,pollution,faint,stars,are,hidden,."
+    "order_subordinate_1": "when,cities,are,bright,,,fewer,stars,can,be,seen,."
   },
   {
     "id": "astronomy-28",
@@ -2620,10 +2565,7 @@
     "order_active_1": "special,filters,protect,your,eyes,from,the,sun,.",
     "order_progressive_1": "astronomers,are,using,solar,filters,safely,.",
     "order_passive_1": "eyes,are,protected,by,special,solar,filters,.",
-    "order_subordinate_1": "because,sunlight,damages,eyes,,,use,special,filters,.",
-    "order_progressive_beginner_2": "safely,astronomers,are using,solar filters,.",
-    "order_progressive_2": "safely,astronomers,are,using,solar,filters,.",
-    "order_passive_beginner_2": "by special,solar filters,eyes,are protected,."
+    "order_subordinate_1": "because,sunlight,damages,eyes,,,use,special,filters,."
   },
   {
     "id": "astronomy-29",
@@ -2713,8 +2655,7 @@
     "order_active_1": "red,flashlights,preserve,your,night,vision,.",
     "order_progressive_1": "your,eyes,are,adjusting,to,the,darkness,.",
     "order_passive_1": "night,vision,is,preserved,by,using,red,lights,.",
-    "order_subordinate_1": "after,20,minutes,in,darkness,,,your,eyes,adjust,fully,.",
-    "order_passive_beginner_2": "by using,red lights,night vision,is preserved,."
+    "order_subordinate_1": "after,20,minutes,in,darkness,,,your,eyes,adjust,fully,."
   },
   {
     "id": "astronomy-30",
@@ -2805,11 +2746,7 @@
     "order_active_1": "meteors,create,bright,streaks,across,the,sky,.",
     "order_progressive_1": "space,rocks,are,burning,up,in,our,atmosphere,.",
     "order_passive_1": "bright,streaks,are,created,by,burning,meteors,.",
-    "order_subordinate_1": "when,space,rocks,hit,the,atmosphere,,,they,become,meteors,.",
-    "order_active_beginner_2": "across the,sky,meteors,create bright streaks,.",
-    "order_progressive_beginner_2": "in our,atmosphere,space rocks,are burning up,.",
-    "order_passive_beginner_2": "by burning,meteors,bright streaks,are created,.",
-    "order_passive_2": "by,burning,meteors,bright,streaks,are,created,."
+    "order_subordinate_1": "when,space,rocks,hit,the,atmosphere,,,they,become,meteors,."
   },
   {
     "id": "astronomy-31",
@@ -2900,9 +2837,7 @@
     "order_active_1": "comets,develop,glowing,tails,near,the,sun,.",
     "order_progressive_1": "the,comet,is,growing,a,bright,tail,.",
     "order_passive_1": "glowing,tails,are,formed,by,comets,near,the,sun,.",
-    "order_subordinate_1": "when,comets,approach,the,sun,,,they,develop,tails,.",
-    "order_active_beginner_2": "near the,sun,comets,develop glowing tails,.",
-    "order_passive_beginner_2": "by comets,near the sun,glowing tails,are formed,."
+    "order_subordinate_1": "when,comets,approach,the,sun,,,they,develop,tails,."
   },
   {
     "id": "astronomy-32",
@@ -3087,10 +3022,7 @@
     "order_active_1": "satellites,look,like,moving,stars,crossing,the,sky,.",
     "order_progressive_1": "the,space,station,is,passing,overhead,tonight,.",
     "order_passive_1": "satellites,can,be,seen,moving,across,the,night,sky,.",
-    "order_subordinate_1": "if,you,watch,carefully,,,satellites,cross,the,sky,steadily,.",
-    "order_progressive_beginner_2": "tonight,the space station,is passing,overhead,.",
-    "order_progressive_2": "tonight,the,space,station,is,passing,overhead,.",
-    "order_subordinate_2": "carefully,if,you,watch,,,satellites,cross,the,sky,steadily,."
+    "order_subordinate_1": "if,you,watch,carefully,,,satellites,cross,the,sky,steadily,."
   },
   {
     "id": "astronomy-34",
@@ -3181,10 +3113,7 @@
     "order_active_1": "space,telescopes,see,more,clearly,above,the,atmosphere,.",
     "order_progressive_1": "the,webb,telescope,is,photographing,distant,galaxies,.",
     "order_passive_1": "clearer,images,are,captured,by,space,telescopes,.",
-    "order_subordinate_1": "because,they,are,above,the,atmosphere,,,images,are,clearer,.",
-    "order_active_beginner_2": "above the,atmosphere,space telescopes,see more clearly,.",
-    "order_passive_beginner_2": "by space,telescopes,clearer images,are captured,.",
-    "order_passive_2": "by,space,telescopes,clearer,images,are,captured,."
+    "order_subordinate_1": "because,they,are,above,the,atmosphere,,,images,are,clearer,."
   },
   {
     "id": "astronomy-35",
@@ -3369,9 +3298,7 @@
     "order_active_1": "astronomers,share,telescopes,at,star,parties,.",
     "order_progressive_1": "people,are,viewing,saturn's,rings,at,the,party,.",
     "order_passive_1": "telescopes,are,shared,with,beginners,at,star,parties,.",
-    "order_subordinate_1": "when,you,attend,a,star,party,,,you,can,see,through,telescopes,.",
-    "order_active_beginner_2": "at star,parties,astronomers,share telescopes,.",
-    "order_progressive_beginner_2": "at the party,people,are viewing,saturn's rings,."
+    "order_subordinate_1": "when,you,attend,a,star,party,,,you,can,see,through,telescopes,."
   },
   {
     "id": "astronomy-37",
@@ -3644,8 +3571,7 @@
     "order_active_1": "light-years,measure,vast,distances,in,space,.",
     "order_progressive_1": "starlight,is,traveling,through,space,for,years,.",
     "order_passive_1": "distance,in,space,is,measured,in,light-years,.",
-    "order_subordinate_1": "because,stars,are,far,away,,,their,light,takes,years,to,arrive,.",
-    "order_progressive_beginner_2": "through space,for years,starlight,is traveling,."
+    "order_subordinate_1": "because,stars,are,far,away,,,their,light,takes,years,to,arrive,."
   },
   {
     "id": "astronomy-40",
@@ -3735,9 +3661,6 @@
     "order_active_1": "astronomers,study,the,universe,using,powerful,telescopes,.",
     "order_progressive_1": "scientists,are,discovering,new,planets,around,distant,stars,.",
     "order_passive_1": "the,universe,is,studied,by,professional,astronomers,.",
-    "order_subordinate_1": "if,you,love,space,,,astronomy,offers,exciting,careers,.",
-    "order_progressive_beginner_2": "around distant stars,scientists,are discovering,new planets,.",
-    "order_passive_beginner_2": "by professional,astronomers,the universe,is studied,.",
-    "order_passive_2": "by,professional,astronomers,the,universe,is,studied,."
+    "order_subordinate_1": "if,you,love,space,,,astronomy,offers,exciting,careers,."
   }
 ]

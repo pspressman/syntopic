@@ -99,8 +99,7 @@
     "order_passive_1": "food,oxygen,and,shelter,are,provided,by,plants,for,animals,.",
     "order_subordinate_1": "because,animals,need,resources,,,plants,provide,food,and,shelter,.",
     "order_subordinate_beginner_2": "plants,provide,food and shelter,because,animals need resources,.",
-    "order_subordinate_2": "plants,provide,food,and,shelter,because,animals,need,resources,.",
-    "order_passive_beginner_2": "by plants,for animals,food, oxygen,,and shelter,are provided,."
+    "order_subordinate_2": "plants,provide,food,and,shelter,because,animals,need,resources,."
   },
   {
     "id": "nature-2",
@@ -196,10 +195,8 @@
     "order_progressive_1": "animals,are,pollinating,flowers,spreading,seeds,and,fertilizing,soil,.",
     "order_passive_1": "flowers,are,pollinated,and,seeds,are,spread,by,animals,.",
     "order_subordinate_1": "when,bees,visit,flowers,,,they,help,plants,make,seeds,.",
-    "order_subordinate_beginner_2": "they help plants,make seeds,when,bees visit flowers,.",
     "order_subordinate_2": "they,help,plants,make,seeds,when,bees,visit,flowers,.",
-    "order_passive_beginner_2": "by animals,flowers,are pollinated,and seeds are spread,.",
-    "order_passive_2": "by,animals,flowers,are,pollinated,and,seeds,are,spread,."
+    "order_subordinate_beginner_2": "they help plants,make seeds,when,bees visit flowers,."
   },
   {
     "id": "nature-3",
@@ -289,9 +286,7 @@
     "order_passive_1": "endangered,status,is,caused,by,habitat,destruction,.",
     "order_subordinate_1": "when,habitats,are,destroyed,,,plants,become,endangered,.",
     "order_subordinate_beginner_2": "plants,become endangered,when,habitats are destroyed,.",
-    "order_subordinate_2": "plants,become,endangered,when,habitats,are,destroyed,.",
-    "order_passive_beginner_2": "by habitat destruction,endangered status,is caused,.",
-    "order_passive_2": "by,habitat,destruction,endangered,status,is,caused,."
+    "order_subordinate_2": "plants,become,endangered,when,habitats,are,destroyed,."
   },
   {
     "id": "nature-4",
@@ -390,8 +385,7 @@
     "order_passive_1": "energy,flow,is,shown,by,a,food,chain,.",
     "order_subordinate_1": "because,energy,transfers,through,eating,,,food,chains,form,.",
     "order_subordinate_beginner_2": "food chains,form,because,energy transfers,through eating,.",
-    "order_subordinate_2": "food,chains,form,because,energy,transfers,through,eating,.",
-    "order_passive_beginner_2": "by a food chain,energy flow,is shown,."
+    "order_subordinate_2": "food,chains,form,because,energy,transfers,through,eating,."
   },
   {
     "id": "nature-5",
@@ -491,10 +485,8 @@
     "order_progressive_1": "grass,is,feeding,grasshoppers,which,are,feeding,frogs,and,snakes,.",
     "order_passive_1": "grasshoppers,are,eaten,by,frogs,which,are,eaten,by,snakes,.",
     "order_subordinate_1": "after,grass,grows,,,grasshoppers,eat,it,and,frogs,eat,them,.",
-    "order_subordinate_beginner_2": "grasshoppers eat it,and frogs eat them,after,grass grows,.",
     "order_subordinate_2": "grasshoppers,eat,it,and,frogs,eat,them,after,grass,grows,.",
-    "order_passive_beginner_2": "by snakes,grasshoppers,are eaten by frogs,,which are eaten,.",
-    "order_passive_2": "by,snakes,grasshoppers,are,eaten,by,frogs,which,are,eaten,."
+    "order_subordinate_beginner_2": "grasshoppers eat it,and frogs eat them,after,grass grows,."
   },
   {
     "id": "nature-6",
@@ -596,9 +588,8 @@
     "order_progressive_1": "algae,is,feeding,zooplankton,which,are,feeding,fish,.",
     "order_passive_1": "zooplankton,are,eaten,by,small,fish,which,are,eaten,by,big,fish,.",
     "order_subordinate_1": "after,algae,grows,,,zooplankton,eat,it,and,fish,eat,them,.",
-    "order_subordinate_beginner_2": "zooplankton eat it,and fish eat them,after,algae grows,.",
     "order_subordinate_2": "zooplankton,eat,it,and,fish,eat,them,after,algae,grows,.",
-    "order_passive_2": "by,big,fish,zooplankton,are,eaten,by,small,fish,which,are,eaten,."
+    "order_subordinate_beginner_2": "zooplankton eat it,and fish eat them,after,algae grows,."
   },
   {
     "id": "nature-7",
@@ -691,11 +682,10 @@
     "order_progressive_1": "plants,are,producing,their,own,food,through,photosynthesis,.",
     "order_passive_1": "food,is,produced,by,plants,through,photosynthesis,.",
     "order_subordinate_1": "because,plants,make,their,own,food,,,they,are,called,producers,.",
-    "order_subordinate_beginner_2": "they are called,producers,because,plants make their own food,.",
-    "order_subordinate_2": "they,are,called,producers,because,plants,make,their,own,food,.",
     "order_active_beginner_2": "through photosynthesis,plants,produce,their own food,.",
     "order_progressive_beginner_2": "through photosynthesis,plants,are producing,their own food,.",
-    "order_passive_beginner_2": "by plants,through photosynthesis,food,is produced,."
+    "order_subordinate_2": "they,are,called,producers,because,plants,make,their,own,food,.",
+    "order_subordinate_beginner_2": "they are called,producers,because,plants make their own food,."
   },
   {
     "id": "nature-8",
@@ -789,9 +779,8 @@
     "order_progressive_1": "animals,are,consuming,other,living,things,for,energy,.",
     "order_passive_1": "other,living,things,are,consumed,by,animals,for,energy,.",
     "order_subordinate_1": "since,animals,cannot,make,food,,,they,must,consume,others,.",
-    "order_subordinate_beginner_2": "they must,consume others,since,animals cannot make food,.",
     "order_subordinate_2": "they,must,consume,others,since,animals,cannot,make,food,.",
-    "order_passive_beginner_2": "by animals,for energy,other living things,are consumed,."
+    "order_subordinate_beginner_2": "they must,consume others,since,animals cannot make food,."
   },
   {
     "id": "nature-9",
@@ -889,10 +878,8 @@
     "order_progressive_1": "decomposers,are,breaking,down,dead,material,and,returning,nutrients,.",
     "order_passive_1": "dead,material,is,broken,down,by,decomposers,.",
     "order_subordinate_1": "after,things,die,,,decomposers,break,them,down,into,nutrients,.",
-    "order_subordinate_beginner_2": "decomposers,break them down,into nutrients,after,things die,.",
     "order_subordinate_2": "decomposers,break,them,down,into,nutrients,after,things,die,.",
-    "order_passive_beginner_2": "by decomposers,dead material,is broken down,.",
-    "order_passive_2": "by,decomposers,dead,material,is,broken,down,."
+    "order_subordinate_beginner_2": "decomposers,break them down,into nutrients,after,things die,."
   },
   {
     "id": "nature-10",
@@ -983,9 +970,7 @@
     "order_passive_1": "only,plants,are,eaten,by,herbivores,.",
     "order_subordinate_1": "because,they,eat,plants,,,deer,and,rabbits,are,herbivores,.",
     "order_subordinate_beginner_2": "deer and rabbits,are herbivores,because,they eat plants,.",
-    "order_subordinate_2": "deer,and,rabbits,are,herbivores,because,they,eat,plants,.",
-    "order_passive_beginner_2": "by herbivores,only plants,are eaten,.",
-    "order_passive_2": "by,herbivores,only,plants,are,eaten,."
+    "order_subordinate_2": "deer,and,rabbits,are,herbivores,because,they,eat,plants,."
   },
   {
     "id": "nature-11",
@@ -1076,9 +1061,7 @@
     "order_passive_1": "only,meat,is,eaten,by,carnivores,.",
     "order_subordinate_1": "because,they,hunt,prey,,,lions,and,hawks,are,carnivores,.",
     "order_subordinate_beginner_2": "lions and hawks,are carnivores,because,they hunt prey,.",
-    "order_subordinate_2": "lions,and,hawks,are,carnivores,because,they,hunt,prey,.",
-    "order_passive_beginner_2": "by carnivores,only meat,is eaten,.",
-    "order_passive_2": "by,carnivores,only,meat,is,eaten,."
+    "order_subordinate_2": "lions,and,hawks,are,carnivores,because,they,hunt,prey,."
   },
   {
     "id": "nature-12",
@@ -1170,9 +1153,7 @@
     "order_passive_1": "both,plants,and,meat,are,eaten,by,omnivores,.",
     "order_subordinate_1": "because,they,eat,everything,,,bears,and,raccoons,are,omnivores,.",
     "order_subordinate_beginner_2": "bears and raccoons,are omnivores,because,they eat everything,.",
-    "order_subordinate_2": "bears,and,raccoons,are,omnivores,because,they,eat,everything,.",
-    "order_passive_beginner_2": "by omnivores,both plants,and meat,are eaten,.",
-    "order_passive_2": "by,omnivores,both,plants,and,meat,are,eaten,."
+    "order_subordinate_2": "bears,and,raccoons,are,omnivores,because,they,eat,everything,."
   },
   {
     "id": "nature-13",
@@ -1269,8 +1250,8 @@
     "order_progressive_1": "birdwatchers,are,identifying,birds,by,size,color,and,songs,.",
     "order_passive_1": "birds,are,identified,by,their,size,color,and,songs,.",
     "order_subordinate_1": "when,observing,birds,,,look,at,their,size,color,and,behavior,.",
-    "order_subordinate_beginner_2": "look at their,size, color, and behavior,when,observing birds,.",
-    "order_subordinate_2": "look,at,their,size,color,and,behavior,when,observing,birds,."
+    "order_subordinate_2": "look,at,their,size,color,and,behavior,when,observing,birds,.",
+    "order_subordinate_beginner_2": "look at their,size, color, and behavior,when,observing birds,."
   },
   {
     "id": "nature-14",
@@ -1364,8 +1345,7 @@
     "order_passive_1": "birdhouses,are,used,by,birds,for,safe,nesting,.",
     "order_subordinate_1": "when,looking,for,shelter,,,birds,choose,safe,birdhouses,.",
     "order_subordinate_beginner_2": "birds,choose safe,birdhouses,when,looking for shelter,.",
-    "order_subordinate_2": "birds,choose,safe,birdhouses,when,looking,for,shelter,.",
-    "order_passive_beginner_2": "by birds,for safe nesting,birdhouses,are used,."
+    "order_subordinate_2": "birds,choose,safe,birdhouses,when,looking,for,shelter,."
   },
   {
     "id": "nature-15",
@@ -1461,9 +1441,8 @@
     "order_progressive_1": "beak,shape,is,telling,us,what,food,a,bird,eats,.",
     "order_passive_1": "what,birds,eat,is,shown,by,their,beak,shape,.",
     "order_subordinate_1": "because,hawks,eat,meat,,,they,have,hooked,beaks,.",
-    "order_subordinate_beginner_2": "they have,hooked beaks,because,hawks eat meat,.",
     "order_subordinate_2": "they,have,hooked,beaks,because,hawks,eat,meat,.",
-    "order_passive_beginner_2": "by their beak shape,what birds eat,is shown,."
+    "order_subordinate_beginner_2": "they have,hooked beaks,because,hawks eat meat,."
   },
   {
     "id": "nature-16",
@@ -1560,9 +1539,7 @@
     "order_passive_1": "food,and,better,weather,are,found,by,migrating,birds,.",
     "order_subordinate_1": "when,winter,comes,,,birds,fly,south,for,warmth,.",
     "order_subordinate_beginner_2": "birds,fly south,for warmth,when,winter comes,.",
-    "order_subordinate_2": "birds,fly,south,for,warmth,when,winter,comes,.",
-    "order_passive_beginner_2": "by migrating birds,food and,better weather,are found,.",
-    "order_passive_2": "by,migrating,birds,food,and,better,weather,are,found,."
+    "order_subordinate_2": "birds,fly,south,for,warmth,when,winter,comes,."
   },
   {
     "id": "nature-17",
@@ -1662,8 +1639,7 @@
     "order_passive_1": "mammals,are,found,by,looking,for,tracks,and,droppings,.",
     "order_subordinate_1": "when,searching,for,mammals,,,look,for,tracks,and,burrows,.",
     "order_subordinate_beginner_2": "look for,tracks and burrows,when,searching for mammals,.",
-    "order_subordinate_2": "look,for,tracks,and,burrows,when,searching,for,mammals,.",
-    "order_passive_beginner_2": "by looking for,tracks and droppings,mammals,are found,."
+    "order_subordinate_2": "look,for,tracks,and,burrows,when,searching,for,mammals,."
   },
   {
     "id": "nature-18",
@@ -1761,9 +1737,7 @@
     "order_passive_1": "plaster,is,poured,into,tracks,by,naturalists,.",
     "order_subordinate_1": "after,finding,a,clear,track,,,pour,plaster,and,let,it,dry,.",
     "order_subordinate_beginner_2": "pour plaster,and let it dry,after,finding a clear track,.",
-    "order_subordinate_2": "pour,plaster,and,let,it,dry,after,finding,a,clear,track,.",
-    "order_passive_beginner_2": "by naturalists,plaster,is poured,into tracks,.",
-    "order_passive_2": "by,naturalists,plaster,is,poured,into,tracks,."
+    "order_subordinate_2": "pour,plaster,and,let,it,dry,after,finding,a,clear,track,."
   },
   {
     "id": "nature-19",
@@ -1860,9 +1834,7 @@
     "order_passive_1": "milk,is,fed,to,babies,by,mammal,mothers,.",
     "order_subordinate_1": "because,they,have,fur,and,make,milk,,,dogs,are,mammals,.",
     "order_subordinate_beginner_2": "dogs,are mammals,because,they have fur,and make milk,.",
-    "order_subordinate_2": "dogs,are,mammals,because,they,have,fur,and,make,milk,.",
-    "order_passive_beginner_2": "by mammal mothers,milk,is fed,to babies,.",
-    "order_passive_2": "by,mammal,mothers,milk,is,fed,to,babies,."
+    "order_subordinate_2": "dogs,are,mammals,because,they,have,fur,and,make,milk,."
   },
   {
     "id": "nature-20",
@@ -1957,8 +1929,7 @@
     "order_passive_1": "venomous,snakes,are,learned,by,people,for,safety,.",
     "order_subordinate_1": "for,safety,outdoors,,,people,learn,to,identify,venomous,snakes,.",
     "order_subordinate_beginner_2": "people learn,to identify,venomous snakes,for,safety outdoors,.",
-    "order_subordinate_2": "people,learn,to,identify,venomous,snakes,for,safety,outdoors,.",
-    "order_passive_beginner_2": "by people,for safety,venomous snakes,are learned,."
+    "order_subordinate_2": "people,learn,to,identify,venomous,snakes,for,safety,outdoors,."
   },
   {
     "id": "nature-21",
@@ -2053,9 +2024,7 @@
     "order_passive_1": "eggs,with,shells,are,laid,by,reptiles,.",
     "order_subordinate_1": "because,they,have,scales,and,lay,eggs,,,snakes,are,reptiles,.",
     "order_subordinate_beginner_2": "snakes,are reptiles,because,they have scales,and lay eggs,.",
-    "order_subordinate_2": "snakes,are,reptiles,because,they,have,scales,and,lay,eggs,.",
-    "order_passive_beginner_2": "by reptiles,eggs,with shells,are laid,.",
-    "order_passive_2": "by,reptiles,eggs,with,shells,are,laid,."
+    "order_subordinate_2": "snakes,are,reptiles,because,they,have,scales,and,lay,eggs,."
   },
   {
     "id": "nature-22",
@@ -2154,9 +2123,7 @@
     "order_subordinate_beginner_2": "frogs,are amphibians,because,they live in water,and on land,.",
     "order_subordinate_2": "frogs,are,amphibians,because,they,live,in,water,and,on,land,.",
     "order_active_beginner_2": "in water,and on land,amphibians,live,.",
-    "order_progressive_beginner_2": "in water,and on land,amphibians,are living,.",
-    "order_passive_beginner_2": "by amphibians,both water,and land,are used,.",
-    "order_passive_2": "by,amphibians,both,water,and,land,are,used,."
+    "order_progressive_beginner_2": "in water,and on land,amphibians,are living,."
   },
   {
     "id": "nature-23",
@@ -2252,8 +2219,7 @@
     "order_passive_1": "frogs,are,identified,by,their,unique,calls,.",
     "order_subordinate_1": "because,each,species,sounds,different,,,frogs,can,be,identified,by,calls,.",
     "order_subordinate_beginner_2": "frogs can be identified,by calls,because,each species,sounds different,.",
-    "order_subordinate_2": "frogs,can,be,identified,by,calls,because,each,species,sounds,different,.",
-    "order_passive_beginner_2": "by their,unique calls,frogs,are identified,."
+    "order_subordinate_2": "frogs,can,be,identified,by,calls,because,each,species,sounds,different,."
   },
   {
     "id": "nature-24",
@@ -2545,8 +2511,8 @@
     "order_progressive_1": "spiders,are,having,eight,legs,and,two,body,parts,.",
     "order_passive_1": "eight,legs,and,two,body,parts,are,found,on,spiders,.",
     "order_subordinate_1": "because,spiders,have,eight,legs,,,they,are,not,insects,.",
-    "order_subordinate_beginner_2": "they are,not insects,because,spiders have,eight legs,.",
-    "order_subordinate_2": "they,are,not,insects,because,spiders,have,eight,legs,."
+    "order_subordinate_2": "they,are,not,insects,because,spiders,have,eight,legs,.",
+    "order_subordinate_beginner_2": "they are,not insects,because,spiders have,eight legs,."
   },
   {
     "id": "nature-27",
@@ -2638,9 +2604,7 @@
     "order_passive_1": "four,stages,are,passed,through,by,butterflies,.",
     "order_subordinate_1": "after,forming,a,chrysalis,,,caterpillars,become,butterflies,.",
     "order_subordinate_beginner_2": "caterpillars,become butterflies,after,forming a chrysalis,.",
-    "order_subordinate_2": "caterpillars,become,butterflies,after,forming,a,chrysalis,.",
-    "order_passive_beginner_2": "by butterflies,four stages,are passed through,.",
-    "order_passive_2": "by,butterflies,four,stages,are,passed,through,."
+    "order_subordinate_2": "caterpillars,become,butterflies,after,forming,a,chrysalis,."
   },
   {
     "id": "nature-28",
@@ -2827,10 +2791,8 @@
     "order_progressive_1": "bees,are,carrying,pollen,between,flowers,to,help,plants,.",
     "order_passive_1": "pollen,is,carried,between,flowers,by,bees,.",
     "order_subordinate_1": "when,bees,visit,flowers,,,they,spread,pollen,.",
-    "order_subordinate_beginner_2": "they,spread pollen,when,bees visit flowers,.",
     "order_subordinate_2": "they,spread,pollen,when,bees,visit,flowers,.",
-    "order_passive_beginner_2": "by bees,pollen,is carried,between flowers,.",
-    "order_passive_2": "by,bees,pollen,is,carried,between,flowers,."
+    "order_subordinate_beginner_2": "they,spread pollen,when,bees visit flowers,."
   },
   {
     "id": "nature-30",
@@ -2926,8 +2888,8 @@
     "order_progressive_1": "anglers,are,identifying,fish,by,shape,color,and,markings,.",
     "order_passive_1": "fish,are,identified,by,their,shape,color,and,markings,.",
     "order_subordinate_1": "when,looking,at,fish,,,notice,their,shape,and,markings,.",
-    "order_subordinate_beginner_2": "notice their,shape and markings,when,looking at fish,.",
-    "order_subordinate_2": "notice,their,shape,and,markings,when,looking,at,fish,."
+    "order_subordinate_2": "notice,their,shape,and,markings,when,looking,at,fish,.",
+    "order_subordinate_beginner_2": "notice their,shape and markings,when,looking at fish,."
   },
   {
     "id": "nature-31",
@@ -3024,9 +2986,7 @@
     "order_passive_1": "insects,worms,and,smaller,fish,are,eaten,by,wild,fish,.",
     "order_subordinate_1": "depending,on,their,habitat,,,fish,eat,different,foods,.",
     "order_subordinate_beginner_2": "fish,eat different foods,depending on,their habitat,.",
-    "order_subordinate_2": "fish,eat,different,foods,depending,on,their,habitat,.",
-    "order_passive_beginner_2": "by wild fish,insects, worms,,and smaller fish,are eaten,.",
-    "order_passive_2": "by,wild,fish,insects,worms,and,smaller,fish,are,eaten,."
+    "order_subordinate_2": "fish,eat,different,foods,depending,on,their,habitat,."
   },
   {
     "id": "nature-32",
@@ -3313,10 +3273,9 @@
     "order_progressive_1": "collectors,are,finding,shells,on,beaches,and,labeling,them,.",
     "order_passive_1": "shells,are,found,on,beaches,and,labeled,by,collectors,.",
     "order_subordinate_1": "after,finding,shells,,,collectors,mount,and,label,them,.",
-    "order_subordinate_beginner_2": "collectors,mount and label them,after,finding shells,.",
-    "order_subordinate_2": "collectors,mount,and,label,them,after,finding,shells,.",
     "order_active_beginner_2": "on beaches,and label them,collectors,find shells,.",
-    "order_passive_2": "by,collectors,shells,are,found,on,beaches,and,labeled,."
+    "order_subordinate_2": "collectors,mount,and,label,them,after,finding,shells,.",
+    "order_subordinate_beginner_2": "collectors,mount and label them,after,finding shells,."
   },
   {
     "id": "nature-35",
@@ -3412,8 +3371,7 @@
     "order_passive_1": "plants,are,identified,by,their,leaves,and,flowers,.",
     "order_subordinate_1": "when,identifying,plants,,,look,at,leaf,shape,and,flowers,.",
     "order_subordinate_beginner_2": "look at,leaf shape and flowers,when,identifying plants,.",
-    "order_subordinate_2": "look,at,leaf,shape,and,flowers,when,identifying,plants,.",
-    "order_passive_beginner_2": "by their leaves,and flowers,plants,are identified,."
+    "order_subordinate_2": "look,at,leaf,shape,and,flowers,when,identifying,plants,."
   },
   {
     "id": "nature-36",
@@ -3511,8 +3469,8 @@
     "order_progressive_1": "plants,are,spreading,seeds,by,wind,animals,and,exploding,pods,.",
     "order_passive_1": "seeds,are,spread,by,wind,animals,and,exploding,pods,.",
     "order_subordinate_1": "because,dandelion,seeds,are,light,,,wind,carries,them,far,.",
-    "order_subordinate_beginner_2": "wind,carries them far,because,dandelion seeds are light,.",
-    "order_subordinate_2": "wind,carries,them,far,because,dandelion,seeds,are,light,."
+    "order_subordinate_2": "wind,carries,them,far,because,dandelion,seeds,are,light,.",
+    "order_subordinate_beginner_2": "wind,carries them far,because,dandelion seeds are light,."
   },
   {
     "id": "nature-37",
@@ -3611,8 +3569,8 @@
     "order_progressive_1": "sandy,clay,and,loamy,soils,are,having,different,properties,.",
     "order_passive_1": "different,properties,are,found,in,sandy,clay,and,loamy,soils,.",
     "order_subordinate_1": "because,loamy,soil,drains,well,,,plants,grow,best,in,it,.",
-    "order_subordinate_beginner_2": "plants grow,best in it,because,loamy soil,drains well,.",
-    "order_subordinate_2": "plants,grow,best,in,it,because,loamy,soil,drains,well,."
+    "order_subordinate_2": "plants,grow,best,in,it,because,loamy,soil,drains,well,.",
+    "order_subordinate_beginner_2": "plants grow,best in it,because,loamy soil,drains well,."
   },
   {
     "id": "nature-38",
@@ -3620,7 +3578,7 @@
     "text_segment": "Humus is dark, rich soil made from decayed plants and animals. It contains many nutrients that plants need to grow. Gardeners add compost to soil to increase humus and help plants grow better.",
     "question": "Explain what humus is and why it helps plants.",
     "Active": "Humus contains nutrients that help plants grow.",
-    "Progressive": "Humus is containing nutrients that help plants grow.",
+    "Progressive": "Humus is releasing nutrients that help plants grow.",
     "Passive": "Nutrients are contained in humus to help plants.",
     "Subordinate": "Because humus has nutrients, plants grow well in it.",
     "tiles_active": [
@@ -3632,7 +3590,7 @@
     ],
     "tiles_progressive": [
       "humus",
-      "is containing",
+      "is releasing",
       "nutrients",
       "that help plants grow",
       "."
@@ -3665,7 +3623,7 @@
     "tiles_progressive_advanced": [
       "humus",
       "is",
-      "containing",
+      "releasing",
       "nutrients",
       "that",
       "help",
@@ -3698,15 +3656,15 @@
       "."
     ],
     "order_active_beginner_1": "humus,contains nutrients,that help,plants grow,.",
-    "order_progressive_beginner_1": "humus,is containing,nutrients,that help plants grow,.",
+    "order_progressive_beginner_1": "humus,is releasing,nutrients,that help plants grow,.",
     "order_passive_beginner_1": "nutrients,are contained,in humus,to help plants,.",
     "order_subordinate_beginner_1": "because,humus has nutrients,,,plants grow,well in it,.",
     "order_active_1": "humus,contains,nutrients,that,help,plants,grow,.",
-    "order_progressive_1": "humus,is,containing,nutrients,that,help,plants,grow,.",
+    "order_progressive_1": "humus,is,releasing,nutrients,that,help,plants,grow,.",
     "order_passive_1": "nutrients,are,contained,in,humus,to,help,plants,.",
     "order_subordinate_1": "because,humus,has,nutrients,,,plants,grow,well,in,it,.",
-    "order_subordinate_beginner_2": "plants grow,well in it,because,humus has nutrients,.",
-    "order_subordinate_2": "plants,grow,well,in,it,because,humus,has,nutrients,."
+    "order_subordinate_2": "plants,grow,well,in,it,because,humus,has,nutrients,.",
+    "order_subordinate_beginner_2": "plants grow,well in it,because,humus has nutrients,."
   },
   {
     "id": "nature-39",
@@ -3893,10 +3851,8 @@
     "order_progressive_1": "collectors,are,finding,rocks,and,labeling,them,.",
     "order_passive_1": "rocks,are,found,and,labeled,by,collectors,.",
     "order_subordinate_1": "after,finding,interesting,rocks,,,collectors,label,and,organize,them,.",
-    "order_subordinate_beginner_2": "collectors,label and organize them,after,finding interesting rocks,.",
     "order_subordinate_2": "collectors,label,and,organize,them,after,finding,interesting,rocks,.",
-    "order_passive_beginner_2": "by collectors,rocks,are found,and labeled,.",
-    "order_passive_2": "by,collectors,rocks,are,found,and,labeled,."
+    "order_subordinate_beginner_2": "collectors,label and organize them,after,finding interesting rocks,."
   },
   {
     "id": "nature-41",
@@ -3994,8 +3950,7 @@
     "order_passive_1": "natural,areas,are,protected,by,following,leave,no,trace,.",
     "order_subordinate_1": "when,visiting,nature,,,follow,leave,no,trace,principles,.",
     "order_subordinate_beginner_2": "follow,leave no trace principles,when,visiting nature,.",
-    "order_subordinate_2": "follow,leave,no,trace,principles,when,visiting,nature,.",
-    "order_passive_beginner_2": "by following,leave no trace,natural areas,are protected,."
+    "order_subordinate_2": "follow,leave,no,trace,principles,when,visiting,nature,."
   },
   {
     "id": "nature-42",
@@ -4185,9 +4140,7 @@
     "order_passive_1": "all,trash,is,taken,home,by,responsible,visitors,.",
     "order_subordinate_1": "when,leaving,nature,,,take,all,your,trash,with,you,.",
     "order_subordinate_beginner_2": "take all your trash,with you,when,leaving nature,.",
-    "order_subordinate_2": "take,all,your,trash,with,you,when,leaving,nature,.",
-    "order_passive_beginner_2": "by responsible,visitors,all trash,is taken home,.",
-    "order_passive_2": "by,responsible,visitors,all,trash,is,taken,home,."
+    "order_subordinate_2": "take,all,your,trash,with,you,when,leaving,nature,."
   },
   {
     "id": "nature-44",
@@ -4384,8 +4337,7 @@
     "order_passive_1": "wild,animals,are,harmed,when,they,are,fed,by,people,.",
     "order_subordinate_1": "because,human,food,harms,them,,,do,not,feed,wild,animals,.",
     "order_subordinate_beginner_2": "do not feed,wild animals,because,human food harms them,.",
-    "order_subordinate_2": "do,not,feed,wild,animals,because,human,food,harms,them,.",
-    "order_passive_beginner_2": "by people,wild animals,are harmed,when they are fed,."
+    "order_subordinate_2": "do,not,feed,wild,animals,because,human,food,harms,them,."
   },
   {
     "id": "nature-46",
@@ -4477,9 +4429,7 @@
     "order_passive_1": "how,communities,change,is,described,by,succession,.",
     "order_subordinate_1": "after,a,disturbance,,,different,species,return,in,stages,.",
     "order_subordinate_beginner_2": "different species,return in stages,after,a disturbance,.",
-    "order_subordinate_2": "different,species,return,in,stages,after,a,disturbance,.",
-    "order_passive_beginner_2": "by succession,how communities change,is described,.",
-    "order_passive_2": "by,succession,how,communities,change,is,described,."
+    "order_subordinate_2": "different,species,return,in,stages,after,a,disturbance,."
   },
   {
     "id": "nature-47",
@@ -4576,8 +4526,7 @@
     "order_passive_1": "soil,is,prepared,by,pioneer,species,for,other,plants,.",
     "order_subordinate_1": "after,fires,clear,land,,,pioneer,species,grow,first,.",
     "order_subordinate_beginner_2": "pioneer species,grow first,after,fires clear land,.",
-    "order_subordinate_2": "pioneer,species,grow,first,after,fires,clear,land,.",
-    "order_passive_beginner_2": "by pioneer species,for other plants,soil,is prepared,."
+    "order_subordinate_2": "pioneer,species,grow,first,after,fires,clear,land,."
   },
   {
     "id": "nature-48",
@@ -4770,9 +4719,7 @@
     "order_passive_1": "animals,and,habitats,are,studied,by,wildlife,biologists,.",
     "order_subordinate_1": "to,protect,endangered,species,,,wildlife,biologists,study,habitats,.",
     "order_subordinate_beginner_2": "wildlife biologists,study habitats,to,protect endangered species,.",
-    "order_subordinate_2": "wildlife,biologists,study,habitats,to,protect,endangered,species,.",
-    "order_passive_beginner_2": "by wildlife,biologists,animals and habitats,are studied,.",
-    "order_passive_2": "by,wildlife,biologists,animals,and,habitats,are,studied,."
+    "order_subordinate_2": "wildlife,biologists,study,habitats,to,protect,endangered,species,."
   },
   {
     "id": "nature-50",
@@ -4866,8 +4813,6 @@
     "order_passive_1": "nature,is,protected,and,visitors,are,helped,by,rangers,.",
     "order_subordinate_1": "while,patrolling,trails,,,rangers,teach,visitors,about,nature,.",
     "order_subordinate_beginner_2": "rangers,teach visitors about nature,while,patrolling trails,.",
-    "order_subordinate_2": "rangers,teach,visitors,about,nature,while,patrolling,trails,.",
-    "order_passive_beginner_2": "by rangers,nature,is protected,and visitors are helped,.",
-    "order_passive_2": "by,rangers,nature,is,protected,and,visitors,are,helped,."
+    "order_subordinate_2": "rangers,teach,visitors,about,nature,while,patrolling,trails,."
   }
 ]

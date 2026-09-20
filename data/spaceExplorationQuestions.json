@@ -175,9 +175,7 @@
     "order_active_1": "the,space,race,pushed,countries,to,achieve,milestones,.",
     "order_progressive_1": "countries,were,competing,to,reach,space,first,.",
     "order_passive_1": "space,technology,was,advanced,by,the,space,race,.",
-    "order_subordinate_1": "when,nations,competed,,,space,technology,improved,quickly,.",
-    "order_passive_beginner_2": "by the,space race,space technology,was advanced,.",
-    "order_subordinate_2": "quickly,when,nations,competed,,,space,technology,improved,."
+    "order_subordinate_1": "when,nations,competed,,,space,technology,improved,quickly,."
   },
   {
     "id": "space-exploration-3",
@@ -267,10 +265,7 @@
     "order_active_1": "yuri,gagarin,became,the,first,human,in,space,.",
     "order_progressive_1": "gagarin,was,orbiting,earth,in,vostok,1,.",
     "order_passive_1": "the,first,spaceflight,was,completed,by,gagarin,.",
-    "order_subordinate_1": "when,gagarin,launched,in,1961,,,he,made,history,.",
-    "order_progressive_beginner_2": "in vostok,1,gagarin,was orbiting earth,.",
-    "order_passive_beginner_2": "by,gagarin,the first spaceflight,was completed,.",
-    "order_passive_2": "by,gagarin,the,first,spaceflight,was,completed,."
+    "order_subordinate_1": "when,gagarin,launched,in,1961,,,he,made,history,."
   },
   {
     "id": "space-exploration-4",
@@ -363,9 +358,7 @@
     "order_active_1": "neil,armstrong,became,the,first,person,on,the,moon,.",
     "order_progressive_1": "armstrong,was,stepping,onto,the,lunar,surface,.",
     "order_passive_1": "the,moon,was,first,walked,on,by,armstrong,.",
-    "order_subordinate_1": "when,armstrong,stepped,on,the,moon,,,history,was,made,.",
-    "order_passive_beginner_2": "by,armstrong,the moon,was first walked on,.",
-    "order_passive_2": "by,armstrong,the,moon,was,first,walked,on,."
+    "order_subordinate_1": "when,armstrong,stepped,on,the,moon,,,history,was,made,."
   },
   {
     "id": "space-exploration-5",
@@ -458,8 +451,7 @@
     "order_active_1": "valentina,tereshkova,became,the,first,woman,in,space,.",
     "order_progressive_1": "tereshkova,was,orbiting,earth,for,three,days,.",
     "order_passive_1": "space,was,first,reached,by,a,woman,in,1963,.",
-    "order_subordinate_1": "after,tereshkova's,flight,,,women,proved,they,could,explore,space,.",
-    "order_passive_beginner_2": "by a woman,in 1963,space,was first reached,."
+    "order_subordinate_1": "after,tereshkova's,flight,,,women,proved,they,could,explore,space,."
   },
   {
     "id": "space-exploration-6",
@@ -548,11 +540,7 @@
     "order_active_1": "katherine,johnson,calculated,trajectories,for,nasa,missions,.",
     "order_progressive_1": "johnson,was,calculating,flight,paths,for,astronauts,.",
     "order_passive_1": "rocket,trajectories,were,calculated,by,katherine,johnson,.",
-    "order_subordinate_1": "because,her,math,was,accurate,,,missions,succeeded,safely,.",
-    "order_passive_beginner_2": "by katherine,johnson,rocket trajectories,were calculated,.",
-    "order_passive_2": "by,katherine,johnson,rocket,trajectories,were,calculated,.",
-    "order_subordinate_beginner_2": "safely,because,her math was accurate,,,missions succeeded,.",
-    "order_subordinate_2": "safely,because,her,math,was,accurate,,,missions,succeeded,."
+    "order_subordinate_1": "because,her,math,was,accurate,,,missions,succeeded,safely,."
   },
   {
     "id": "space-exploration-7",
@@ -641,9 +629,7 @@
     "order_active_1": "rockets,push,gas,backward,to,move,forward,.",
     "order_progressive_1": "hot,gases,are,pushing,the,rocket,upward,.",
     "order_passive_1": "rockets,are,pushed,forward,by,escaping,gases,.",
-    "order_subordinate_1": "when,gas,shoots,backward,,,the,rocket,moves,forward,.",
-    "order_passive_beginner_2": "by escaping,gases,rockets,are pushed forward,.",
-    "order_passive_2": "by,escaping,gases,rockets,are,pushed,forward,."
+    "order_subordinate_1": "when,gas,shoots,backward,,,the,rocket,moves,forward,."
   },
   {
     "id": "space-exploration-8",
@@ -733,8 +719,7 @@
     "order_active_1": "rocket,engines,burn,fuel,to,create,thrust,.",
     "order_progressive_1": "the,engine,is,burning,fuel,and,oxidizer,together,.",
     "order_passive_1": "thrust,is,created,by,burning,rocket,fuel,.",
-    "order_subordinate_1": "as,gases,escape,the,nozzle,,,thrust,is,produced,.",
-    "order_passive_beginner_2": "by burning,rocket fuel,thrust,is created,."
+    "order_subordinate_1": "as,gases,escape,the,nozzle,,,thrust,is,produced,."
   },
   {
     "id": "space-exploration-9",
@@ -828,8 +813,7 @@
     "order_active_1": "fins,and,nose,cones,help,rockets,fly,straight,.",
     "order_progressive_1": "the,body,tube,is,holding,all,the,parts,together,.",
     "order_passive_1": "stability,is,provided,by,the,rocket's,fins,.",
-    "order_subordinate_1": "because,rockets,have,fins,,,they,fly,in,a,straight,path,.",
-    "order_passive_beginner_2": "by the rocket's,fins,stability,is provided,."
+    "order_subordinate_1": "because,rockets,have,fins,,,they,fly,in,a,straight,path,."
   },
   {
     "id": "space-exploration-10",
@@ -1007,9 +991,7 @@
     "order_active_1": "parachutes,slow,spacecraft,during,descent,.",
     "order_progressive_1": "the,capsule,is,descending,slowly,under,parachutes,.",
     "order_passive_1": "spacecraft,are,slowed,by,parachutes,during,reentry,.",
-    "order_subordinate_1": "when,parachutes,deploy,,,the,descent,slows,down,.",
-    "order_progressive_2": "slowly,the,capsule,is,descending,under,parachutes,.",
-    "order_passive_beginner_2": "by parachutes,during reentry,spacecraft,are slowed,."
+    "order_subordinate_1": "when,parachutes,deploy,,,the,descent,slows,down,."
   },
   {
     "id": "space-exploration-12",
@@ -1100,11 +1082,7 @@
     "order_active_1": "the,apollo,program,landed,humans,on,the,moon,.",
     "order_progressive_1": "astronauts,were,collecting,moon,rocks,during,apollo,missions,.",
     "order_passive_1": "moon,rocks,were,brought,back,by,apollo,astronauts,.",
-    "order_subordinate_1": "while,on,the,moon,,,astronauts,conducted,experiments,.",
-    "order_active_beginner_2": "on the,moon,the apollo program,landed humans,.",
-    "order_progressive_beginner_2": "during apollo missions,astronauts,were collecting,moon rocks,.",
-    "order_passive_beginner_2": "by apollo,astronauts,moon rocks,were brought back,.",
-    "order_passive_2": "by,apollo,astronauts,moon,rocks,were,brought,back,."
+    "order_subordinate_1": "while,on,the,moon,,,astronauts,conducted,experiments,."
   },
   {
     "id": "space-exploration-13",
@@ -1197,12 +1175,7 @@
     "order_active_1": "satellites,balance,speed,and,gravity,to,stay,in,orbit,.",
     "order_progressive_1": "the,satellite,is,falling,around,earth,continuously,.",
     "order_passive_1": "orbit,is,maintained,by,balancing,speed,and,gravity,.",
-    "order_subordinate_1": "because,satellites,move,fast,enough,,,they,stay,in,orbit,.",
-    "order_active_beginner_2": "in orbit,satellites,balance speed and gravity,to stay,.",
-    "order_progressive_beginner_2": "continuously,the satellite,is falling,around earth,.",
-    "order_progressive_beginner_3": "around earth,continuously,the satellite,is falling,.",
-    "order_progressive_2": "continuously,the,satellite,is,falling,around,earth,.",
-    "order_passive_beginner_2": "by balancing,speed and gravity,orbit,is maintained,."
+    "order_subordinate_1": "because,satellites,move,fast,enough,,,they,stay,in,orbit,."
   },
   {
     "id": "space-exploration-14",
@@ -1293,9 +1266,7 @@
     "order_active_1": "satellites,capture,images,using,special,cameras,.",
     "order_progressive_1": "radio,signals,are,transmitting,pictures,to,earth,.",
     "order_passive_1": "images,are,transmitted,to,earth,by,radio,signals,.",
-    "order_subordinate_1": "after,cameras,capture,images,,,radio,signals,send,them,to,earth,.",
-    "order_passive_beginner_2": "by radio signals,images,are transmitted,to earth,.",
-    "order_passive_2": "by,radio,signals,images,are,transmitted,to,earth,."
+    "order_subordinate_1": "after,cameras,capture,images,,,radio,signals,send,them,to,earth,."
   },
   {
     "id": "space-exploration-15",
@@ -1386,9 +1357,7 @@
     "order_active_1": "the,space,shuttle,carried,astronauts,to,orbit,.",
     "order_progressive_1": "the,shuttle,was,landing,like,an,airplane,.",
     "order_passive_1": "astronauts,were,carried,to,space,by,the,shuttle,.",
-    "order_subordinate_1": "because,it,was,reusable,,,the,shuttle,flew,many,missions,.",
-    "order_passive_beginner_2": "by the shuttle,astronauts,were carried,to space,.",
-    "order_passive_2": "by,the,shuttle,astronauts,were,carried,to,space,."
+    "order_subordinate_1": "because,it,was,reusable,,,the,shuttle,flew,many,missions,."
   },
   {
     "id": "space-exploration-16",
@@ -1479,9 +1448,7 @@
     "order_active_1": "astronauts,live,and,work,on,the,space,station,.",
     "order_progressive_1": "the,iss,is,orbiting,earth,every,90,minutes,.",
     "order_passive_1": "the,space,station,is,operated,by,many,countries,together,.",
-    "order_subordinate_1": "while,orbiting,earth,,,astronauts,conduct,experiments,.",
-    "order_active_beginner_2": "on the,space station,astronauts,live and work,.",
-    "order_passive_beginner_2": "by many countries,together,the space station,is operated,."
+    "order_subordinate_1": "while,orbiting,earth,,,astronauts,conduct,experiments,."
   },
   {
     "id": "space-exploration-17",
@@ -1657,10 +1624,7 @@
     "order_active_1": "countries,share,resources,to,explore,space,together,.",
     "order_progressive_1": "nations,are,working,together,on,space,missions,.",
     "order_passive_1": "bigger,missions,are,made,possible,by,cooperation,.",
-    "order_subordinate_1": "when,countries,cooperate,,,greater,achievements,become,possible,.",
-    "order_progressive_beginner_2": "on space,missions,nations,are working together,.",
-    "order_passive_beginner_2": "by,cooperation,bigger missions,are made possible,.",
-    "order_passive_2": "by,cooperation,bigger,missions,are,made,possible,."
+    "order_subordinate_1": "when,countries,cooperate,,,greater,achievements,become,possible,."
   },
   {
     "id": "space-exploration-19",
@@ -1751,9 +1715,7 @@
     "order_active_1": "mars,rovers,explore,the,planet's,rocky,surface,.",
     "order_progressive_1": "the,rover,is,driving,across,the,martian,landscape,.",
     "order_passive_1": "the,martian,surface,is,explored,by,robotic,rovers,.",
-    "order_subordinate_1": "as,rovers,collect,data,,,scientists,learn,about,mars,.",
-    "order_passive_beginner_2": "by robotic,rovers,the martian surface,is explored,.",
-    "order_passive_2": "by,robotic,rovers,the,martian,surface,is,explored,."
+    "order_subordinate_1": "as,rovers,collect,data,,,scientists,learn,about,mars,."
   },
   {
     "id": "space-exploration-20",
@@ -1845,11 +1807,7 @@
     "order_active_1": "perseverance,searches,for,signs,of,ancient,life,on,mars,.",
     "order_progressive_1": "the,rover,is,collecting,rock,samples,on,mars,.",
     "order_passive_1": "rock,samples,are,being,collected,by,perseverance,.",
-    "order_subordinate_1": "while,exploring,mars,,,perseverance,looks,for,ancient,life,.",
-    "order_active_beginner_2": "on mars,perseverance,searches for signs,of ancient life,.",
-    "order_progressive_beginner_2": "on mars,the rover,is collecting,rock samples,.",
-    "order_passive_beginner_2": "by,perseverance,rock samples,are being collected,.",
-    "order_passive_2": "by,perseverance,rock,samples,are,being,collected,."
+    "order_subordinate_1": "while,exploring,mars,,,perseverance,looks,for,ancient,life,."
   },
   {
     "id": "space-exploration-21",
@@ -1942,10 +1900,7 @@
     "order_active_1": "ingenuity,became,the,first,aircraft,to,fly,on,mars,.",
     "order_progressive_1": "the,helicopter,is,flying,through,mars',thin,atmosphere,.",
     "order_passive_1": "powered,flight,on,mars,was,achieved,by,ingenuity,.",
-    "order_subordinate_1": "although,mars',air,is,thin,,,ingenuity,flew,successfully,.",
-    "order_active_beginner_2": "on mars,ingenuity,became the first aircraft,to fly,.",
-    "order_passive_beginner_2": "by,ingenuity,powered flight on mars,was achieved,.",
-    "order_passive_2": "by,ingenuity,powered,flight,on,mars,was,achieved,."
+    "order_subordinate_1": "although,mars',air,is,thin,,,ingenuity,flew,successfully,."
   },
   {
     "id": "space-exploration-22",
@@ -2037,9 +1992,7 @@
     "order_active_1": "artemis,will,return,astronauts,to,the,moon,.",
     "order_progressive_1": "nasa,is,preparing,for,moon,landings,again,.",
     "order_passive_1": "new,moon,landings,are,being,planned,by,nasa,.",
-    "order_subordinate_1": "before,going,to,mars,,,astronauts,will,practice,on,the,moon,.",
-    "order_passive_beginner_2": "by,nasa,new moon landings,are being planned,.",
-    "order_passive_2": "by,nasa,new,moon,landings,are,being,planned,."
+    "order_subordinate_1": "before,going,to,mars,,,astronauts,will,practice,on,the,moon,."
   },
   {
     "id": "space-exploration-23",
@@ -2218,11 +2171,7 @@
     "order_active_1": "satellites,monitor,weather,and,environmental,changes,.",
     "order_progressive_1": "satellites,are,tracking,weather,patterns,constantly,.",
     "order_passive_1": "weather,patterns,are,tracked,by,satellites,.",
-    "order_subordinate_1": "by,watching,from,space,,,satellites,monitor,earth's,environment,.",
-    "order_progressive_beginner_2": "constantly,satellites,are tracking,weather patterns,.",
-    "order_progressive_2": "constantly,satellites,are,tracking,weather,patterns,.",
-    "order_passive_beginner_2": "by,satellites,weather patterns,are tracked,.",
-    "order_passive_2": "by,satellites,weather,patterns,are,tracked,."
+    "order_subordinate_1": "by,watching,from,space,,,satellites,monitor,earth's,environment,."
   },
   {
     "id": "space-exploration-25",
@@ -2237,8 +2186,7 @@
       "gps satellites",
       "provide location data",
       "worldwide",
-      ".",
-      ""
+      "."
     ],
     "tiles_progressive": [
       "your phone",
@@ -2306,16 +2254,14 @@
       "location",
       "."
     ],
-    "order_active_beginner_1": "gps satellites,provide location data,worldwide,.,",
+    "order_active_beginner_1": "gps satellites,provide location data,worldwide,.",
     "order_progressive_beginner_1": "your phone,is receiving signals,from gps,satellites,.",
     "order_passive_beginner_1": "location data,is provided,by gps,satellites,.",
     "order_subordinate_beginner_1": "when,your phone receives satellite signals,,,it finds,your location,.",
     "order_active_1": "gps,satellites,provide,location,data,worldwide,.",
     "order_progressive_1": "your,phone,is,receiving,signals,from,gps,satellites,.",
     "order_passive_1": "location,data,is,provided,by,gps,satellites,.",
-    "order_subordinate_1": "when,your,phone,receives,satellite,signals,,,it,finds,your,location,.",
-    "order_passive_beginner_2": "by gps,satellites,location data,is provided,.",
-    "order_passive_2": "by,gps,satellites,location,data,is,provided,."
+    "order_subordinate_1": "when,your,phone,receives,satellite,signals,,,it,finds,your,location,."
   },
   {
     "id": "space-exploration-26",
@@ -2404,12 +2350,7 @@
     "order_active_1": "communication,satellites,relay,signals,around,the,world,.",
     "order_progressive_1": "satellites,are,transmitting,television,signals,right,now,.",
     "order_passive_1": "phone,calls,and,data,are,relayed,by,satellites,.",
-    "order_subordinate_1": "because,of,satellites,,,we,can,communicate,globally,.",
-    "order_active_beginner_2": "around the,world,communication satellites,relay signals,.",
-    "order_progressive_beginner_2": "right now,satellites,are transmitting,television signals,.",
-    "order_progressive_2": "now,satellites,are,transmitting,television,signals,right,.",
-    "order_passive_beginner_2": "by,satellites,phone calls and data,are relayed,.",
-    "order_passive_2": "by,satellites,phone,calls,and,data,are,relayed,."
+    "order_subordinate_1": "because,of,satellites,,,we,can,communicate,globally,."
   },
   {
     "id": "space-exploration-27",
@@ -2502,9 +2443,7 @@
     "order_active_1": "space,probes,explore,distant,planets,and,moons,.",
     "order_progressive_1": "voyager,1,is,traveling,beyond,our,solar,system,.",
     "order_passive_1": "every,planet,has,been,visited,by,space,probes,.",
-    "order_subordinate_1": "since,they,need,no,crew,,,probes,can,travel,very,far,.",
-    "order_passive_beginner_2": "by space,probes,every planet,has been visited,.",
-    "order_passive_2": "by,space,probes,every,planet,has,been,visited,."
+    "order_subordinate_1": "since,they,need,no,crew,,,probes,can,travel,very,far,."
   },
   {
     "id": "space-exploration-28",
@@ -2692,8 +2631,7 @@
     "order_active_1": "the,webb,telescope,sees,farther,than,hubble,.",
     "order_progressive_1": "webb,is,peering,through,cosmic,dust,to,see,stars,.",
     "order_passive_1": "infrared,light,is,used,by,webb,to,see,through,dust,.",
-    "order_subordinate_1": "because,webb,uses,infrared,light,,,it,sees,through,dust,clouds,.",
-    "order_passive_beginner_2": "by webb,to see through dust,infrared light,is used,."
+    "order_subordinate_1": "because,webb,uses,infrared,light,,,it,sees,through,dust,clouds,."
   },
   {
     "id": "space-exploration-30",
@@ -2782,9 +2720,7 @@
     "order_active_1": "juno,studies,jupiter's,atmosphere,and,magnetic,field,.",
     "order_progressive_1": "juno,is,orbiting,jupiter,and,taking,pictures,.",
     "order_passive_1": "jupiter's,storms,are,being,photographed,by,juno,.",
-    "order_subordinate_1": "while,orbiting,jupiter,,,juno,studies,its,giant,storms,.",
-    "order_passive_beginner_2": "by,juno,jupiter's storms,are being photographed,.",
-    "order_passive_2": "by,juno,jupiter's,storms,are,being,photographed,."
+    "order_subordinate_1": "while,orbiting,jupiter,,,juno,studies,its,giant,storms,."
   },
   {
     "id": "space-exploration-31",
@@ -2876,8 +2812,7 @@
     "order_active_1": "reusable,rockets,reduce,the,cost,of,space,travel,.",
     "order_progressive_1": "the,rocket,is,landing,vertically,after,its,mission,.",
     "order_passive_1": "costs,are,reduced,by,reusing,rocket,boosters,.",
-    "order_subordinate_1": "because,rockets,can,be,reused,,,space,travel,costs,less,.",
-    "order_passive_beginner_2": "by reusing,rocket boosters,costs,are reduced,."
+    "order_subordinate_1": "because,rockets,can,be,reused,,,space,travel,costs,less,."
   },
   {
     "id": "space-exploration-32",
@@ -3050,9 +2985,7 @@
     "order_active_1": "spacesuits,protect,astronauts,from,space,dangers,.",
     "order_progressive_1": "the,suit,is,providing,oxygen,and,temperature,control,.",
     "order_passive_1": "astronauts,are,protected,by,their,spacesuits,.",
-    "order_subordinate_1": "because,space,has,no,air,,,spacesuits,provide,oxygen,.",
-    "order_passive_beginner_2": "by their,spacesuits,astronauts,are protected,.",
-    "order_passive_2": "by,their,spacesuits,astronauts,are,protected,."
+    "order_subordinate_1": "because,space,has,no,air,,,spacesuits,provide,oxygen,."
   },
   {
     "id": "space-exploration-34",
@@ -3147,9 +3080,7 @@
     "order_active_1": "life,support,systems,provide,air,and,water,for,astronauts,.",
     "order_progressive_1": "the,system,is,recycling,water,on,the,space,station,.",
     "order_passive_1": "air,and,water,are,provided,by,life,support,systems,.",
-    "order_subordinate_1": "without,life,support,systems,,,astronauts,could,not,survive,.",
-    "order_progressive_beginner_2": "on the,space station,the system,is recycling water,.",
-    "order_passive_beginner_2": "by life support,systems,air and water,are provided,."
+    "order_subordinate_1": "without,life,support,systems,,,astronauts,could,not,survive,."
   },
   {
     "id": "space-exploration-35",
@@ -3517,9 +3448,7 @@
     "order_active_1": "aerospace,engineers,design,rockets,and,spacecraft,.",
     "order_progressive_1": "engineers,are,designing,new,spacecraft,for,mars,missions,.",
     "order_passive_1": "rockets,and,satellites,are,designed,by,aerospace,engineers,.",
-    "order_subordinate_1": "if,you,love,math,and,science,,,aerospace,engineering,is,exciting,.",
-    "order_passive_beginner_2": "by aerospace,engineers,rockets and satellites,are designed,.",
-    "order_passive_2": "by,aerospace,engineers,rockets,and,satellites,are,designed,."
+    "order_subordinate_1": "if,you,love,math,and,science,,,aerospace,engineering,is,exciting,."
   },
   {
     "id": "space-exploration-39",
@@ -3607,9 +3536,7 @@
     "order_active_1": "mission,control,monitors,spacecraft,around,the,clock,.",
     "order_progressive_1": "controllers,are,tracking,the,spacecraft's,position,.",
     "order_passive_1": "spacecraft,are,monitored,by,mission,control,teams,.",
-    "order_subordinate_1": "when,problems,occur,,,mission,control,helps,solve,them,.",
-    "order_active_beginner_2": "around the,clock,mission control,monitors spacecraft,.",
-    "order_passive_beginner_2": "by mission control,teams,spacecraft,are monitored,."
+    "order_subordinate_1": "when,problems,occur,,,mission,control,helps,solve,them,."
   },
   {
     "id": "space-exploration-40",
@@ -3699,7 +3626,6 @@
     "order_active_1": "humans,may,build,colonies,on,other,worlds,.",
     "order_progressive_1": "space,tourism,is,becoming,possible,for,everyone,.",
     "order_passive_1": "mars,colonies,are,being,planned,for,the,future,.",
-    "order_subordinate_1": "as,technology,improves,,,space,travel,becomes,more,possible,.",
-    "order_active_beginner_2": "on other,worlds,humans,may build colonies,."
+    "order_subordinate_1": "as,technology,improves,,,space,travel,becomes,more,possible,."
   }
 ]

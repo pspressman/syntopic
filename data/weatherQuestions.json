@@ -94,9 +94,8 @@
     "order_progressive_1": "meteorologists,are,studying,the,atmosphere,to,predict,weather,.",
     "order_passive_1": "the,atmosphere,is,studied,by,meteorologists,to,predict,weather,.",
     "order_subordinate_1": "when,meteorologists,study,the,atmosphere,,,they,can,predict,weather,.",
-    "order_subordinate_beginner_2": "they,can predict weather,when,meteorologists,study,the atmosphere,.",
     "order_subordinate_2": "they,can,predict,weather,when,meteorologists,study,the,atmosphere,.",
-    "order_passive_beginner_2": "by meteorologists,to predict weather,the atmosphere,is studied,."
+    "order_subordinate_beginner_2": "they,can predict weather,when,meteorologists,study,the atmosphere,."
   },
   {
     "id": "weather-2",
@@ -317,7 +316,7 @@
     "text_segment": "Sailors depend heavily on weather forecasts. Conditions at sea can change quickly and become dangerous. Wind and waves affect ship routes and speeds. Accurate forecasts help sailors plan safe voyages.",
     "question": "Explain why weather forecasts are important to sailors.",
     "Active": "Sailors need forecasts to navigate safely at sea.",
-    "Progressive": "Sailors are needing forecasts to navigate safely at sea.",
+    "Progressive": "Sailors are checking forecasts to navigate safely at sea.",
     "Passive": "Forecasts are needed by sailors to navigate safely at sea.",
     "Subordinate": "Because sea conditions change quickly, sailors need forecasts.",
     "tiles_active": [
@@ -330,7 +329,7 @@
     ],
     "tiles_progressive": [
       "sailors",
-      "are needing",
+      "are checking",
       "forecasts",
       "to navigate safely",
       "at sea",
@@ -368,7 +367,7 @@
     "tiles_progressive_advanced": [
       "sailors",
       "are",
-      "needing",
+      "checking",
       "forecasts",
       "to",
       "navigate",
@@ -403,20 +402,15 @@
       "."
     ],
     "order_active_beginner_1": "sailors,need,forecasts,to navigate safely,at sea,.",
-    "order_progressive_beginner_1": "sailors,are needing,forecasts,to navigate safely,at sea,.",
+    "order_progressive_beginner_1": "sailors,are checking,forecasts,to navigate safely,at sea,.",
     "order_passive_beginner_1": "forecasts,are needed,by sailors,to navigate safely,at sea,.",
     "order_subordinate_beginner_1": "because,sea conditions,change quickly,,,sailors,need,forecasts,.",
     "order_active_1": "sailors,need,forecasts,to,navigate,safely,at,sea,.",
-    "order_progressive_1": "sailors,are,needing,forecasts,to,navigate,safely,at,sea,.",
+    "order_progressive_1": "sailors,are,checking,forecasts,to,navigate,safely,at,sea,.",
     "order_passive_1": "forecasts,are,needed,by,sailors,to,navigate,safely,at,sea,.",
     "order_subordinate_1": "because,sea,conditions,change,quickly,,,sailors,need,forecasts,.",
     "order_subordinate_beginner_2": "sailors,need,forecasts,because,sea conditions,change quickly,.",
-    "order_subordinate_2": "sailors,need,forecasts,because,sea,conditions,change,quickly,.",
-    "order_active_beginner_2": "at sea,sailors,need,forecasts,to navigate safely,.",
-    "order_active_2": "safely,sailors,need,forecasts,to,navigate,at,sea,.",
-    "order_progressive_beginner_2": "at sea,sailors,are needing,forecasts,to navigate safely,.",
-    "order_progressive_2": "safely,sailors,are,needing,forecasts,to,navigate,at,sea,.",
-    "order_passive_2": "safely,forecasts,are,needed,by,sailors,to,navigate,at,sea,."
+    "order_subordinate_2": "sailors,need,forecasts,because,sea,conditions,change,quickly,."
   },
   {
     "id": "weather-5",
@@ -916,10 +910,8 @@
     "order_progressive_1": "moving,water,is,knocking,people,down,easily,.",
     "order_passive_1": "people,are,knocked,down,easily,by,moving,water,.",
     "order_subordinate_1": "because,moving,water,is,powerful,,,it,knocks,people,down,.",
-    "order_subordinate_beginner_2": "it knocks,people,down,because,moving water,is powerful,.",
     "order_subordinate_2": "it,knocks,people,down,because,moving,water,is,powerful,.",
-    "order_passive_beginner_2": "by,moving water,people,are knocked down,easily,.",
-    "order_passive_2": "by,moving,water,people,are,knocked,down,easily,."
+    "order_subordinate_beginner_2": "it knocks,people,down,because,moving water,is powerful,."
   },
   {
     "id": "weather-10",
@@ -1119,7 +1111,7 @@
     "text_segment": "A severe weather watch means conditions are right for dangerous weather to develop. A warning means severe weather is happening now. During a watch, you should prepare. During a warning, you should take action immediately.",
     "question": "Explain the difference between a watch and a warning.",
     "Active": "Warnings mean severe weather is happening now.",
-    "Progressive": "Warnings are meaning severe weather is happening now.",
+    "Progressive": "Warnings are signaling severe weather is happening now.",
     "Passive": "Immediate action is required when warnings are issued.",
     "Subordinate": "When warnings are issued, severe weather is happening now.",
     "tiles_active": [
@@ -1132,7 +1124,7 @@
     ],
     "tiles_progressive": [
       "warnings",
-      "are meaning",
+      "are signaling",
       "severe weather",
       "is happening",
       "now",
@@ -1168,7 +1160,7 @@
     "tiles_progressive_advanced": [
       "warnings",
       "are",
-      "meaning",
+      "signaling",
       "severe",
       "weather",
       "is",
@@ -1201,19 +1193,15 @@
       "."
     ],
     "order_active_beginner_1": "warnings,mean,severe weather,is happening,now,.",
-    "order_progressive_beginner_1": "warnings,are meaning,severe weather,is happening,now,.",
+    "order_progressive_beginner_1": "warnings,are signaling,severe weather,is happening,now,.",
     "order_passive_beginner_1": "immediate action,is required,when,warnings,are issued,.",
     "order_subordinate_beginner_1": "when,warnings are issued,,,severe weather,is happening,now,.",
     "order_active_1": "warnings,mean,severe,weather,is,happening,now,.",
-    "order_progressive_1": "warnings,are,meaning,severe,weather,is,happening,now,.",
+    "order_progressive_1": "warnings,are,signaling,severe,weather,is,happening,now,.",
     "order_passive_1": "immediate,action,is,required,when,warnings,are,issued,.",
     "order_subordinate_1": "when,warnings,are,issued,,,severe,weather,is,happening,now,.",
     "order_subordinate_beginner_2": "severe weather,is happening,now,when,warnings are issued,.",
-    "order_subordinate_2": "severe,weather,is,happening,now,when,warnings,are,issued,.",
-    "order_active_beginner_2": "now,warnings,mean,severe weather,is happening,.",
-    "order_active_2": "now,warnings,mean,severe,weather,is,happening,.",
-    "order_progressive_beginner_2": "now,warnings,are meaning,severe weather,is happening,.",
-    "order_progressive_2": "now,warnings,are,meaning,severe,weather,is,happening,."
+    "order_subordinate_2": "severe,weather,is,happening,now,when,warnings,are,issued,."
   },
   {
     "id": "weather-13",
@@ -1309,8 +1297,7 @@
     "order_passive_1": "clear,sunny,weather,is,brought,by,high,pressure,systems,.",
     "order_subordinate_1": "because,high,pressure,pushes,air,down,,,skies,become,clear,.",
     "order_subordinate_beginner_2": "skies,become clear,because,high pressure,pushes air down,.",
-    "order_subordinate_2": "skies,become,clear,because,high,pressure,pushes,air,down,.",
-    "order_passive_beginner_2": "by,high pressure systems,clear sunny weather,is brought,."
+    "order_subordinate_2": "skies,become,clear,because,high,pressure,pushes,air,down,."
   },
   {
     "id": "weather-14",
@@ -1406,8 +1393,7 @@
     "order_passive_1": "cloudy,stormy,weather,is,brought,by,low,pressure,systems,.",
     "order_subordinate_1": "because,low,pressure,allows,air,to,rise,,,clouds,form,.",
     "order_subordinate_beginner_2": "clouds,form,because,low pressure,allows air to rise,.",
-    "order_subordinate_2": "clouds,form,because,low,pressure,allows,air,to,rise,.",
-    "order_passive_beginner_2": "by,low pressure systems,cloudy stormy weather,is brought,."
+    "order_subordinate_2": "clouds,form,because,low,pressure,allows,air,to,rise,."
   },
   {
     "id": "weather-15",
@@ -1507,14 +1493,7 @@
     "order_passive_1": "warm,air,is,pushed,upward,rapidly,by,cold,air,.",
     "order_subordinate_1": "when,cold,air,pushes,under,warm,air,,,storms,can,form,.",
     "order_subordinate_beginner_2": "storms,can form,when,cold air,pushes under warm air,.",
-    "order_subordinate_2": "storms,can,form,when,cold,air,pushes,under,warm,air,.",
-    "order_active_beginner_2": "rapidly,cold air,pushes,warm air,upward,.",
-    "order_active_2": "rapidly,cold,air,pushes,warm,air,upward,.",
-    "order_progressive_beginner_2": "rapidly,cold air,is pushing,warm air,upward,.",
-    "order_progressive_2": "rapidly,cold,air,is,pushing,warm,air,upward,.",
-    "order_passive_beginner_2": "by,cold air,warm air,is pushed,upward rapidly,.",
-    "order_passive_2": "rapidly,warm,air,is,pushed,upward,by,cold,air,.",
-    "order_passive_3": "by,cold,air,warm,air,is,pushed,upward,rapidly,."
+    "order_subordinate_2": "storms,can,form,when,cold,air,pushes,under,warm,air,."
   },
   {
     "id": "weather-16",
@@ -1614,14 +1593,7 @@
     "order_passive_1": "cold,air,is,covered,slowly,by,rising,warm,air,.",
     "order_subordinate_1": "when,warm,air,rises,over,cold,air,,,light,rain,falls,.",
     "order_subordinate_beginner_2": "light rain,falls,when,warm air rises,over cold air,.",
-    "order_subordinate_2": "light,rain,falls,when,warm,air,rises,over,cold,air,.",
-    "order_active_beginner_2": "slowly,warm air,rises,over,cold air,.",
-    "order_active_2": "slowly,warm,air,rises,over,cold,air,.",
-    "order_progressive_beginner_2": "slowly,warm air,is rising,over,cold air,.",
-    "order_progressive_2": "slowly,warm,air,is,rising,over,cold,air,.",
-    "order_passive_beginner_2": "slowly,cold air,is covered,by,rising warm air,.",
-    "order_passive_beginner_3": "by,rising warm air,cold air,is covered,slowly,.",
-    "order_passive_2": "slowly,cold,air,is,covered,by,rising,warm,air,."
+    "order_subordinate_2": "light,rain,falls,when,warm,air,rises,over,cold,air,."
   },
   {
     "id": "weather-17",
@@ -1710,9 +1682,7 @@
     "order_passive_1": "wind,is,caused,by,pressure,differences,.",
     "order_subordinate_1": "when,pressure,differs,between,areas,,,wind,blows,.",
     "order_subordinate_beginner_2": "wind,blows,when,pressure differs,between areas,.",
-    "order_subordinate_2": "wind,blows,when,pressure,differs,between,areas,.",
-    "order_passive_beginner_2": "by,pressure differences,wind,is caused,.",
-    "order_passive_2": "by,pressure,differences,wind,is,caused,."
+    "order_subordinate_2": "wind,blows,when,pressure,differs,between,areas,."
   },
   {
     "id": "weather-18",
@@ -1812,8 +1782,8 @@
     "order_progressive_1": "water,vapor,is,condensing,into,droplets,that,fall,as,rain,.",
     "order_passive_1": "droplets,are,formed,when,water,vapor,condenses,.",
     "order_subordinate_1": "when,water,vapor,cools,,,it,condenses,into,rain,droplets,.",
-    "order_subordinate_beginner_2": "it condenses,into,rain droplets,when,water vapor cools,.",
-    "order_subordinate_2": "it,condenses,into,rain,droplets,when,water,vapor,cools,."
+    "order_subordinate_2": "it,condenses,into,rain,droplets,when,water,vapor,cools,.",
+    "order_subordinate_beginner_2": "it condenses,into,rain droplets,when,water vapor cools,."
   },
   {
     "id": "weather-19",
@@ -1909,10 +1879,7 @@
     "order_passive_1": "electrical,charges,are,created,by,colliding,ice,in,clouds,.",
     "order_subordinate_1": "when,ice,collides,in,clouds,,,electrical,charges,build,up,.",
     "order_subordinate_beginner_2": "electrical charges,build up,when,ice collides,in clouds,.",
-    "order_subordinate_2": "electrical,charges,build,up,when,ice,collides,in,clouds,.",
-    "order_active_beginner_2": "in clouds,colliding ice,creates,electrical charges,.",
-    "order_progressive_beginner_2": "in clouds,colliding ice,is creating,electrical charges,.",
-    "order_passive_beginner_2": "by colliding ice,in clouds,electrical charges,are created,."
+    "order_subordinate_2": "electrical,charges,build,up,when,ice,collides,in,clouds,."
   },
   {
     "id": "weather-20",
@@ -2005,10 +1972,7 @@
     "order_passive_1": "hailstones,are,created,by,strong,updrafts,in,thunderstorms,.",
     "order_subordinate_1": "when,updrafts,carry,ice,up,repeatedly,,,hailstones,grow,larger,.",
     "order_subordinate_beginner_2": "hailstones,grow larger,when,updrafts carry ice,up repeatedly,.",
-    "order_subordinate_2": "hailstones,grow,larger,when,updrafts,carry,ice,up,repeatedly,.",
-    "order_active_beginner_2": "in thunderstorms,strong updrafts,create,hailstones,.",
-    "order_progressive_beginner_2": "in thunderstorms,strong updrafts,are creating,hailstones,.",
-    "order_passive_beginner_2": "by strong updrafts,in thunderstorms,hailstones,are created,."
+    "order_subordinate_2": "hailstones,grow,larger,when,updrafts,carry,ice,up,repeatedly,."
   },
   {
     "id": "weather-21",
@@ -2104,9 +2068,7 @@
     "order_passive_1": "overcast,skies,and,drizzle,are,brought,by,stratus,clouds,.",
     "order_subordinate_1": "when,stratus,clouds,cover,the,sky,,,drizzle,often,falls,.",
     "order_subordinate_beginner_2": "drizzle,often falls,when,stratus clouds,cover the sky,.",
-    "order_subordinate_2": "drizzle,often,falls,when,stratus,clouds,cover,the,sky,.",
-    "order_passive_beginner_2": "by stratus clouds,overcast skies,and drizzle,are brought,.",
-    "order_passive_2": "by,stratus,clouds,overcast,skies,and,drizzle,are,brought,."
+    "order_subordinate_2": "drizzle,often,falls,when,stratus,clouds,cover,the,sky,."
   },
   {
     "id": "weather-22",
@@ -2197,9 +2159,7 @@
     "order_passive_1": "fair,weather,conditions,are,indicated,by,cumulus,clouds,.",
     "order_subordinate_1": "when,cumulus,clouds,appear,,,fair,weather,is,likely,.",
     "order_subordinate_beginner_2": "fair weather,is likely,when,cumulus clouds appear,.",
-    "order_subordinate_2": "fair,weather,is,likely,when,cumulus,clouds,appear,.",
-    "order_passive_beginner_2": "by,cumulus clouds,fair weather conditions,are indicated,.",
-    "order_passive_2": "by,cumulus,clouds,fair,weather,conditions,are,indicated,."
+    "order_subordinate_2": "fair,weather,is,likely,when,cumulus,clouds,appear,."
   },
   {
     "id": "weather-23",
@@ -2291,12 +2251,8 @@
     "order_progressive_1": "cirrus,clouds,are,forming,high,in,the,atmosphere,.",
     "order_passive_1": "high,altitude,clouds,are,formed,by,ice,crystals,.",
     "order_subordinate_1": "because,cirrus,clouds,contain,ice,,,they,appear,wispy,.",
-    "order_subordinate_beginner_2": "they,appear wispy,because,cirrus clouds contain ice,.",
     "order_subordinate_2": "they,appear,wispy,because,cirrus,clouds,contain,ice,.",
-    "order_active_beginner_2": "in the atmosphere,cirrus clouds,form,high,.",
-    "order_progressive_beginner_2": "in the atmosphere,cirrus clouds,are forming,high,.",
-    "order_passive_beginner_2": "by,ice crystals,high altitude clouds,are formed,.",
-    "order_passive_2": "by,ice,crystals,high,altitude,clouds,are,formed,."
+    "order_subordinate_beginner_2": "they,appear wispy,because,cirrus clouds contain ice,."
   },
   {
     "id": "weather-24",
@@ -2383,9 +2339,7 @@
     "order_passive_1": "severe,thunderstorms,are,produced,by,cumulonimbus,clouds,.",
     "order_subordinate_1": "when,cumulonimbus,clouds,form,,,severe,weather,follows,.",
     "order_subordinate_beginner_2": "severe weather,follows,when,cumulonimbus clouds form,.",
-    "order_subordinate_2": "severe,weather,follows,when,cumulonimbus,clouds,form,.",
-    "order_passive_beginner_2": "by,cumulonimbus clouds,severe thunderstorms,are produced,.",
-    "order_passive_2": "by,cumulonimbus,clouds,severe,thunderstorms,are,produced,."
+    "order_subordinate_2": "severe,weather,follows,when,cumulonimbus,clouds,form,."
   },
   {
     "id": "weather-25",
@@ -2476,9 +2430,7 @@
     "order_passive_1": "approaching,cold,fronts,are,signaled,by,altocumulus,clouds,.",
     "order_subordinate_1": "when,altocumulus,clouds,appear,,,cold,fronts,may,approach,.",
     "order_subordinate_beginner_2": "cold fronts,may approach,when,altocumulus clouds appear,.",
-    "order_subordinate_2": "cold,fronts,may,approach,when,altocumulus,clouds,appear,.",
-    "order_passive_beginner_2": "by,altocumulus clouds,approaching cold fronts,are signaled,.",
-    "order_passive_2": "by,altocumulus,clouds,approaching,cold,fronts,are,signaled,."
+    "order_subordinate_2": "cold,fronts,may,approach,when,altocumulus,clouds,appear,."
   },
   {
     "id": "weather-26",
@@ -2672,9 +2624,7 @@
     "order_passive_1": "water,vapor,is,turned,into,droplets,by,cool,air,.",
     "order_subordinate_1": "when,vapor,reaches,cool,air,,,condensation,forms,clouds,.",
     "order_subordinate_beginner_2": "condensation,forms clouds,when,vapor reaches cool air,.",
-    "order_subordinate_2": "condensation,forms,clouds,when,vapor,reaches,cool,air,.",
-    "order_passive_beginner_2": "by,cool air,water vapor,is turned,into droplets,.",
-    "order_passive_2": "by,cool,air,water,vapor,is,turned,into,droplets,."
+    "order_subordinate_2": "condensation,forms,clouds,when,vapor,reaches,cool,air,."
   },
   {
     "id": "weather-28",
@@ -2862,9 +2812,7 @@
     "order_passive_1": "rivers,are,filled,by,rainwater,runoff,.",
     "order_subordinate_1": "after,rain,falls,,,water,flows,into,rivers,or,underground,.",
     "order_subordinate_beginner_2": "water flows,into rivers,or underground,after,rain falls,.",
-    "order_subordinate_2": "water,flows,into,rivers,or,underground,after,rain,falls,.",
-    "order_passive_beginner_2": "by,rainwater runoff,rivers,are filled,.",
-    "order_passive_2": "by,rainwater,runoff,rivers,are,filled,."
+    "order_subordinate_2": "water,flows,into,rivers,or,underground,after,rain,falls,."
   },
   {
     "id": "weather-30",
@@ -2962,8 +2910,7 @@
     "order_passive_1": "greenhouse,gases,are,released,by,burning,fossil,fuels,.",
     "order_subordinate_1": "when,fossil,fuels,burn,,,greenhouse,gases,trap,heat,.",
     "order_subordinate_beginner_2": "greenhouse gases,trap,heat,when,fossil fuels burn,.",
-    "order_subordinate_2": "greenhouse,gases,trap,heat,when,fossil,fuels,burn,.",
-    "order_passive_beginner_2": "by burning,fossil fuels,greenhouse gases,are released,."
+    "order_subordinate_2": "greenhouse,gases,trap,heat,when,fossil,fuels,burn,."
   },
   {
     "id": "weather-31",
@@ -3154,8 +3101,7 @@
     "order_passive_1": "heat,islands,are,created,by,cities,and,buildings,.",
     "order_subordinate_1": "because,cities,lack,trees,,,temperatures,rise,higher,.",
     "order_subordinate_beginner_2": "temperatures,rise higher,because,cities lack trees,.",
-    "order_subordinate_2": "temperatures,rise,higher,because,cities,lack,trees,.",
-    "order_passive_beginner_2": "by,cities and buildings,heat islands,are created,."
+    "order_subordinate_2": "temperatures,rise,higher,because,cities,lack,trees,."
   },
   {
     "id": "weather-33",
@@ -3250,9 +3196,7 @@
     "order_passive_1": "equatorial,regions,are,kept,warm,by,direct,sunlight,.",
     "order_subordinate_1": "because,sunlight,hits,directly,,,the,equator,stays,warm,.",
     "order_subordinate_beginner_2": "the equator,stays warm,because,sunlight hits directly,.",
-    "order_subordinate_2": "the,equator,stays,warm,because,sunlight,hits,directly,.",
-    "order_passive_beginner_2": "by,direct sunlight,equatorial regions,are kept warm,.",
-    "order_passive_2": "by,direct,sunlight,equatorial,regions,are,kept,warm,."
+    "order_subordinate_2": "the,equator,stays,warm,because,sunlight,hits,directly,."
   },
   {
     "id": "weather-34",
@@ -3348,8 +3292,7 @@
     "order_passive_1": "less,heat,is,received,by,polar,regions,from,sunlight,.",
     "order_subordinate_1": "because,sunlight,spreads,out,at,poles,,,less,heat,arrives,.",
     "order_subordinate_beginner_2": "less heat,arrives,because,sunlight spreads out,at poles,.",
-    "order_subordinate_2": "less,heat,arrives,because,sunlight,spreads,out,at,poles,.",
-    "order_passive_beginner_2": "by polar regions,from sunlight,less heat,is received,."
+    "order_subordinate_2": "less,heat,arrives,because,sunlight,spreads,out,at,poles,."
   },
   {
     "id": "weather-35",
@@ -3441,11 +3384,7 @@
     "order_passive_1": "seasons,are,created,by,Earth's,tilt,.",
     "order_subordinate_1": "because,Earth,tilts,,,temperate,zones,have,four,seasons,.",
     "order_subordinate_beginner_2": "temperate zones,have,four seasons,because,Earth tilts,.",
-    "order_subordinate_2": "temperate,zones,have,four,seasons,because,Earth,tilts,.",
-    "order_active_beginner_2": "in temperate zones,Earth's tilt,creates,seasons,.",
-    "order_progressive_beginner_2": "in temperate zones,Earth's tilt,is creating,seasons,.",
-    "order_passive_beginner_2": "by,Earth's tilt,seasons,are created,.",
-    "order_passive_2": "by,Earth's,tilt,seasons,are,created,."
+    "order_subordinate_2": "temperate,zones,have,four,seasons,because,Earth,tilts,."
   },
   {
     "id": "weather-36",
@@ -3537,9 +3476,7 @@
     "order_passive_1": "precipitation,amounts,are,measured,by,rain,gauges,.",
     "order_subordinate_1": "after,rain,falls,,,the,gauge,shows,how,much,fell,.",
     "order_subordinate_beginner_2": "the gauge,shows,how much fell,after,rain falls,.",
-    "order_subordinate_2": "the,gauge,shows,how,much,fell,after,rain,falls,.",
-    "order_passive_beginner_2": "by,rain gauges,precipitation amounts,are measured,.",
-    "order_passive_2": "by,rain,gauges,precipitation,amounts,are,measured,."
+    "order_subordinate_2": "the,gauge,shows,how,much,fell,after,rain,falls,."
   },
   {
     "id": "weather-37",
@@ -3631,9 +3568,7 @@
     "order_passive_1": "weather,patterns,are,predicted,by,meteorologists,.",
     "order_subordinate_1": "after,analyzing,data,,,meteorologists,issue,forecasts,.",
     "order_subordinate_beginner_2": "meteorologists,issue,forecasts,after,analyzing data,.",
-    "order_subordinate_2": "meteorologists,issue,forecasts,after,analyzing,data,.",
-    "order_passive_beginner_2": "by,meteorologists,weather patterns,are predicted,.",
-    "order_passive_2": "by,meteorologists,weather,patterns,are,predicted,."
+    "order_subordinate_2": "meteorologists,issue,forecasts,after,analyzing,data,."
   },
   {
     "id": "weather-38",
@@ -3822,11 +3757,7 @@
     "order_passive_1": "rain,within,24,hours,is,signaled,by,cirrostratus,clouds,.",
     "order_subordinate_1": "when,cirrostratus,clouds,appear,,,rain,approaches,soon,.",
     "order_subordinate_beginner_2": "rain,approaches soon,when,cirrostratus clouds appear,.",
-    "order_subordinate_2": "rain,approaches,soon,when,cirrostratus,clouds,appear,.",
-    "order_active_beginner_2": "within 24 hours,cirrostratus clouds,signal,rain,.",
-    "order_progressive_beginner_2": "within 24 hours,cirrostratus clouds,are signaling,rain,.",
-    "order_passive_beginner_2": "by,cirrostratus clouds,rain within 24 hours,is signaled,.",
-    "order_passive_2": "by,cirrostratus,clouds,rain,within,24,hours,is,signaled,."
+    "order_subordinate_2": "rain,approaches,soon,when,cirrostratus,clouds,appear,."
   },
   {
     "id": "weather-40",
@@ -3913,9 +3844,7 @@
     "order_passive_1": "little,precipitation,is,produced,by,stratocumulus,clouds,.",
     "order_subordinate_1": "although,stratocumulus,clouds,form,,,little,rain,falls,.",
     "order_subordinate_beginner_2": "little rain,falls,although,stratocumulus clouds form,.",
-    "order_subordinate_2": "little,rain,falls,although,stratocumulus,clouds,form,.",
-    "order_passive_beginner_2": "by,stratocumulus clouds,little precipitation,is produced,.",
-    "order_passive_2": "by,stratocumulus,clouds,little,precipitation,is,produced,."
+    "order_subordinate_2": "little,rain,falls,although,stratocumulus,clouds,form,."
   },
   {
     "id": "weather-41",

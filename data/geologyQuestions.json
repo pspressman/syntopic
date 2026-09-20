@@ -3,674 +3,1506 @@
     "text_segment": "Deep beneath a volcano, molten rock churns at over 1000 degrees Celsius. As it rises toward the surface, the temperature drops. Some magma cools slowly, buried kilometers underground. Other magma explodes through vents and cools almost instantly.",
     "question": "Explain how granite forms",
     "topic": "igneous_rocks",
-    
-    "tiles_active": ["magma", "cools slowly", "underground"],
-    "tiles_active_advanced": ["magma", "cools", "slowly", "underground"],
+    "tiles_active": [
+      "magma",
+      "cools slowly",
+      "underground"
+    ],
+    "tiles_active_advanced": [
+      "magma",
+      "cools",
+      "slowly",
+      "underground"
+    ],
     "order_active_beginner_1": "magma,cools slowly,underground",
     "order_active_beginner_2": "underground,magma,cools slowly",
     "order_active_1": "magma,cools,slowly,underground",
-    "order_active_2": "magma,slowly,cools,underground",
-    "order_active_3": "underground,magma,cools,slowly",
-    
-    "tiles_progressive": ["magma", "is cooling", "slowly", "underground"],
-    "tiles_progressive_advanced": ["magma", "is", "cooling", "slowly", "underground"],
-    "order_progressive_beginner_1": "magma,is cooling,slowly,underground",
-    "order_progressive_beginner_2": "magma,slowly,is cooling,underground",
-    "order_progressive_beginner_3": "underground,magma,is cooling,slowly",
+    "order_active_2": "underground,magma,cools,slowly",
+    "order_active_3": "magma,slowly,cools,underground",
+    "order_active_4": "slowly,magma,cools,underground",
+    "tiles_progressive": [
+      "magma",
+      "is",
+      "cooling slowly",
+      "underground"
+    ],
+    "tiles_progressive_advanced": [
+      "magma",
+      "is",
+      "cooling",
+      "slowly",
+      "underground"
+    ],
+    "order_progressive_beginner_1": "magma,is,cooling slowly,underground",
+    "order_progressive_beginner_2": "underground,magma,is,cooling slowly",
     "order_progressive_1": "magma,is,cooling,slowly,underground",
-    "order_progressive_2": "magma,is,slowly,cooling,underground",
-    "order_progressive_3": "magma,slowly,is,cooling,underground",
-    "order_progressive_4": "underground,magma,is,cooling,slowly",
-    
-    "tiles_passive": ["underground", "magma", "is cooled", "slowly"],
-    "tiles_passive_advanced": ["underground", "magma", "is", "cooled", "slowly"],
-    "order_passive_beginner_1": "underground,magma,is cooled,slowly",
-    "order_passive_beginner_2": "magma,is cooled,slowly,underground",
-    "order_passive_1": "underground,magma,is,cooled,slowly",
-    "order_passive_2": "magma,is,cooled,slowly,underground",
-    "order_passive_3": "magma,is,slowly,cooled,underground",
-    "order_passive_4": "underground,magma,is,slowly,cooled",
-    
-    "tiles_subordinate": ["when magma cools slowly", "large crystals", "form"],
-    "tiles_subordinate_advanced": ["when", "magma", "cools", "slowly", "large", "crystals", "form"],
+    "order_progressive_2": "underground,magma,is,cooling,slowly",
+    "order_progressive_3": "magma,is,slowly,cooling,underground",
+    "order_progressive_4": "slowly,magma,is,cooling,underground",
+    "tiles_passive": [
+      "magma",
+      "is cooled",
+      "slowly",
+      "underground"
+    ],
+    "tiles_passive_advanced": [
+      "magma",
+      "is",
+      "cooled",
+      "slowly",
+      "underground"
+    ],
+    "order_passive_beginner_1": "magma,is cooled,slowly,underground",
+    "order_passive_beginner_2": "underground,magma,is cooled,slowly",
+    "order_passive_beginner_3": "slowly,magma,is cooled,underground",
+    "order_passive_1": "magma,is,cooled,slowly,underground",
+    "order_passive_2": "underground,magma,is,cooled,slowly",
+    "order_passive_3": "slowly,magma,is,cooled,underground",
+    "tiles_subordinate": [
+      "when magma cools slowly",
+      "large crystals",
+      "form"
+    ],
+    "tiles_subordinate_advanced": [
+      "when",
+      "magma",
+      "cools",
+      "slowly",
+      "large",
+      "crystals",
+      "form"
+    ],
     "order_subordinate_beginner_1": "when magma cools slowly,large crystals,form",
     "order_subordinate_beginner_2": "large crystals,form,when magma cools slowly",
     "order_subordinate_1": "when,magma,cools,slowly,large,crystals,form",
-    "order_subordinate_2": "when,magma,slowly,cools,large,crystals,form",
-    "order_subordinate_3": "large,crystals,form,when,magma,cools,slowly",
-    "order_subordinate_4": "large,crystals,form,when,magma,slowly,cools"
+    "order_subordinate_2": "large,crystals,form,when,magma,cools,slowly"
   },
   {
-    "text_segment": "Deep beneath a volcano, molten rock churns at over 1000 degrees Celsius. As it rises toward the surface, the temperature drops. Some magma cools slowly, buried kilometers underground. Other magma explodes through vents and cools almost instantly.",
+    "text_segment": "When lava erupts from a volcano and hits cool air or water, it freezes almost instantly. This rapid cooling gives the rock a glassy or fine-grained texture. Obsidian and basalt are examples of quickly cooled volcanic rocks.",
     "question": "Describe what happens when lava cools quickly",
     "topic": "igneous_rocks",
-    
-    "tiles_active": ["quick cooling", "creates", "tiny crystals"],
-    "tiles_active_advanced": ["quick", "cooling", "creates", "tiny", "crystals"],
+    "tiles_active": [
+      "quick cooling",
+      "creates",
+      "tiny crystals"
+    ],
+    "tiles_active_advanced": [
+      "quick",
+      "cooling",
+      "creates",
+      "tiny",
+      "crystals"
+    ],
     "order_active_beginner_1": "quick cooling,creates,tiny crystals",
     "order_active_1": "quick,cooling,creates,tiny,crystals",
-    
-    "tiles_progressive": ["quick cooling", "is creating", "tiny crystals"],
-    "tiles_progressive_advanced": ["quick", "cooling", "is", "creating", "tiny", "crystals"],
+    "tiles_progressive": [
+      "quick cooling",
+      "is creating",
+      "tiny crystals"
+    ],
+    "tiles_progressive_advanced": [
+      "quick",
+      "cooling",
+      "is",
+      "creating",
+      "tiny",
+      "crystals"
+    ],
     "order_progressive_beginner_1": "quick cooling,is creating,tiny crystals",
     "order_progressive_1": "quick,cooling,is,creating,tiny,crystals",
-    
-    "tiles_passive": ["tiny crystals", "are created", "by quick cooling"],
-    "tiles_passive_advanced": ["tiny", "crystals", "are", "created", "by", "quick", "cooling"],
+    "tiles_passive": [
+      "tiny crystals",
+      "are created",
+      "by quick cooling"
+    ],
+    "tiles_passive_advanced": [
+      "tiny",
+      "crystals",
+      "are",
+      "created",
+      "by",
+      "quick",
+      "cooling"
+    ],
     "order_passive_beginner_1": "tiny crystals,are created,by quick cooling",
     "order_passive_beginner_2": "by quick cooling,tiny crystals,are created",
     "order_passive_1": "tiny,crystals,are,created,by,quick,cooling",
     "order_passive_2": "by,quick,cooling,tiny,crystals,are,created",
-    
-    "tiles_subordinate": ["when lava cools quickly", "tiny crystals", "form"],
-    "tiles_subordinate_advanced": ["when", "lava", "cools", "quickly", "tiny", "crystals", "form"],
-    "order_subordinate_beginner_1": "when lava cools quickly,tiny crystals,form",
-    "order_subordinate_beginner_2": "tiny crystals,form,when lava cools quickly",
-    "order_subordinate_1": "when,lava,cools,quickly,tiny,crystals,form",
-    "order_subordinate_2": "when,lava,quickly,cools,tiny,crystals,form",
-    "order_subordinate_3": "tiny,crystals,form,when,lava,cools,quickly",
-    "order_subordinate_4": "tiny,crystals,form,when,lava,quickly,cools"
+    "tiles_subordinate": [
+      "because lava cools quickly",
+      "crystals",
+      "stay tiny"
+    ],
+    "tiles_subordinate_advanced": [
+      "because",
+      "lava",
+      "cools",
+      "quickly",
+      "crystals",
+      "stay",
+      "tiny"
+    ],
+    "order_subordinate_beginner_1": "because lava cools quickly,crystals,stay tiny",
+    "order_subordinate_beginner_2": "crystals,stay tiny,because lava cools quickly",
+    "order_subordinate_1": "because,lava,cools,quickly,crystals,stay,tiny",
+    "order_subordinate_2": "crystals,stay,tiny,because,lava,cools,quickly"
   },
   {
-    "text_segment": "Sedimentary rocks form when small pieces of rock, minerals, and organic material settle in layers. Over millions of years, the weight of new layers presses down on old layers.",
+    "text_segment": "Rivers carry sand, mud, and pebbles downstream. When the water slows, these particles settle to the bottom. Over millions of years, layer after layer builds up. The weight of new layers presses down on old layers.",
     "question": "Explain how sedimentary rocks form from layers",
     "topic": "sedimentary_rocks",
-    
-    "tiles_active": ["layers of sediment", "cement together", "over time"],
-    "tiles_active_advanced": ["layers", "of", "sediment", "cement", "together", "over", "time"],
+    "tiles_active": [
+      "layers of sediment",
+      "cement together",
+      "over time"
+    ],
+    "tiles_active_advanced": [
+      "layers",
+      "of",
+      "sediment",
+      "cement",
+      "together",
+      "over",
+      "time"
+    ],
     "order_active_beginner_1": "layers of sediment,cement together,over time",
     "order_active_beginner_2": "over time,layers of sediment,cement together",
     "order_active_1": "layers,of,sediment,cement,together,over,time",
     "order_active_2": "over,time,layers,of,sediment,cement,together",
-    
-    "tiles_progressive": ["layers of sediment", "are cementing together", "over time"],
-    "tiles_progressive_advanced": ["layers", "of", "sediment", "are", "cementing", "together", "over", "time"],
+    "tiles_progressive": [
+      "layers of sediment",
+      "are cementing together",
+      "over time"
+    ],
+    "tiles_progressive_advanced": [
+      "layers",
+      "of",
+      "sediment",
+      "are",
+      "cementing",
+      "together",
+      "over",
+      "time"
+    ],
     "order_progressive_beginner_1": "layers of sediment,are cementing together,over time",
     "order_progressive_beginner_2": "over time,layers of sediment,are cementing together",
     "order_progressive_1": "layers,of,sediment,are,cementing,together,over,time",
     "order_progressive_2": "over,time,layers,of,sediment,are,cementing,together",
-    
-    "tiles_passive": ["sediment layers", "are cemented together", "over time"],
-    "tiles_passive_advanced": ["sediment", "layers", "are", "cemented", "together", "over", "time"],
+    "tiles_passive": [
+      "sediment layers",
+      "are cemented together",
+      "over time"
+    ],
+    "tiles_passive_advanced": [
+      "sediment",
+      "layers",
+      "are",
+      "cemented",
+      "together",
+      "over",
+      "time"
+    ],
     "order_passive_beginner_1": "sediment layers,are cemented together,over time",
     "order_passive_beginner_2": "over time,sediment layers,are cemented together",
     "order_passive_1": "sediment,layers,are,cemented,together,over,time",
     "order_passive_2": "over,time,sediment,layers,are,cemented,together",
-    
-    "tiles_subordinate": ["when layers pile up", "pressure", "cements them"],
-    "tiles_subordinate_advanced": ["when", "layers", "pile", "up", "pressure", "cements", "them"],
+    "tiles_subordinate": [
+      "when layers pile up",
+      "pressure",
+      "cements them"
+    ],
+    "tiles_subordinate_advanced": [
+      "when",
+      "layers",
+      "pile",
+      "up",
+      "pressure",
+      "cements",
+      "them"
+    ],
     "order_subordinate_beginner_1": "when layers pile up,pressure,cements them",
-    "order_subordinate_beginner_2": "pressure,cements them,when layers pile up",
     "order_subordinate_1": "when,layers,pile,up,pressure,cements,them",
-    "order_subordinate_2": "pressure,cements,them,when,layers,pile,up"
+    "order_subordinate_2": "pressure,cements,them,when,layers,pile,up",
+    "order_subordinate_beginner_2": "pressure,cements them,when layers pile up"
   },
   {
     "text_segment": "Fossils are preserved remains or traces of ancient organisms. Most fossils form in sedimentary rocks. When organisms die and are buried by sediment, they may be preserved over millions of years.",
-    "question": "Explain how fossils form",
+    "question": "Describe where fossils are commonly found",
     "topic": "sedimentary_rocks",
-    
-    "tiles_active": ["sediment", "buries organisms", "quickly"],
-    "tiles_active_advanced": ["sediment", "buries", "organisms", "quickly"],
-    "order_active_beginner_1": "sediment,buries organisms,quickly",
-    "order_active_1": "sediment,buries,organisms,quickly",
-    
-    "tiles_progressive": ["sediment", "is burying organisms", "quickly"],
-    "tiles_progressive_advanced": ["sediment", "is", "burying", "organisms", "quickly"],
-    "order_progressive_beginner_1": "sediment,is burying organisms,quickly",
-    "order_progressive_1": "sediment,is,burying,organisms,quickly",
-    
-    "tiles_passive": ["organisms", "are buried", "by sediment"],
-    "tiles_passive_advanced": ["organisms", "are", "buried", "by", "sediment"],
-    "order_passive_beginner_1": "organisms,are buried,by sediment",
-    "order_passive_beginner_2": "by sediment,organisms,are buried",
-    "order_passive_1": "organisms,are,buried,by,sediment",
-    "order_passive_2": "by,sediment,organisms,are,buried",
-    
-    "tiles_subordinate": ["when organisms are buried quickly", "they", "may fossilize"],
-    "tiles_subordinate_advanced": ["when", "organisms", "are", "buried", "quickly", "they", "may", "fossilize"],
-    "order_subordinate_beginner_1": "when organisms are buried quickly,they,may fossilize",
-    "order_subordinate_beginner_2": "they,may fossilize,when organisms are buried quickly",
-    "order_subordinate_1": "when,organisms,are,buried,quickly,they,may,fossilize",
-    "order_subordinate_2": "they,may,fossilize,when,organisms,are,buried,quickly"
+    "tiles_active": [
+      "fossils",
+      "form",
+      "in sedimentary rocks"
+    ],
+    "tiles_active_advanced": [
+      "fossils",
+      "form",
+      "in",
+      "sedimentary",
+      "rocks"
+    ],
+    "order_active_beginner_1": "fossils,form,in sedimentary rocks",
+    "order_active_beginner_2": "in sedimentary rocks,fossils,form",
+    "order_active_1": "fossils,form,in,sedimentary,rocks",
+    "order_active_2": "in,sedimentary,rocks,fossils,form",
+    "tiles_progressive": [
+      "fossils",
+      "are forming",
+      "in sedimentary rocks"
+    ],
+    "tiles_progressive_advanced": [
+      "fossils",
+      "are",
+      "forming",
+      "in",
+      "sedimentary",
+      "rocks"
+    ],
+    "order_progressive_beginner_1": "fossils,are forming,in sedimentary rocks",
+    "order_progressive_beginner_2": "in sedimentary rocks,fossils,are forming",
+    "order_progressive_1": "fossils,are,forming,in,sedimentary,rocks",
+    "order_progressive_2": "in,sedimentary,rocks,fossils,are,forming",
+    "tiles_passive": [
+      "fossils",
+      "are found",
+      "in sedimentary rocks"
+    ],
+    "tiles_passive_advanced": [
+      "fossils",
+      "are",
+      "found",
+      "in",
+      "sedimentary",
+      "rocks"
+    ],
+    "order_passive_beginner_1": "fossils,are found,in sedimentary rocks",
+    "order_passive_beginner_2": "in sedimentary rocks,fossils,are found",
+    "order_passive_1": "fossils,are,found,in,sedimentary,rocks",
+    "order_passive_2": "in,sedimentary,rocks,fossils,are,found",
+    "tiles_subordinate": [
+      "when sediment buries organisms",
+      "fossils",
+      "may form"
+    ],
+    "tiles_subordinate_advanced": [
+      "when",
+      "sediment",
+      "buries",
+      "organisms",
+      "fossils",
+      "may",
+      "form"
+    ],
+    "order_subordinate_beginner_1": "when sediment buries organisms,fossils,may form",
+    "order_subordinate_beginner_2": "fossils,may form,when sediment buries organisms",
+    "order_subordinate_1": "when,sediment,buries,organisms,fossils,may,form",
+    "order_subordinate_2": "fossils,may,form,when,sediment,buries,organisms"
   },
   {
-    "text_segment": "Limestone is a common sedimentary rock formed from calcium carbonate. Most limestone comes from marine organisms like coral and shellfish. When these creatures die, their shells accumulate on the ocean floor.",
-    "question": "Describe how limestone forms",
-    "topic": "sedimentary_rocks",
-    
-    "tiles_active": ["shells", "accumulate", "on the seafloor"],
-    "tiles_active_advanced": ["shells", "accumulate", "on", "the", "seafloor"],
-    "order_active_beginner_1": "shells,accumulate,on the seafloor",
-    "order_active_beginner_2": "on the seafloor,shells,accumulate",
-    "order_active_1": "shells,accumulate,on,the,seafloor",
-    "order_active_2": "on,the,seafloor,shells,accumulate",
-    
-    "tiles_progressive": ["shells", "are accumulating", "on the seafloor"],
-    "tiles_progressive_advanced": ["shells", "are", "accumulating", "on", "the", "seafloor"],
-    "order_progressive_beginner_1": "shells,are accumulating,on the seafloor",
-    "order_progressive_beginner_2": "on the seafloor,shells,are accumulating",
-    "order_progressive_1": "shells,are,accumulating,on,the,seafloor",
-    "order_progressive_2": "on,the,seafloor,shells,are,accumulating",
-    
-    "tiles_passive": ["calcium carbonate", "is deposited", "from shells"],
-    "tiles_passive_advanced": ["calcium", "carbonate", "is", "deposited", "from", "shells"],
-    "order_passive_beginner_1": "calcium carbonate,is deposited,from shells",
-    "order_passive_beginner_2": "from shells,calcium carbonate,is deposited",
-    "order_passive_1": "calcium,carbonate,is,deposited,from,shells",
-    "order_passive_2": "from,shells,calcium,carbonate,is,deposited",
-    
-    "tiles_subordinate": ["when shells accumulate", "limestone", "forms"],
-    "tiles_subordinate_advanced": ["when", "shells", "accumulate", "limestone", "forms"],
-    "order_subordinate_beginner_1": "when shells accumulate,limestone,forms",
-    "order_subordinate_beginner_2": "limestone,forms,when shells accumulate",
-    "order_subordinate_1": "when,shells,accumulate,limestone,forms",
-    "order_subordinate_2": "limestone,forms,when,shells,accumulate"
-  },
-  {
-    "text_segment": "When sedimentary or igneous rocks experience extreme heat and pressure deep underground, they transform into metamorphic rocks. The minerals rearrange without melting.",
-    "question": "Explain what metamorphism means",
-    "topic": "metamorphic_rocks",
-    
-    "tiles_active": ["heat and pressure", "transform", "existing rocks"],
-    "tiles_active_advanced": ["heat", "and", "pressure", "transform", "existing", "rocks"],
-    "order_active_beginner_1": "heat and pressure,transform,existing rocks",
-    "order_active_1": "heat,and,pressure,transform,existing,rocks",
-    
-    "tiles_progressive": ["heat and pressure", "are transforming", "existing rocks"],
-    "tiles_progressive_advanced": ["heat", "and", "pressure", "are", "transforming", "existing", "rocks"],
-    "order_progressive_beginner_1": "heat and pressure,are transforming,existing rocks",
-    "order_progressive_1": "heat,and,pressure,are,transforming,existing,rocks",
-    
-    "tiles_passive": ["existing rocks", "are transformed", "by heat and pressure"],
-    "tiles_passive_advanced": ["existing", "rocks", "are", "transformed", "by", "heat", "and", "pressure"],
-    "order_passive_beginner_1": "existing rocks,are transformed,by heat and pressure",
-    "order_passive_beginner_2": "by heat and pressure,existing rocks,are transformed",
-    "order_passive_1": "existing,rocks,are,transformed,by,heat,and,pressure",
-    "order_passive_2": "by,heat,and,pressure,existing,rocks,are,transformed",
-    
-    "tiles_subordinate": ["when rocks experience heat", "they", "become metamorphic"],
-    "tiles_subordinate_advanced": ["when", "rocks", "experience", "heat", "they", "become", "metamorphic"],
-    "order_subordinate_beginner_1": "when rocks experience heat,they,become metamorphic",
-    "order_subordinate_beginner_2": "they,become metamorphic,when rocks experience heat",
-    "order_subordinate_1": "when,rocks,experience,heat,they,become,metamorphic",
-    "order_subordinate_2": "they,become,metamorphic,when,rocks,experience,heat"
-  },
-  {
-    "text_segment": "Marble is a metamorphic rock formed from limestone. When limestone undergoes metamorphism, its calcite crystals grow larger and interlock. This gives marble its characteristic smooth texture and makes it useful for sculpture.",
-    "question": "Describe how marble forms from limestone",
-    "topic": "metamorphic_rocks",
-    
-    "tiles_active": ["limestone", "recrystallizes", "into marble"],
-    "tiles_active_advanced": ["limestone", "recrystallizes", "into", "marble"],
-    "order_active_beginner_1": "limestone,recrystallizes,into marble",
-    "order_active_1": "limestone,recrystallizes,into,marble",
-    
-    "tiles_progressive": ["limestone", "is recrystallizing", "into marble"],
-    "tiles_progressive_advanced": ["limestone", "is", "recrystallizing", "into", "marble"],
-    "order_progressive_beginner_1": "limestone,is recrystallizing,into marble",
-    "order_progressive_1": "limestone,is,recrystallizing,into,marble",
-    
-    "tiles_passive": ["marble", "is formed", "from limestone"],
-    "tiles_passive_advanced": ["marble", "is", "formed", "from", "limestone"],
-    "order_passive_beginner_1": "marble,is formed,from limestone",
-    "order_passive_beginner_2": "from limestone,marble,is formed",
-    "order_passive_1": "marble,is,formed,from,limestone",
-    "order_passive_2": "from,limestone,marble,is,formed",
-    
-    "tiles_subordinate": ["when limestone undergoes metamorphism", "it", "becomes marble"],
-    "tiles_subordinate_advanced": ["when", "limestone", "undergoes", "metamorphism", "it", "becomes", "marble"],
-    "order_subordinate_beginner_1": "when limestone undergoes metamorphism,it,becomes marble",
-    "order_subordinate_beginner_2": "it,becomes marble,when limestone undergoes metamorphism",
-    "order_subordinate_1": "when,limestone,undergoes,metamorphism,it,becomes,marble",
-    "order_subordinate_2": "it,becomes,marble,when,limestone,undergoes,metamorphism"
-  },
-  {
-    "text_segment": "Slate is a metamorphic rock formed from shale. Under pressure, the clay minerals in shale align parallel to each other. This alignment allows slate to split easily into thin, flat sheets, making it useful for roofing.",
-    "question": "Explain how slate develops cleavage",
-    "topic": "metamorphic_rocks",
-    
-    "tiles_active": ["pressure", "aligns minerals", "in parallel"],
-    "tiles_active_advanced": ["pressure", "aligns", "minerals", "in", "parallel"],
-    "order_active_beginner_1": "pressure,aligns minerals,in parallel",
-    "order_active_1": "pressure,aligns,minerals,in,parallel",
-    
-    "tiles_progressive": ["pressure", "is aligning minerals", "in parallel"],
-    "tiles_progressive_advanced": ["pressure", "is", "aligning", "minerals", "in", "parallel"],
-    "order_progressive_beginner_1": "pressure,is aligning minerals,in parallel",
-    "order_progressive_1": "pressure,is,aligning,minerals,in,parallel",
-    
-    "tiles_passive": ["minerals", "are aligned", "by pressure"],
-    "tiles_passive_advanced": ["minerals", "are", "aligned", "by", "pressure"],
-    "order_passive_beginner_1": "minerals,are aligned,by pressure",
-    "order_passive_beginner_2": "by pressure,minerals,are aligned",
-    "order_passive_1": "minerals,are,aligned,by,pressure",
-    "order_passive_2": "by,pressure,minerals,are,aligned",
-    
-    "tiles_subordinate": ["when pressure aligns minerals", "slate", "forms"],
-    "tiles_subordinate_advanced": ["when", "pressure", "aligns", "minerals", "slate", "forms"],
-    "order_subordinate_beginner_1": "when pressure aligns minerals,slate,forms",
-    "order_subordinate_beginner_2": "slate,forms,when pressure aligns minerals",
-    "order_subordinate_1": "when,pressure,aligns,minerals,slate,forms",
-    "order_subordinate_2": "slate,forms,when,pressure,aligns,minerals"
-  },
-  {
-    "text_segment": "Weathering is the breakdown of rocks at Earth's surface. Physical weathering breaks rocks into smaller pieces without changing their composition. Chemical weathering alters the minerals within rocks.",
-    "question": "Describe what weathering does to rocks",
-    "topic": "weathering",
-    
-    "tiles_active": ["weathering", "breaks down", "surface rocks"],
-    "tiles_active_advanced": ["weathering", "breaks", "down", "surface", "rocks"],
-    "order_active_beginner_1": "weathering,breaks down,surface rocks",
-    "order_active_1": "weathering,breaks,down,surface,rocks",
-    
-    "tiles_progressive": ["weathering", "is breaking down", "surface rocks"],
-    "tiles_progressive_advanced": ["weathering", "is", "breaking", "down", "surface", "rocks"],
-    "order_progressive_beginner_1": "weathering,is breaking down,surface rocks",
-    "order_progressive_1": "weathering,is,breaking,down,surface,rocks",
-    
-    "tiles_passive": ["surface rocks", "are broken down", "by weathering"],
-    "tiles_passive_advanced": ["surface", "rocks", "are", "broken", "down", "by", "weathering"],
-    "order_passive_beginner_1": "surface rocks,are broken down,by weathering",
-    "order_passive_beginner_2": "by weathering,surface rocks,are broken down",
-    "order_passive_1": "surface,rocks,are,broken,down,by,weathering",
-    "order_passive_2": "by,weathering,surface,rocks,are,broken,down",
-    
-    "tiles_subordinate": ["when rocks are exposed", "weathering", "breaks them down"],
-    "tiles_subordinate_advanced": ["when", "rocks", "are", "exposed", "weathering", "breaks", "them", "down"],
-    "order_subordinate_beginner_1": "when rocks are exposed,weathering,breaks them down",
-    "order_subordinate_beginner_2": "weathering,breaks them down,when rocks are exposed",
-    "order_subordinate_1": "when,rocks,are,exposed,weathering,breaks,them,down",
-    "order_subordinate_2": "weathering,breaks,them,down,when,rocks,are,exposed"
-  },
-  {
-    "text_segment": "Freeze-thaw weathering occurs when water enters rock cracks and freezes. As water turns to ice, it expands by about 9%, exerting tremendous pressure. Repeated freezing and thawing eventually splits the rock apart.",
+    "text_segment": "Rainwater soaks into cracks in rocks. When winter comes, the water freezes and expands. The ice pushes outward with tremendous force. Over many freeze-thaw cycles, the rock splits apart.",
     "question": "Explain how ice breaks rocks",
     "topic": "weathering",
-    
-    "tiles_active": ["freezing water", "expands", "in cracks"],
-    "tiles_active_advanced": ["freezing", "water", "expands", "in", "cracks"],
-    "order_active_beginner_1": "freezing water,expands,in cracks",
-    "order_active_beginner_2": "in cracks,freezing water,expands",
-    "order_active_1": "freezing,water,expands,in,cracks",
-    "order_active_2": "in,cracks,freezing,water,expands",
-    
-    "tiles_progressive": ["freezing water", "is expanding", "in cracks"],
-    "tiles_progressive_advanced": ["freezing", "water", "is", "expanding", "in", "cracks"],
-    "order_progressive_beginner_1": "freezing water,is expanding,in cracks",
-    "order_progressive_beginner_2": "in cracks,freezing water,is expanding",
-    "order_progressive_1": "freezing,water,is,expanding,in,cracks",
-    "order_progressive_2": "in,cracks,freezing,water,is,expanding",
-    
-    "tiles_passive": ["rocks", "are split", "by expanding ice"],
-    "tiles_passive_advanced": ["rocks", "are", "split", "by", "expanding", "ice"],
+    "tiles_active": [
+      "freezing water",
+      "expands and",
+      "splits rocks"
+    ],
+    "tiles_active_advanced": [
+      "freezing",
+      "water",
+      "expands",
+      "and",
+      "splits",
+      "rocks"
+    ],
+    "order_active_beginner_1": "freezing water,expands and,splits rocks",
+    "order_active_1": "freezing,water,expands,and,splits,rocks",
+    "tiles_progressive": [
+      "freezing water",
+      "is expanding and",
+      "splitting rocks"
+    ],
+    "tiles_progressive_advanced": [
+      "freezing",
+      "water",
+      "is",
+      "expanding",
+      "and",
+      "splitting",
+      "rocks"
+    ],
+    "order_progressive_beginner_1": "freezing water,is expanding and,splitting rocks",
+    "order_progressive_1": "freezing,water,is,expanding,and,splitting,rocks",
+    "tiles_passive": [
+      "rocks",
+      "are split",
+      "by expanding ice"
+    ],
+    "tiles_passive_advanced": [
+      "rocks",
+      "are",
+      "split",
+      "by",
+      "expanding",
+      "ice"
+    ],
     "order_passive_beginner_1": "rocks,are split,by expanding ice",
     "order_passive_beginner_2": "by expanding ice,rocks,are split",
     "order_passive_1": "rocks,are,split,by,expanding,ice",
     "order_passive_2": "by,expanding,ice,rocks,are,split",
-    
-    "tiles_subordinate": ["when water freezes in cracks", "it", "breaks rocks"],
-    "tiles_subordinate_advanced": ["when", "water", "freezes", "in", "cracks", "it", "breaks", "rocks"],
-    "order_subordinate_beginner_1": "when water freezes in cracks,it,breaks rocks",
-    "order_subordinate_beginner_2": "it,breaks rocks,when water freezes in cracks",
-    "order_subordinate_1": "when,water,freezes,in,cracks,it,breaks,rocks",
-    "order_subordinate_2": "it,breaks,rocks,when,water,freezes,in,cracks"
+    "tiles_subordinate": [
+      "when water freezes in cracks",
+      "it",
+      "splits rocks"
+    ],
+    "tiles_subordinate_advanced": [
+      "when",
+      "water",
+      "freezes",
+      "in",
+      "cracks",
+      "it",
+      "splits",
+      "rocks"
+    ],
+    "order_subordinate_beginner_1": "when water freezes in cracks,it,splits rocks",
+    "order_subordinate_1": "when,water,freezes,in,cracks,it,splits,rocks",
+    "order_subordinate_2": "it,splits,rocks,when,water,freezes,in,cracks",
+    "order_subordinate_beginner_2": "it,splits rocks,when water freezes in cracks"
   },
   {
-    "text_segment": "Chemical weathering occurs when minerals react with water, oxygen, or acids. Feldspar, a common mineral in granite, reacts with water to form clay. This process slowly weakens the rock.",
-    "question": "Describe how feldspar weathers",
+    "text_segment": "Wind and flowing water carry rock pieces away. This process is called erosion. Broken rock pieces travel downstream in rivers or blow across deserts. Eventually, they settle in new locations.",
+    "question": "Describe what happens to broken rock pieces",
     "topic": "weathering",
-    
-    "tiles_active": ["water", "converts feldspar", "to clay"],
-    "tiles_active_advanced": ["water", "converts", "feldspar", "to", "clay"],
-    "order_active_beginner_1": "water,converts feldspar,to clay",
-    "order_active_1": "water,converts,feldspar,to,clay",
-    
-    "tiles_progressive": ["water", "is converting feldspar", "to clay"],
-    "tiles_progressive_advanced": ["water", "is", "converting", "feldspar", "to", "clay"],
-    "order_progressive_beginner_1": "water,is converting feldspar,to clay",
-    "order_progressive_1": "water,is,converting,feldspar,to,clay",
-    
-    "tiles_passive": ["feldspar", "is converted", "to clay"],
-    "tiles_passive_advanced": ["feldspar", "is", "converted", "to", "clay"],
-    "order_passive_beginner_1": "feldspar,is converted,to clay",
-    "order_passive_1": "feldspar,is,converted,to,clay",
-    
-    "tiles_subordinate": ["when feldspar reacts with water", "it", "becomes clay"],
-    "tiles_subordinate_advanced": ["when", "feldspar", "reacts", "with", "water", "it", "becomes", "clay"],
-    "order_subordinate_beginner_1": "when feldspar reacts with water,it,becomes clay",
-    "order_subordinate_beginner_2": "it,becomes clay,when feldspar reacts with water",
-    "order_subordinate_1": "when,feldspar,reacts,with,water,it,becomes,clay",
-    "order_subordinate_2": "it,becomes,clay,when,feldspar,reacts,with,water"
+    "tiles_active": [
+      "wind and water",
+      "carry pieces",
+      "away"
+    ],
+    "tiles_active_advanced": [
+      "wind",
+      "and",
+      "water",
+      "carry",
+      "pieces",
+      "away"
+    ],
+    "order_active_beginner_1": "wind and water,carry pieces,away",
+    "order_active_1": "wind,and,water,carry,pieces,away",
+    "tiles_progressive": [
+      "wind and water",
+      "are carrying",
+      "pieces away"
+    ],
+    "tiles_progressive_advanced": [
+      "wind",
+      "and",
+      "water",
+      "are",
+      "carrying",
+      "pieces",
+      "away"
+    ],
+    "order_progressive_beginner_1": "wind and water,are carrying,pieces away",
+    "order_progressive_1": "wind,and,water,are,carrying,pieces,away",
+    "tiles_passive": [
+      "rock pieces",
+      "are carried away",
+      "by wind and water"
+    ],
+    "tiles_passive_advanced": [
+      "rock",
+      "pieces",
+      "are",
+      "carried",
+      "away",
+      "by",
+      "wind",
+      "and",
+      "water"
+    ],
+    "order_passive_beginner_1": "rock pieces,are carried away,by wind and water",
+    "order_passive_beginner_2": "by wind and water,rock pieces,are carried away",
+    "order_passive_1": "rock,pieces,are,carried,away,by,wind,and,water",
+    "order_passive_2": "by,wind,and,water,rock,pieces,are,carried,away",
+    "tiles_subordinate": [
+      "after rocks break apart",
+      "erosion",
+      "moves them"
+    ],
+    "tiles_subordinate_advanced": [
+      "after",
+      "rocks",
+      "break",
+      "apart",
+      "erosion",
+      "moves",
+      "them"
+    ],
+    "order_subordinate_beginner_1": "after rocks break apart,erosion,moves them",
+    "order_subordinate_1": "after,rocks,break,apart,erosion,moves,them",
+    "order_subordinate_2": "erosion,moves,them,after,rocks,break,apart",
+    "order_subordinate_beginner_2": "erosion,moves them,after rocks break apart"
   },
   {
-    "text_segment": "Erosion is the transport of weathered material from one place to another. Water, wind, ice, and gravity all cause erosion. Rivers are particularly powerful erosion agents, carrying sediment downstream.",
-    "question": "Explain how rivers cause erosion",
-    "topic": "erosion",
-    
-    "tiles_active": ["flowing water", "carries sediment", "downstream"],
-    "tiles_active_advanced": ["flowing", "water", "carries", "sediment", "downstream"],
-    "order_active_beginner_1": "flowing water,carries sediment,downstream",
-    "order_active_beginner_2": "downstream,flowing water,carries sediment",
-    "order_active_1": "flowing,water,carries,sediment,downstream",
-    "order_active_2": "downstream,flowing,water,carries,sediment",
-    
-    "tiles_progressive": ["flowing water", "is carrying sediment", "downstream"],
-    "tiles_progressive_advanced": ["flowing", "water", "is", "carrying", "sediment", "downstream"],
-    "order_progressive_beginner_1": "flowing water,is carrying sediment,downstream",
-    "order_progressive_beginner_2": "downstream,flowing water,is carrying sediment",
-    "order_progressive_1": "flowing,water,is,carrying,sediment,downstream",
-    "order_progressive_2": "downstream,flowing,water,is,carrying,sediment",
-    
-    "tiles_passive": ["sediment", "is carried downstream", "by water"],
-    "tiles_passive_advanced": ["sediment", "is", "carried", "downstream", "by", "water"],
-    "order_passive_beginner_1": "sediment,is carried downstream,by water",
-    "order_passive_beginner_2": "by water,sediment,is carried downstream",
-    "order_passive_1": "sediment,is,carried,downstream,by,water",
-    "order_passive_2": "by,water,sediment,is,carried,downstream",
-    
-    "tiles_subordinate": ["when water flows", "it", "transports sediment"],
-    "tiles_subordinate_advanced": ["when", "water", "flows", "it", "transports", "sediment"],
-    "order_subordinate_beginner_1": "when water flows,it,transports sediment",
-    "order_subordinate_beginner_2": "it,transports sediment,when water flows",
-    "order_subordinate_1": "when,water,flows,it,transports,sediment",
-    "order_subordinate_2": "it,transports,sediment,when,water,flows"
+    "text_segment": "Heat and pressure deep underground can change rocks. Limestone transforms into marble. Shale becomes slate. These changed rocks are called metamorphic rocks.",
+    "question": "Explain how metamorphic rocks form",
+    "topic": "metamorphic_rocks",
+    "tiles_active": [
+      "heat and pressure",
+      "change",
+      "existing rocks"
+    ],
+    "tiles_active_advanced": [
+      "heat",
+      "and",
+      "pressure",
+      "change",
+      "existing",
+      "rocks"
+    ],
+    "order_active_beginner_1": "heat and pressure,change,existing rocks",
+    "order_active_1": "heat,and,pressure,change,existing,rocks",
+    "tiles_progressive": [
+      "heat and pressure",
+      "are changing",
+      "existing rocks"
+    ],
+    "tiles_progressive_advanced": [
+      "heat",
+      "and",
+      "pressure",
+      "are",
+      "changing",
+      "existing",
+      "rocks"
+    ],
+    "order_progressive_beginner_1": "heat and pressure,are changing,existing rocks",
+    "order_progressive_1": "heat,and,pressure,are,changing,existing,rocks",
+    "tiles_passive": [
+      "existing rocks",
+      "are changed",
+      "by heat and pressure"
+    ],
+    "tiles_passive_advanced": [
+      "existing",
+      "rocks",
+      "are",
+      "changed",
+      "by",
+      "heat",
+      "and",
+      "pressure"
+    ],
+    "order_passive_beginner_1": "existing rocks,are changed,by heat and pressure",
+    "order_passive_beginner_2": "by heat and pressure,existing rocks,are changed",
+    "order_passive_1": "existing,rocks,are,changed,by,heat,and,pressure",
+    "order_passive_2": "by,heat,and,pressure,existing,rocks,are,changed",
+    "tiles_subordinate": [
+      "when rocks experience heat and pressure",
+      "they",
+      "transform"
+    ],
+    "tiles_subordinate_advanced": [
+      "when",
+      "rocks",
+      "experience",
+      "heat",
+      "and",
+      "pressure",
+      "they",
+      "transform"
+    ],
+    "order_subordinate_beginner_1": "when rocks experience heat and pressure,they,transform",
+    "order_subordinate_1": "when,rocks,experience,heat,and,pressure,they,transform",
+    "order_subordinate_2": "they,transform,when,rocks,experience,heat,and,pressure",
+    "order_subordinate_beginner_2": "they,transform,when rocks experience heat and pressure"
   },
   {
-    "text_segment": "Glaciers are powerful erosion agents. As glaciers move, they pick up rocks and sediment. These materials act like sandpaper, scraping and grinding the bedrock beneath the glacier.",
-    "question": "Describe how glaciers erode rock",
-    "topic": "erosion",
-    
-    "tiles_active": ["glaciers", "scrape bedrock", "as they move"],
-    "tiles_active_advanced": ["glaciers", "scrape", "bedrock", "as", "they", "move"],
-    "order_active_beginner_1": "glaciers,scrape bedrock,as they move",
-    "order_active_beginner_2": "as they move,glaciers,scrape bedrock",
-    "order_active_1": "glaciers,scrape,bedrock,as,they,move",
-    "order_active_2": "as,they,move,glaciers,scrape,bedrock",
-    
-    "tiles_progressive": ["glaciers", "are scraping bedrock", "as they move"],
-    "tiles_progressive_advanced": ["glaciers", "are", "scraping", "bedrock", "as", "they", "move"],
-    "order_progressive_beginner_1": "glaciers,are scraping bedrock,as they move",
-    "order_progressive_beginner_2": "as they move,glaciers,are scraping bedrock",
-    "order_progressive_1": "glaciers,are,scraping,bedrock,as,they,move",
-    "order_progressive_2": "as,they,move,glaciers,are,scraping,bedrock",
-    
-    "tiles_passive": ["bedrock", "is scraped", "by moving glaciers"],
-    "tiles_passive_advanced": ["bedrock", "is", "scraped", "by", "moving", "glaciers"],
-    "order_passive_beginner_1": "bedrock,is scraped,by moving glaciers",
-    "order_passive_beginner_2": "by moving glaciers,bedrock,is scraped",
-    "order_passive_1": "bedrock,is,scraped,by,moving,glaciers",
-    "order_passive_2": "by,moving,glaciers,bedrock,is,scraped",
-    
-    "tiles_subordinate": ["when glaciers move", "they", "erode bedrock"],
-    "tiles_subordinate_advanced": ["when", "glaciers", "move", "they", "erode", "bedrock"],
-    "order_subordinate_beginner_1": "when glaciers move,they,erode bedrock",
-    "order_subordinate_beginner_2": "they,erode bedrock,when glaciers move",
-    "order_subordinate_1": "when,glaciers,move,they,erode,bedrock",
-    "order_subordinate_2": "they,erode,bedrock,when,glaciers,move"
+    "text_segment": "Earth's outer layer is broken into giant pieces called tectonic plates. These plates float on hot, flowing rock beneath them. Where plates meet, earthquakes and volcanoes are common.",
+    "question": "Describe what tectonic plates do",
+    "topic": "plate_tectonics",
+    "tiles_active": [
+      "tectonic plates",
+      "float",
+      "on hot rock"
+    ],
+    "tiles_active_advanced": [
+      "tectonic",
+      "plates",
+      "float",
+      "on",
+      "hot",
+      "rock"
+    ],
+    "order_active_beginner_1": "tectonic plates,float,on hot rock",
+    "order_active_1": "tectonic,plates,float,on,hot,rock",
+    "tiles_progressive": [
+      "tectonic plates",
+      "are floating",
+      "on hot rock"
+    ],
+    "tiles_progressive_advanced": [
+      "tectonic",
+      "plates",
+      "are",
+      "floating",
+      "on",
+      "hot",
+      "rock"
+    ],
+    "order_progressive_beginner_1": "tectonic plates,are floating,on hot rock",
+    "order_progressive_1": "tectonic,plates,are,floating,on,hot,rock",
+    "tiles_passive": [
+      "Earth's surface",
+      "is divided",
+      "into tectonic plates"
+    ],
+    "tiles_passive_advanced": [
+      "Earth's",
+      "surface",
+      "is",
+      "divided",
+      "into",
+      "tectonic",
+      "plates"
+    ],
+    "order_passive_beginner_1": "Earth's surface,is divided,into tectonic plates",
+    "order_passive_1": "Earth's,surface,is,divided,into,tectonic,plates",
+    "tiles_subordinate": [
+      "because plates move slowly",
+      "earthquakes",
+      "occur at boundaries"
+    ],
+    "tiles_subordinate_advanced": [
+      "because",
+      "plates",
+      "move",
+      "slowly",
+      "earthquakes",
+      "occur",
+      "at",
+      "boundaries"
+    ],
+    "order_subordinate_beginner_1": "because plates move slowly,earthquakes,occur at boundaries",
+    "order_subordinate_beginner_2": "earthquakes,occur at boundaries,because plates move slowly",
+    "order_subordinate_1": "because,plates,move,slowly,earthquakes,occur,at,boundaries",
+    "order_subordinate_2": "earthquakes,occur,at,boundaries,because,plates,move,slowly"
   },
   {
-    "text_segment": "Wind erosion shapes landscapes in dry regions. Wind can only carry small particles like sand and silt. Over time, wind-blown sand polishes and sculpts exposed rock surfaces.",
-    "question": "Explain how wind shapes rock",
-    "topic": "erosion",
-    
-    "tiles_active": ["wind-blown sand", "polishes", "rock surfaces"],
-    "tiles_active_advanced": ["wind-blown", "sand", "polishes", "rock", "surfaces"],
-    "order_active_beginner_1": "wind-blown sand,polishes,rock surfaces",
-    "order_active_1": "wind-blown,sand,polishes,rock,surfaces",
-    
-    "tiles_progressive": ["wind-blown sand", "is polishing", "rock surfaces"],
-    "tiles_progressive_advanced": ["wind-blown", "sand", "is", "polishing", "rock", "surfaces"],
-    "order_progressive_beginner_1": "wind-blown sand,is polishing,rock surfaces",
-    "order_progressive_1": "wind-blown,sand,is,polishing,rock,surfaces",
-    
-    "tiles_passive": ["rock surfaces", "are polished", "by wind-blown sand"],
-    "tiles_passive_advanced": ["rock", "surfaces", "are", "polished", "by", "wind-blown", "sand"],
-    "order_passive_beginner_1": "rock surfaces,are polished,by wind-blown sand",
-    "order_passive_beginner_2": "by wind-blown sand,rock surfaces,are polished",
-    "order_passive_1": "rock,surfaces,are,polished,by,wind-blown,sand",
-    "order_passive_2": "by,wind-blown,sand,rock,surfaces,are,polished",
-    
-    "tiles_subordinate": ["when sand blows against rocks", "it", "polishes them"],
-    "tiles_subordinate_advanced": ["when", "sand", "blows", "against", "rocks", "it", "polishes", "them"],
-    "order_subordinate_beginner_1": "when sand blows against rocks,it,polishes them",
-    "order_subordinate_beginner_2": "it,polishes them,when sand blows against rocks",
-    "order_subordinate_1": "when,sand,blows,against,rocks,it,polishes,them",
-    "order_subordinate_2": "it,polishes,them,when,sand,blows,against,rocks"
+    "text_segment": "Mountains form when tectonic plates collide. The tremendous pressure pushes rock upward. The Himalayas are still growing today as India pushes into Asia.",
+    "question": "Explain how mountains form",
+    "topic": "plate_tectonics",
+    "tiles_active": [
+      "colliding plates",
+      "push rocks",
+      "upward"
+    ],
+    "tiles_active_advanced": [
+      "colliding",
+      "plates",
+      "push",
+      "rocks",
+      "upward"
+    ],
+    "order_active_beginner_1": "colliding plates,push rocks,upward",
+    "order_active_1": "colliding,plates,push,rocks,upward",
+    "tiles_progressive": [
+      "colliding plates",
+      "are pushing",
+      "rocks upward"
+    ],
+    "tiles_progressive_advanced": [
+      "colliding",
+      "plates",
+      "are",
+      "pushing",
+      "rocks",
+      "upward"
+    ],
+    "order_progressive_beginner_1": "colliding plates,are pushing,rocks upward",
+    "order_progressive_1": "colliding,plates,are,pushing,rocks,upward",
+    "tiles_passive": [
+      "rocks",
+      "are pushed upward",
+      "by colliding plates"
+    ],
+    "tiles_passive_advanced": [
+      "rocks",
+      "are",
+      "pushed",
+      "upward",
+      "by",
+      "colliding",
+      "plates"
+    ],
+    "order_passive_beginner_1": "rocks,are pushed upward,by colliding plates",
+    "order_passive_beginner_2": "by colliding plates,rocks,are pushed upward",
+    "order_passive_1": "rocks,are,pushed,upward,by,colliding,plates",
+    "order_passive_2": "by,colliding,plates,rocks,are,pushed,upward",
+    "tiles_subordinate": [
+      "when plates collide",
+      "mountains",
+      "form"
+    ],
+    "tiles_subordinate_advanced": [
+      "when",
+      "plates",
+      "collide",
+      "mountains",
+      "form"
+    ],
+    "order_subordinate_beginner_1": "when plates collide,mountains,form",
+    "order_subordinate_beginner_2": "mountains,form,when plates collide",
+    "order_subordinate_1": "when,plates,collide,mountains,form",
+    "order_subordinate_2": "mountains,form,when,plates,collide"
   },
   {
-    "text_segment": "Minerals are naturally occurring inorganic solids with a definite chemical composition. Each mineral has characteristic physical properties including hardness, luster, and crystal form.",
-    "question": "Describe what defines a mineral",
+    "text_segment": "A mineral is a naturally occurring solid with a definite chemical composition. Each mineral has its own crystal structure. Scientists have identified over 5,000 different minerals on Earth.",
+    "question": "Describe what makes something a mineral",
     "topic": "minerals",
-    
-    "tiles_active": ["minerals", "have", "definite compositions"],
-    "tiles_active_advanced": ["minerals", "have", "definite", "compositions"],
+    "tiles_active": [
+      "minerals",
+      "have",
+      "definite compositions"
+    ],
+    "tiles_active_advanced": [
+      "minerals",
+      "have",
+      "definite",
+      "compositions"
+    ],
     "order_active_beginner_1": "minerals,have,definite compositions",
     "order_active_1": "minerals,have,definite,compositions",
-    
-    "tiles_progressive": ["minerals", "are having", "definite compositions"],
-    "tiles_progressive_advanced": ["minerals", "are", "having", "definite", "compositions"],
+    "tiles_progressive": [
+      "minerals",
+      "are having",
+      "definite compositions"
+    ],
+    "tiles_progressive_advanced": [
+      "minerals",
+      "are",
+      "having",
+      "definite",
+      "compositions"
+    ],
     "order_progressive_beginner_1": "minerals,are having,definite compositions",
     "order_progressive_1": "minerals,are,having,definite,compositions",
-    
-    "tiles_passive": ["definite compositions", "are possessed", "by minerals"],
-    "tiles_passive_advanced": ["definite", "compositions", "are", "possessed", "by", "minerals"],
-    "order_passive_beginner_1": "definite compositions,are possessed,by minerals",
-    "order_passive_beginner_2": "by minerals,definite compositions,are possessed",
-    "order_passive_1": "definite,compositions,are,possessed,by,minerals",
-    "order_passive_2": "by,minerals,definite,compositions,are,possessed",
-    
-    "tiles_subordinate": ["when substances form naturally", "they", "become minerals"],
-    "tiles_subordinate_advanced": ["when", "substances", "form", "naturally", "they", "become", "minerals"],
-    "order_subordinate_beginner_1": "when substances form naturally,they,become minerals",
-    "order_subordinate_beginner_2": "they,become minerals,when substances form naturally",
-    "order_subordinate_1": "when,substances,form,naturally,they,become,minerals",
-    "order_subordinate_2": "they,become,minerals,when,substances,form,naturally"
+    "tiles_passive": [
+      "definite compositions",
+      "are required",
+      "for minerals"
+    ],
+    "tiles_passive_advanced": [
+      "definite",
+      "compositions",
+      "are",
+      "required",
+      "for",
+      "minerals"
+    ],
+    "order_passive_beginner_1": "definite compositions,are required,for minerals",
+    "order_passive_beginner_2": "for minerals,definite compositions,are required",
+    "order_passive_1": "definite,compositions,are,required,for,minerals",
+    "order_passive_2": "for,minerals,definite,compositions,are,required",
+    "tiles_subordinate": [
+      "because minerals form naturally",
+      "they",
+      "have crystal structures"
+    ],
+    "tiles_subordinate_advanced": [
+      "because",
+      "minerals",
+      "form",
+      "naturally",
+      "they",
+      "have",
+      "crystal",
+      "structures"
+    ],
+    "order_subordinate_beginner_1": "because minerals form naturally,they,have crystal structures",
+    "order_subordinate_1": "because,minerals,form,naturally,they,have,crystal,structures",
+    "order_subordinate_2": "they,have,crystal,structures,because,minerals,form,naturally",
+    "order_subordinate_beginner_2": "they,have crystal structures,because minerals form naturally"
   },
   {
-    "text_segment": "Quartz is one of Earth's most common minerals. It consists of silicon and oxygen in a crystal structure. Quartz is hard, resistant to weathering, and comes in many colors.",
-    "question": "Explain what quartz is made of",
+    "text_segment": "Geologists identify minerals using physical properties. Hardness, luster, color, and streak are common tests. The Mohs scale ranks minerals from 1 (softest) to 10 (hardest).",
+    "question": "Explain how geologists identify minerals",
     "topic": "minerals",
-    
-    "tiles_active": ["silicon and oxygen", "form", "quartz crystals"],
-    "tiles_active_advanced": ["silicon", "and", "oxygen", "form", "quartz", "crystals"],
-    "order_active_beginner_1": "silicon and oxygen,form,quartz crystals",
-    "order_active_1": "silicon,and,oxygen,form,quartz,crystals",
-    
-    "tiles_progressive": ["silicon and oxygen", "are forming", "quartz crystals"],
-    "tiles_progressive_advanced": ["silicon", "and", "oxygen", "are", "forming", "quartz", "crystals"],
-    "order_progressive_beginner_1": "silicon and oxygen,are forming,quartz crystals",
-    "order_progressive_1": "silicon,and,oxygen,are,forming,quartz,crystals",
-    
-    "tiles_passive": ["quartz crystals", "are formed", "from silicon and oxygen"],
-    "tiles_passive_advanced": ["quartz", "crystals", "are", "formed", "from", "silicon", "and", "oxygen"],
-    "order_passive_beginner_1": "quartz crystals,are formed,from silicon and oxygen",
-    "order_passive_beginner_2": "from silicon and oxygen,quartz crystals,are formed",
-    "order_passive_1": "quartz,crystals,are,formed,from,silicon,and,oxygen",
-    "order_passive_2": "from,silicon,and,oxygen,quartz,crystals,are,formed",
-    
-    "tiles_subordinate": ["when silicon bonds with oxygen", "quartz", "forms"],
-    "tiles_subordinate_advanced": ["when", "silicon", "bonds", "with", "oxygen", "quartz", "forms"],
-    "order_subordinate_beginner_1": "when silicon bonds with oxygen,quartz,forms",
-    "order_subordinate_beginner_2": "quartz,forms,when silicon bonds with oxygen",
-    "order_subordinate_1": "when,silicon,bonds,with,oxygen,quartz,forms",
-    "order_subordinate_2": "quartz,forms,when,silicon,bonds,with,oxygen"
+    "tiles_active": [
+      "geologists",
+      "test",
+      "physical properties"
+    ],
+    "tiles_active_advanced": [
+      "geologists",
+      "test",
+      "physical",
+      "properties"
+    ],
+    "order_active_beginner_1": "geologists,test,physical properties",
+    "order_active_1": "geologists,test,physical,properties",
+    "tiles_progressive": [
+      "geologists",
+      "are testing",
+      "physical properties"
+    ],
+    "tiles_progressive_advanced": [
+      "geologists",
+      "are",
+      "testing",
+      "physical",
+      "properties"
+    ],
+    "order_progressive_beginner_1": "geologists,are testing,physical properties",
+    "order_progressive_1": "geologists,are,testing,physical,properties",
+    "tiles_passive": [
+      "physical properties",
+      "are tested",
+      "by geologists"
+    ],
+    "tiles_passive_advanced": [
+      "physical",
+      "properties",
+      "are",
+      "tested",
+      "by",
+      "geologists"
+    ],
+    "order_passive_beginner_1": "physical properties,are tested,by geologists",
+    "order_passive_beginner_2": "by geologists,physical properties,are tested",
+    "order_passive_1": "physical,properties,are,tested,by,geologists",
+    "order_passive_2": "by,geologists,physical,properties,are,tested",
+    "tiles_subordinate": [
+      "to identify minerals",
+      "geologists",
+      "test hardness and luster"
+    ],
+    "tiles_subordinate_advanced": [
+      "to",
+      "identify",
+      "minerals",
+      "geologists",
+      "test",
+      "hardness",
+      "and",
+      "luster"
+    ],
+    "order_subordinate_beginner_1": "to identify minerals,geologists,test hardness and luster",
+    "order_subordinate_beginner_2": "geologists,test hardness and luster,to identify minerals",
+    "order_subordinate_1": "to,identify,minerals,geologists,test,hardness,and,luster",
+    "order_subordinate_2": "geologists,test,hardness,and,luster,to,identify,minerals"
   },
   {
-    "text_segment": "Minerals can be identified by their physical properties. Hardness measures a mineral's resistance to scratching. Geologists use the Mohs scale, where talc is 1 (softest) and diamond is 10 (hardest).",
-    "question": "Describe how hardness identifies minerals",
-    "topic": "minerals",
-    
-    "tiles_active": ["scratch tests", "measure", "mineral hardness"],
-    "tiles_active_advanced": ["scratch", "tests", "measure", "mineral", "hardness"],
-    "order_active_beginner_1": "scratch tests,measure,mineral hardness",
-    "order_active_1": "scratch,tests,measure,mineral,hardness",
-    
-    "tiles_progressive": ["scratch tests", "are measuring", "mineral hardness"],
-    "tiles_progressive_advanced": ["scratch", "tests", "are", "measuring", "mineral", "hardness"],
-    "order_progressive_beginner_1": "scratch tests,are measuring,mineral hardness",
-    "order_progressive_1": "scratch,tests,are,measuring,mineral,hardness",
-    
-    "tiles_passive": ["mineral hardness", "is measured", "by scratch tests"],
-    "tiles_passive_advanced": ["mineral", "hardness", "is", "measured", "by", "scratch", "tests"],
-    "order_passive_beginner_1": "mineral hardness,is measured,by scratch tests",
-    "order_passive_beginner_2": "by scratch tests,mineral hardness,is measured",
-    "order_passive_1": "mineral,hardness,is,measured,by,scratch,tests",
-    "order_passive_2": "by,scratch,tests,mineral,hardness,is,measured",
-    
-    "tiles_subordinate": ["when minerals resist scratching", "they", "are harder"],
-    "tiles_subordinate_advanced": ["when", "minerals", "resist", "scratching", "they", "are", "harder"],
-    "order_subordinate_beginner_1": "when minerals resist scratching,they,are harder",
-    "order_subordinate_beginner_2": "they,are harder,when minerals resist scratching",
-    "order_subordinate_1": "when,minerals,resist,scratching,they,are,harder",
-    "order_subordinate_2": "they,are,harder,when,minerals,resist,scratching"
+    "text_segment": "Granite contains visible crystals of different minerals. Quartz appears glassy, feldspar looks pink or white, and mica sparkles. These different minerals give granite its speckled appearance.",
+    "question": "Describe what gives granite its appearance",
+    "topic": "rock_identification",
+    "tiles_active": [
+      "granite",
+      "shows",
+      "different colored crystals"
+    ],
+    "tiles_active_advanced": [
+      "granite",
+      "shows",
+      "different",
+      "colored",
+      "crystals"
+    ],
+    "order_active_beginner_1": "granite,shows,different colored crystals",
+    "order_active_1": "granite,shows,different,colored,crystals",
+    "tiles_progressive": [
+      "granite",
+      "is showing",
+      "different colored crystals"
+    ],
+    "tiles_progressive_advanced": [
+      "granite",
+      "is",
+      "showing",
+      "different",
+      "colored",
+      "crystals"
+    ],
+    "order_progressive_beginner_1": "granite,is showing,different colored crystals",
+    "order_progressive_1": "granite,is,showing,different,colored,crystals",
+    "tiles_passive": [
+      "different colored crystals",
+      "are shown",
+      "in granite"
+    ],
+    "tiles_passive_advanced": [
+      "different",
+      "colored",
+      "crystals",
+      "are",
+      "shown",
+      "in",
+      "granite"
+    ],
+    "order_passive_beginner_1": "different colored crystals,are shown,in granite",
+    "order_passive_beginner_2": "in granite,different colored crystals,are shown",
+    "order_passive_1": "different,colored,crystals,are,shown,in,granite",
+    "order_passive_2": "in,granite,different,colored,crystals,are,shown",
+    "tiles_subordinate": [
+      "because granite contains multiple minerals",
+      "it",
+      "looks speckled"
+    ],
+    "tiles_subordinate_advanced": [
+      "because",
+      "granite",
+      "contains",
+      "multiple",
+      "minerals",
+      "it",
+      "looks",
+      "speckled"
+    ],
+    "order_subordinate_beginner_1": "because granite contains multiple minerals,it,looks speckled",
+    "order_subordinate_1": "because,granite,contains,multiple,minerals,it,looks,speckled",
+    "order_subordinate_2": "it,looks,speckled,because,granite,contains,multiple,minerals",
+    "order_subordinate_beginner_2": "it,looks speckled,because granite contains multiple minerals"
   },
   {
-    "text_segment": "Topographic maps show the shape of Earth's surface using contour lines. Each contour line connects points of equal elevation. Closely spaced lines indicate steep slopes, while widely spaced lines show gentle slopes.",
-    "question": "Explain what contour lines represent",
-    "topic": "geological_mapping",
-    
-    "tiles_active": ["contour lines", "connect", "equal elevations"],
-    "tiles_active_advanced": ["contour", "lines", "connect", "equal", "elevations"],
-    "order_active_beginner_1": "contour lines,connect,equal elevations",
-    "order_active_1": "contour,lines,connect,equal,elevations",
-    
-    "tiles_progressive": ["contour lines", "are connecting", "equal elevations"],
-    "tiles_progressive_advanced": ["contour", "lines", "are", "connecting", "equal", "elevations"],
-    "order_progressive_beginner_1": "contour lines,are connecting,equal elevations",
-    "order_progressive_1": "contour,lines,are,connecting,equal,elevations",
-    
-    "tiles_passive": ["equal elevations", "are connected", "by contour lines"],
-    "tiles_passive_advanced": ["equal", "elevations", "are", "connected", "by", "contour", "lines"],
-    "order_passive_beginner_1": "equal elevations,are connected,by contour lines",
-    "order_passive_beginner_2": "by contour lines,equal elevations,are connected",
-    "order_passive_1": "equal,elevations,are,connected,by,contour,lines",
-    "order_passive_2": "by,contour,lines,equal,elevations,are,connected",
-    
-    "tiles_subordinate": ["when lines cluster together", "slopes", "are steep"],
-    "tiles_subordinate_advanced": ["when", "lines", "cluster", "together", "slopes", "are", "steep"],
-    "order_subordinate_beginner_1": "when lines cluster together,slopes,are steep",
-    "order_subordinate_beginner_2": "slopes,are steep,when lines cluster together",
-    "order_subordinate_1": "when,lines,cluster,together,slopes,are,steep",
-    "order_subordinate_2": "slopes,are,steep,when,lines,cluster,together"
+    "text_segment": "Sandstone often shows layers of different colors. Each layer represents sediment deposited at a different time. Red layers may indicate iron-rich periods, while white layers suggest different conditions.",
+    "question": "Explain what layers in sandstone represent",
+    "topic": "rock_identification",
+    "tiles_active": [
+      "colored layers",
+      "represent",
+      "different time periods"
+    ],
+    "tiles_active_advanced": [
+      "colored",
+      "layers",
+      "represent",
+      "different",
+      "time",
+      "periods"
+    ],
+    "order_active_beginner_1": "colored layers,represent,different time periods",
+    "order_active_1": "colored,layers,represent,different,time,periods",
+    "tiles_progressive": [
+      "colored layers",
+      "are representing",
+      "different time periods"
+    ],
+    "tiles_progressive_advanced": [
+      "colored",
+      "layers",
+      "are",
+      "representing",
+      "different",
+      "time",
+      "periods"
+    ],
+    "order_progressive_beginner_1": "colored layers,are representing,different time periods",
+    "order_progressive_1": "colored,layers,are,representing,different,time,periods",
+    "tiles_passive": [
+      "different time periods",
+      "are represented",
+      "by colored layers"
+    ],
+    "tiles_passive_advanced": [
+      "different",
+      "time",
+      "periods",
+      "are",
+      "represented",
+      "by",
+      "colored",
+      "layers"
+    ],
+    "order_passive_beginner_1": "different time periods,are represented,by colored layers",
+    "order_passive_beginner_2": "by colored layers,different time periods,are represented",
+    "order_passive_1": "different,time,periods,are,represented,by,colored,layers",
+    "order_passive_2": "by,colored,layers,different,time,periods,are,represented",
+    "tiles_subordinate": [
+      "when conditions changed",
+      "new layers",
+      "formed"
+    ],
+    "tiles_subordinate_advanced": [
+      "when",
+      "conditions",
+      "changed",
+      "new",
+      "layers",
+      "formed"
+    ],
+    "order_subordinate_beginner_1": "when conditions changed,new layers,formed",
+    "order_subordinate_beginner_2": "new layers,formed,when conditions changed",
+    "order_subordinate_1": "when,conditions,changed,new,layers,formed",
+    "order_subordinate_2": "new,layers,formed,when,conditions,changed"
   },
   {
-    "text_segment": "Contour lines that are close together show steep terrain. This is because elevation changes rapidly over a short horizontal distance. Conversely, contour lines far apart indicate gentle slopes where elevation changes gradually.",
-    "question": "Describe what close contour lines indicate",
-    "topic": "geological_mapping",
-    
-    "tiles_active": ["close contour lines", "indicate", "steep slopes"],
-    "tiles_active_advanced": ["close", "contour", "lines", "indicate", "steep", "slopes"],
-    "order_active_beginner_1": "close contour lines,indicate,steep slopes",
-    "order_active_1": "close,contour,lines,indicate,steep,slopes",
-    
-    "tiles_progressive": ["close contour lines", "are indicating", "steep slopes"],
-    "tiles_progressive_advanced": ["close", "contour", "lines", "are", "indicating", "steep", "slopes"],
-    "order_progressive_beginner_1": "close contour lines,are indicating,steep slopes",
-    "order_progressive_1": "close,contour,lines,are,indicating,steep,slopes",
-    
-    "tiles_passive": ["steep slopes", "are indicated", "by close contour lines"],
-    "tiles_passive_advanced": ["steep", "slopes", "are", "indicated", "by", "close", "contour", "lines"],
-    "order_passive_beginner_1": "steep slopes,are indicated,by close contour lines",
-    "order_passive_beginner_2": "by close contour lines,steep slopes,are indicated",
-    "order_passive_1": "steep,slopes,are,indicated,by,close,contour,lines",
-    "order_passive_2": "by,close,contour,lines,steep,slopes,are,indicated",
-    
-    "tiles_subordinate": ["when contour lines cluster together", "terrain", "is steep"],
-    "tiles_subordinate_advanced": ["when", "contour", "lines", "cluster", "together", "terrain", "is", "steep"],
-    "order_subordinate_beginner_1": "when contour lines cluster together,terrain,is steep",
-    "order_subordinate_beginner_2": "terrain,is steep,when contour lines cluster together",
-    "order_subordinate_1": "when,contour,lines,cluster,together,terrain,is,steep",
-    "order_subordinate_2": "terrain,is,steep,when,contour,lines,cluster,together"
+    "text_segment": "Marble forms when limestone is heated deep underground. The heat transforms the rock's texture and makes it harder. Marble is prized for sculptures because it can be polished smooth.",
+    "question": "Describe how marble differs from limestone",
+    "topic": "metamorphic_rocks",
+    "tiles_active": [
+      "heat",
+      "transforms limestone",
+      "into marble"
+    ],
+    "tiles_active_advanced": [
+      "heat",
+      "transforms",
+      "limestone",
+      "into",
+      "marble"
+    ],
+    "order_active_beginner_1": "heat,transforms limestone,into marble",
+    "order_active_1": "heat,transforms,limestone,into,marble",
+    "tiles_progressive": [
+      "heat",
+      "is transforming",
+      "limestone into marble"
+    ],
+    "tiles_progressive_advanced": [
+      "heat",
+      "is",
+      "transforming",
+      "limestone",
+      "into",
+      "marble"
+    ],
+    "order_progressive_beginner_1": "heat,is transforming,limestone into marble",
+    "order_progressive_1": "heat,is,transforming,limestone,into,marble",
+    "tiles_passive": [
+      "limestone",
+      "is transformed",
+      "into marble by heat"
+    ],
+    "tiles_passive_advanced": [
+      "limestone",
+      "is",
+      "transformed",
+      "into",
+      "marble",
+      "by",
+      "heat"
+    ],
+    "order_passive_beginner_1": "limestone,is transformed,into marble by heat",
+    "order_passive_1": "limestone,is,transformed,into,marble,by,heat",
+    "order_passive_2": "by,heat,limestone,is,transformed,into,marble",
+    "tiles_subordinate": [
+      "when limestone is heated",
+      "it",
+      "becomes marble"
+    ],
+    "tiles_subordinate_advanced": [
+      "when",
+      "limestone",
+      "is",
+      "heated",
+      "it",
+      "becomes",
+      "marble"
+    ],
+    "order_subordinate_beginner_1": "when limestone is heated,it,becomes marble",
+    "order_subordinate_1": "when,limestone,is,heated,it,becomes,marble",
+    "order_subordinate_2": "it,becomes,marble,when,limestone,is,heated",
+    "order_subordinate_beginner_2": "it,becomes marble,when limestone is heated"
   },
   {
-    "text_segment": "Geological maps display information about rock types at Earth's surface. Mapmakers use different colors to show where each rock type occurs. For example, red might indicate granite, while blue shows limestone. This color coding helps geologists understand regional geology at a glance.",
+    "text_segment": "Mining extracts valuable rocks and minerals from the earth. Open-pit mines dig from the surface. Underground mines tunnel deep to reach ore deposits.",
+    "question": "Explain the purpose of mining",
+    "topic": "mining",
+    "tiles_active": [
+      "mining",
+      "extracts",
+      "valuable minerals"
+    ],
+    "tiles_active_advanced": [
+      "mining",
+      "extracts",
+      "valuable",
+      "minerals"
+    ],
+    "order_active_beginner_1": "mining,extracts,valuable minerals",
+    "order_active_1": "mining,extracts,valuable,minerals",
+    "tiles_progressive": [
+      "mining",
+      "is extracting",
+      "valuable minerals"
+    ],
+    "tiles_progressive_advanced": [
+      "mining",
+      "is",
+      "extracting",
+      "valuable",
+      "minerals"
+    ],
+    "order_progressive_beginner_1": "mining,is extracting,valuable minerals",
+    "order_progressive_1": "mining,is,extracting,valuable,minerals",
+    "tiles_passive": [
+      "valuable minerals",
+      "are extracted",
+      "by mining"
+    ],
+    "tiles_passive_advanced": [
+      "valuable",
+      "minerals",
+      "are",
+      "extracted",
+      "by",
+      "mining"
+    ],
+    "order_passive_beginner_1": "valuable minerals,are extracted,by mining",
+    "order_passive_beginner_2": "by mining,valuable minerals,are extracted",
+    "order_passive_1": "valuable,minerals,are,extracted,by,mining",
+    "order_passive_2": "by,mining,valuable,minerals,are,extracted",
+    "tiles_subordinate": [
+      "to obtain resources",
+      "companies",
+      "dig mines"
+    ],
+    "tiles_subordinate_advanced": [
+      "to",
+      "obtain",
+      "resources",
+      "companies",
+      "dig",
+      "mines"
+    ],
+    "order_subordinate_beginner_1": "to obtain resources,companies,dig mines",
+    "order_subordinate_beginner_2": "companies,dig mines,to obtain resources",
+    "order_subordinate_1": "to,obtain,resources,companies,dig,mines",
+    "order_subordinate_2": "companies,dig,mines,to,obtain,resources"
+  },
+  {
+    "text_segment": "Geological maps show rock types at Earth's surface. Different colors represent different rock formations. These maps help locate resources and understand Earth's history.",
     "question": "Describe how geological maps show rock types",
     "topic": "geological_mapping",
-    
-    "tiles_active": ["different colors", "represent", "different rock types"],
-    "tiles_active_advanced": ["different", "colors", "represent", "different", "rock", "types"],
+    "tiles_active": [
+      "different colors",
+      "represent",
+      "different rock types"
+    ],
+    "tiles_active_advanced": [
+      "different",
+      "colors",
+      "represent",
+      "different",
+      "rock",
+      "types"
+    ],
     "order_active_beginner_1": "different colors,represent,different rock types",
     "order_active_1": "different,colors,represent,different,rock,types",
-    
-    "tiles_progressive": ["different colors", "are representing", "different rock types"],
-    "tiles_progressive_advanced": ["different", "colors", "are", "representing", "different", "rock", "types"],
+    "tiles_progressive": [
+      "different colors",
+      "are representing",
+      "different rock types"
+    ],
+    "tiles_progressive_advanced": [
+      "different",
+      "colors",
+      "are",
+      "representing",
+      "different",
+      "rock",
+      "types"
+    ],
     "order_progressive_beginner_1": "different colors,are representing,different rock types",
     "order_progressive_1": "different,colors,are,representing,different,rock,types",
-    
-    "tiles_passive": ["different rock types", "are represented", "by different colors"],
-    "tiles_passive_advanced": ["different", "rock", "types", "are", "represented", "by", "different", "colors"],
+    "tiles_passive": [
+      "different rock types",
+      "are represented",
+      "by different colors"
+    ],
+    "tiles_passive_advanced": [
+      "different",
+      "rock",
+      "types",
+      "are",
+      "represented",
+      "by",
+      "different",
+      "colors"
+    ],
     "order_passive_beginner_1": "different rock types,are represented,by different colors",
     "order_passive_beginner_2": "by different colors,different rock types,are represented",
     "order_passive_1": "different,rock,types,are,represented,by,different,colors",
     "order_passive_2": "by,different,colors,different,rock,types,are,represented",
-    
-    "tiles_subordinate": ["when maps use different colors", "they", "show rock types"],
-    "tiles_subordinate_advanced": ["when", "maps", "use", "different", "colors", "they", "show", "rock", "types"],
+    "tiles_subordinate": [
+      "when maps use different colors",
+      "they",
+      "show rock types"
+    ],
+    "tiles_subordinate_advanced": [
+      "when",
+      "maps",
+      "use",
+      "different",
+      "colors",
+      "they",
+      "show",
+      "rock",
+      "types"
+    ],
     "order_subordinate_beginner_1": "when maps use different colors,they,show rock types",
-    "order_subordinate_beginner_2": "they,show rock types,when maps use different colors",
     "order_subordinate_1": "when,maps,use,different,colors,they,show,rock,types",
-    "order_subordinate_2": "they,show,rock,types,when,maps,use,different,colors"
+    "order_subordinate_2": "they,show,rock,types,when,maps,use,different,colors",
+    "order_subordinate_beginner_2": "they,show rock types,when maps use different colors"
   },
   {
-    "text_segment": "Field work is essential for geological mapping. Geologists travel to locations where bedrock is exposed at the surface. These exposed rock areas are called outcrops. By studying outcrops, geologists collect data about rock types, structures, and relationships.",
+    "text_segment": "Field work is essential for geological mapping. Geologists travel to locations where bedrock is exposed at the surface. These exposed rock areas are called outcrops.",
     "question": "Explain how geologists gather data in the field",
     "topic": "geological_mapping",
-    
-    "tiles_active": ["geologists", "observe outcrops", "in the field"],
-    "tiles_active_advanced": ["geologists", "observe", "outcrops", "in", "the", "field"],
+    "tiles_active": [
+      "geologists",
+      "observe outcrops",
+      "in the field"
+    ],
+    "tiles_active_advanced": [
+      "geologists",
+      "observe",
+      "outcrops",
+      "in",
+      "the",
+      "field"
+    ],
     "order_active_beginner_1": "geologists,observe outcrops,in the field",
     "order_active_beginner_2": "in the field,geologists,observe outcrops",
     "order_active_1": "geologists,observe,outcrops,in,the,field",
     "order_active_2": "in,the,field,geologists,observe,outcrops",
-    
-    "tiles_progressive": ["geologists", "are observing outcrops", "in the field"],
-    "tiles_progressive_advanced": ["geologists", "are", "observing", "outcrops", "in", "the", "field"],
+    "tiles_progressive": [
+      "geologists",
+      "are observing outcrops",
+      "in the field"
+    ],
+    "tiles_progressive_advanced": [
+      "geologists",
+      "are",
+      "observing",
+      "outcrops",
+      "in",
+      "the",
+      "field"
+    ],
     "order_progressive_beginner_1": "geologists,are observing outcrops,in the field",
     "order_progressive_beginner_2": "in the field,geologists,are observing outcrops",
     "order_progressive_1": "geologists,are,observing,outcrops,in,the,field",
     "order_progressive_2": "in,the,field,geologists,are,observing,outcrops",
-    
-    "tiles_passive": ["outcrops", "are observed", "in the field"],
-    "tiles_passive_advanced": ["outcrops", "are", "observed", "in", "the", "field"],
+    "tiles_passive": [
+      "outcrops",
+      "are observed",
+      "in the field"
+    ],
+    "tiles_passive_advanced": [
+      "outcrops",
+      "are",
+      "observed",
+      "in",
+      "the",
+      "field"
+    ],
     "order_passive_beginner_1": "outcrops,are observed,in the field",
     "order_passive_beginner_2": "in the field,outcrops,are observed",
     "order_passive_1": "outcrops,are,observed,in,the,field",
     "order_passive_2": "in,the,field,outcrops,are,observed",
-    
-    "tiles_subordinate": ["when mapping rocks", "geologists", "examine outcrops"],
-    "tiles_subordinate_advanced": ["when", "mapping", "rocks", "geologists", "examine", "outcrops"],
+    "tiles_subordinate": [
+      "when mapping rocks",
+      "geologists",
+      "examine outcrops"
+    ],
+    "tiles_subordinate_advanced": [
+      "when",
+      "mapping",
+      "rocks",
+      "geologists",
+      "examine",
+      "outcrops"
+    ],
     "order_subordinate_beginner_1": "when mapping rocks,geologists,examine outcrops",
     "order_subordinate_beginner_2": "geologists,examine outcrops,when mapping rocks",
     "order_subordinate_1": "when,mapping,rocks,geologists,examine,outcrops",
     "order_subordinate_2": "geologists,examine,outcrops,when,mapping,rocks"
   },
   {
-    "text_segment": "Creating geological maps requires interpreting limited data. Geologists observe rocks at scattered outcrops across a region. They connect these observations to infer what lies underground between outcrops. This process reveals patterns of rock layers and structures beneath the surface.",
+    "text_segment": "Creating geological maps requires interpreting limited data. Geologists observe rocks at scattered outcrops across a region. They connect these observations to infer what lies underground between outcrops.",
     "question": "Describe how geologists understand underground structures",
     "topic": "geological_mapping",
-    
-    "tiles_active": ["connecting observations", "reveals", "underground patterns"],
-    "tiles_active_advanced": ["connecting", "observations", "reveals", "underground", "patterns"],
+    "tiles_active": [
+      "connecting observations",
+      "reveals",
+      "underground patterns"
+    ],
+    "tiles_active_advanced": [
+      "connecting",
+      "observations",
+      "reveals",
+      "underground",
+      "patterns"
+    ],
     "order_active_beginner_1": "connecting observations,reveals,underground patterns",
     "order_active_1": "connecting,observations,reveals,underground,patterns",
-    
-    "tiles_progressive": ["connecting observations", "is revealing", "underground patterns"],
-    "tiles_progressive_advanced": ["connecting", "observations", "is", "revealing", "underground", "patterns"],
+    "tiles_progressive": [
+      "connecting observations",
+      "is revealing",
+      "underground patterns"
+    ],
+    "tiles_progressive_advanced": [
+      "connecting",
+      "observations",
+      "is",
+      "revealing",
+      "underground",
+      "patterns"
+    ],
     "order_progressive_beginner_1": "connecting observations,is revealing,underground patterns",
     "order_progressive_1": "connecting,observations,is,revealing,underground,patterns",
-    
-    "tiles_passive": ["underground patterns", "are revealed", "by connecting observations"],
-    "tiles_passive_advanced": ["underground", "patterns", "are", "revealed", "by", "connecting", "observations"],
+    "tiles_passive": [
+      "underground patterns",
+      "are revealed",
+      "by connecting observations"
+    ],
+    "tiles_passive_advanced": [
+      "underground",
+      "patterns",
+      "are",
+      "revealed",
+      "by",
+      "connecting",
+      "observations"
+    ],
     "order_passive_beginner_1": "underground patterns,are revealed,by connecting observations",
     "order_passive_beginner_2": "by connecting observations,underground patterns,are revealed",
     "order_passive_1": "underground,patterns,are,revealed,by,connecting,observations",
     "order_passive_2": "by,connecting,observations,underground,patterns,are,revealed",
-    
-    "tiles_subordinate": ["when geologists connect data", "they", "see underground patterns"],
-    "tiles_subordinate_advanced": ["when", "geologists", "connect", "data", "they", "see", "underground", "patterns"],
+    "tiles_subordinate": [
+      "when geologists connect data",
+      "they",
+      "see underground patterns"
+    ],
+    "tiles_subordinate_advanced": [
+      "when",
+      "geologists",
+      "connect",
+      "data",
+      "they",
+      "see",
+      "underground",
+      "patterns"
+    ],
     "order_subordinate_beginner_1": "when geologists connect data,they,see underground patterns",
-    "order_subordinate_beginner_2": "they,see underground patterns,when geologists connect data",
     "order_subordinate_1": "when,geologists,connect,data,they,see,underground,patterns",
-    "order_subordinate_2": "they,see,underground,patterns,when,geologists,connect,data"
+    "order_subordinate_2": "they,see,underground,patterns,when,geologists,connect,data",
+    "order_subordinate_beginner_2": "they,see underground patterns,when geologists connect data"
+  },
+  {
+    "text_segment": "The rock cycle describes how rocks change from one type to another. Igneous rocks weather into sediment. Sediment becomes sedimentary rock. Heat and pressure create metamorphic rock. Melting creates magma for new igneous rocks.",
+    "question": "Explain what the rock cycle describes",
+    "topic": "rock_cycle",
+    "tiles_active": [
+      "rocks",
+      "change",
+      "from one type to another"
+    ],
+    "tiles_active_advanced": [
+      "rocks",
+      "change",
+      "from",
+      "one",
+      "type",
+      "to",
+      "another"
+    ],
+    "order_active_beginner_1": "rocks,change,from one type to another",
+    "order_active_1": "rocks,change,from,one,type,to,another",
+    "tiles_progressive": [
+      "rocks",
+      "are changing",
+      "from one type to another"
+    ],
+    "tiles_progressive_advanced": [
+      "rocks",
+      "are",
+      "changing",
+      "from",
+      "one",
+      "type",
+      "to",
+      "another"
+    ],
+    "order_progressive_beginner_1": "rocks,are changing,from one type to another",
+    "order_progressive_1": "rocks,are,changing,from,one,type,to,another",
+    "tiles_passive": [
+      "rock types",
+      "are changed",
+      "by natural processes"
+    ],
+    "tiles_passive_advanced": [
+      "rock",
+      "types",
+      "are",
+      "changed",
+      "by",
+      "natural",
+      "processes"
+    ],
+    "order_passive_beginner_1": "rock types,are changed,by natural processes",
+    "order_passive_beginner_2": "by natural processes,rock types,are changed",
+    "order_passive_1": "rock,types,are,changed,by,natural,processes",
+    "order_passive_2": "by,natural,processes,rock,types,are,changed",
+    "tiles_subordinate": [
+      "through natural processes",
+      "rocks",
+      "transform continuously"
+    ],
+    "tiles_subordinate_advanced": [
+      "through",
+      "natural",
+      "processes",
+      "rocks",
+      "transform",
+      "continuously"
+    ],
+    "order_subordinate_beginner_1": "through natural processes,rocks,transform continuously",
+    "order_subordinate_beginner_2": "rocks,transform continuously,through natural processes",
+    "order_subordinate_1": "through,natural,processes,rocks,transform,continuously",
+    "order_subordinate_2": "rocks,transform,continuously,through,natural,processes"
+  },
+  {
+    "text_segment": "Chemical weathering changes rocks through chemical reactions. Water containing carbon dioxide forms a weak acid. This acid slowly dissolves limestone, creating caves and sinkholes.",
+    "question": "Explain how chemical weathering affects limestone",
+    "topic": "weathering",
+    "tiles_active": [
+      "acid",
+      "dissolves",
+      "limestone slowly"
+    ],
+    "tiles_active_advanced": [
+      "acid",
+      "dissolves",
+      "limestone",
+      "slowly"
+    ],
+    "order_active_beginner_1": "acid,dissolves,limestone slowly",
+    "order_active_1": "acid,dissolves,limestone,slowly",
+    "order_active_2": "slowly,acid,dissolves,limestone",
+    "order_active_3": "acid,slowly,dissolves,limestone",
+    "tiles_progressive": [
+      "acid",
+      "is dissolving",
+      "limestone slowly"
+    ],
+    "tiles_progressive_advanced": [
+      "acid",
+      "is",
+      "dissolving",
+      "limestone",
+      "slowly"
+    ],
+    "order_progressive_beginner_1": "acid,is dissolving,limestone slowly",
+    "order_progressive_1": "acid,is,dissolving,limestone,slowly",
+    "order_progressive_2": "slowly,acid,is,dissolving,limestone",
+    "order_progressive_3": "acid,is,slowly,dissolving,limestone",
+    "tiles_passive": [
+      "limestone",
+      "is dissolved",
+      "by acid"
+    ],
+    "tiles_passive_advanced": [
+      "limestone",
+      "is",
+      "dissolved",
+      "by",
+      "acid"
+    ],
+    "order_passive_beginner_1": "limestone,is dissolved,by acid",
+    "order_passive_beginner_2": "by acid,limestone,is dissolved",
+    "order_passive_1": "limestone,is,dissolved,by,acid",
+    "order_passive_2": "by,acid,limestone,is,dissolved",
+    "tiles_subordinate": [
+      "when acid contacts limestone",
+      "it",
+      "dissolves the rock"
+    ],
+    "tiles_subordinate_advanced": [
+      "when",
+      "acid",
+      "contacts",
+      "limestone",
+      "it",
+      "dissolves",
+      "the",
+      "rock"
+    ],
+    "order_subordinate_beginner_1": "when acid contacts limestone,it,dissolves the rock",
+    "order_subordinate_1": "when,acid,contacts,limestone,it,dissolves,the,rock",
+    "order_subordinate_2": "it,dissolves,the,rock,when,acid,contacts,limestone",
+    "order_subordinate_beginner_2": "it,dissolves the rock,when acid contacts limestone"
+  },
+  {
+    "text_segment": "Volcanoes form where magma reaches Earth's surface. Some volcanoes erupt explosively, throwing ash and rock into the air. Others release lava in gentle flows.",
+    "question": "Describe how volcanoes release material",
+    "topic": "igneous_rocks",
+    "tiles_active": [
+      "volcanoes",
+      "release",
+      "lava and ash"
+    ],
+    "tiles_active_advanced": [
+      "volcanoes",
+      "release",
+      "lava",
+      "and",
+      "ash"
+    ],
+    "order_active_beginner_1": "volcanoes,release,lava and ash",
+    "order_active_1": "volcanoes,release,lava,and,ash",
+    "tiles_progressive": [
+      "volcanoes",
+      "are releasing",
+      "lava and ash"
+    ],
+    "tiles_progressive_advanced": [
+      "volcanoes",
+      "are",
+      "releasing",
+      "lava",
+      "and",
+      "ash"
+    ],
+    "order_progressive_beginner_1": "volcanoes,are releasing,lava and ash",
+    "order_progressive_1": "volcanoes,are,releasing,lava,and,ash",
+    "tiles_passive": [
+      "lava and ash",
+      "are released",
+      "by volcanoes"
+    ],
+    "tiles_passive_advanced": [
+      "lava",
+      "and",
+      "ash",
+      "are",
+      "released",
+      "by",
+      "volcanoes"
+    ],
+    "order_passive_beginner_1": "lava and ash,are released,by volcanoes",
+    "order_passive_beginner_2": "by volcanoes,lava and ash,are released",
+    "order_passive_1": "lava,and,ash,are,released,by,volcanoes",
+    "order_passive_2": "by,volcanoes,lava,and,ash,are,released",
+    "tiles_subordinate": [
+      "when magma reaches the surface",
+      "volcanoes",
+      "erupt"
+    ],
+    "tiles_subordinate_advanced": [
+      "when",
+      "magma",
+      "reaches",
+      "the",
+      "surface",
+      "volcanoes",
+      "erupt"
+    ],
+    "order_subordinate_beginner_1": "when magma reaches the surface,volcanoes,erupt",
+    "order_subordinate_beginner_2": "volcanoes,erupt,when magma reaches the surface",
+    "order_subordinate_1": "when,magma,reaches,the,surface,volcanoes,erupt",
+    "order_subordinate_2": "volcanoes,erupt,when,magma,reaches,the,surface"
   }
 ]
